@@ -1,8 +1,7 @@
 ---
 layout: post
-title: Pragmatic Programmer
+title: Pragmatic Programmer Book Writeup
 ---
-#Book Writeup#
 ![](/static/pragmatic-programmer.jpg)  
 #[The Pragmatic Programmer](http://www.amazon.com/Pragmatic-Programmer-Journeyman-Master/dp/020161622X)#  
 Andrew Hunter and David Thomas  
