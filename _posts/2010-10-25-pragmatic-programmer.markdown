@@ -1,6 +1,8 @@
 ---
 layout: post
-title: Pragmatic Programmer Book Writeup
+title: Pragmatic Programmer
+categories:
+- writeup
 ---
 ![](/static/pragmatic-programmer.jpg)  
 #[The Pragmatic Programmer](http://www.amazon.com/Pragmatic-Programmer-Journeyman-Master/dp/020161622X)#  

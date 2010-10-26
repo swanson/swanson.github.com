@@ -2,6 +2,8 @@
 layout: post
 title: Weekly Noise
 meta: October 24, 2010
+categories:
+- blog
 ---
 I was recently inspired by [this post](http://techblog.ironfroggy.com/2010/10/weekly-noise-quiet-before-storm.html), which lays out an interesting "discipline" for
 working on side-projects.  The basic idea is to set aside time each weekend to plan out what project you are going to work on during the coming week.  Then, after the

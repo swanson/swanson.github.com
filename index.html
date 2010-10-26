@@ -6,12 +6,19 @@ title: Matt Swanson
 <div id="home">
   <h1>Blog Posts</h1>
   <ul class="posts">
-    {% for post in site.posts %}
+    {% for post in site.categories.blog %}
+      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+</ul>
+
+  <h1>Book Writeups</h1>
+  <ul class="posts">
+    {% for post in site.categories.writeup %}
       <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
   </ul>
 
-  <h1>Recent Projects (2010)</h1>
+  <h1>Recent Open Source Projects (2010)</h1>
   <ul class="posts">
     <li><a href="http://github.com/swanson/stacktracker">StackTracker:</a> Cross-platform desktop notifier for the StackExchange API.</li>
     <li><a href="http://github.com/swanson/duel-of-tweets">Duel of Tweets:</a> Head-to-head polls conducted over Twitter, built in under 36 hours for SDC Chicago 2010 Hackathon</li>
