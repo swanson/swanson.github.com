@@ -1,0 +1,38 @@
+---
+layout: writeup
+title: Pro Git
+categories:
+- writeup
+---
+![](/static/pro-git.png)  
+[Pro Git](http://progit.org/book/)  
+Scott Chacon 
+ISBN: 1430218339
+
+---
+
+**What's the point?**
+This is the defacto book on `git`, the distributed version control system.  It explains how git works 
+(storing changes, branching, etc) and also details some distributed workflows that can be used in a team 
+setting.  Additionally, there are lots of neat tips and tricks to improve productivity when using git.
+
+**How was it?**
+I had some hands-on experience with git already (I have been using it as for my personal repositories for
+ about a year) so this book was a nice way to compliment my existing knowledge.  Some of the introductory
+ chapters were a bit boring since I knew the basics of using git, but I did not have a really solid 
+ understanding of branching so that chapter was really interesting.  The book uses a lot of diagrams and 
+ examples to illustrate the advantages of git and this really helped me finally understand why is 'better' than other VCSs.
+ The structure of the book is a little disjointed -- it is more of a reference book than a cover-to-cover 
+ read.  I particularly thought that the chapter on setting up a git server could have been moved to an 
+ appendix and I would have maybe liked more information on team workflows such as feature branching or 
+ [git-flow](http://nvie.com/posts/a-successful-git-branching-model/).
+
+**Who should read it?**
+If you use `git` on a regular basis already, you can probably skip this book.  Some people might like to 
+know about the internals, but most people just want something that works.  I think that for someone looking
+ to learn git you are probably better off just diving in and using it and then maybe using this book or the
+ excellent [GitHub Help pages](http://help.github.com/) when you get stuck.
+
+---
+Notes: I read the book online and it is available for free at
+[Pro Git](http://progit.org/book/).
