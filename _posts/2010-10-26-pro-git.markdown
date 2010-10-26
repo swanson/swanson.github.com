@@ -6,7 +6,7 @@ categories:
 ---
 ![](/static/pro-git.png)  
 [Pro Git](http://progit.org/book/)  
-Scott Chacon 
+Scott Chacon   
 ISBN: 1430218339
 
 ---
