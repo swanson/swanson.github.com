@@ -1,11 +1,11 @@
 ---
-layout: post
+layout: writeup
 title: Pragmatic Programmer
 categories:
 - writeup
 ---
 ![](/static/pragmatic-programmer.jpg)  
-#[The Pragmatic Programmer](http://www.amazon.com/Pragmatic-Programmer-Journeyman-Master/dp/020161622X)#  
+#[The Pragmatic Programmer: From Journeyman to Master](http://www.amazon.com/Pragmatic-Programmer-Journeyman-Master/dp/020161622X)#  
 Andrew Hunter and David Thomas  
 ISBN: 020161622X
 
