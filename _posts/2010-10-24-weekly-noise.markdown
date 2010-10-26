@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Weekly Noise
-meta: October 24, 2010
 categories:
 - blog
 ---
