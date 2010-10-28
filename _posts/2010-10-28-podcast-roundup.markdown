@@ -1,3 +1,10 @@
+---
+layout: post
+title: Podcast Roundup
+categories:
+- blog
+---
+
 I have a confession to make...I am a podcast-aholic.  I have a 30 minute commute to and from the office every day
 so I load up a CD with tech podcasts and listen to them as I drive.  I even wrote a script to download
 new episodes and prepare them to be burned to CDs.  There are about a dozen programming podcasts that I have listened
