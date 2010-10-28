@@ -13,6 +13,7 @@ to on a regular basis, but I wanted to share a few of my favorites that have bee
 #TechZing
 Release Schedule: Twice Weekly (Midweek interview, Weekend discussion), ~90 minute episodes   
 Topics: Tech, Start-ups, Hacker News-type stories   
+   
 [TechZing](http://techzinglive.com/) is currently my favorite podcast.  There are two episodes a 
 week: one interview show and one discussion show.  The interview shows are really interesting and feel more like you are
 sitting in on a conversation than a typical Q&A session.  The hosts (Justin Vincent and Jason Roberts) aren't afraid to
@@ -30,11 +31,13 @@ Here are a few of their interview shows that I really liked:
  - [TechZing 68](http://techzinglive.com/page/423/techzing-68-gabriel-weinberg-duckduckgo): Gabriel Weinberg & DuckDuckGo
  - [TechZing 38](http://techzinglive.com/page/187/techzing-38-pete-michaud-retired-at-25): Pete Michaud / Retired at 25   
 
+     
 ---
-
+   
 #The Changelog   
 Release Schedule: Weekly, ~30 minute episodes   
 Topics: Open source   
+   
 [The Changelog](http://thechangelog.com/) is a weekly show that explores up-and-coming open source software projects.
 The show typically uses an interview format; the hosts (Adam Stacoviak and Wynn Netherland) interview someone involved
 with the project (usually the creator) and they give an overview of the project, their motivations, etc.  There is 
@@ -56,11 +59,13 @@ Here are some of my favorite episodes to get you started:
  - [Episode 0.2.9](http://thechangelog.com/post/849754840/episode-0-2-9-coffeescript-with-jeremy-ashkenas): CoffeeScript with Jeremy Ashkenas
  - [Episode 0.1.5](http://thechangelog.com/post/415433641/episode-0-1-5-leah-culver-on-oauth-hurl-it-baconfile-and): Leah Culver on OAuth, Hurl.it, Baconfile, and more   
 
+    
 ---
-
+   
 #This Developer's Life   
 Release Schedule: About 3 times a month, ~45 minute episodes   
 Topics: Stories about developers   
+   
 [This Developer's Life](http://thisdeveloperslife.com/) is a new podcast -- the first episode was 2 months ago
 and, as of this post, there have been six episodes released.  The show is hosted by Rob Conery and Scott Hanselman (of HanselMinutes
 fame) and takes a more narrative approach than other tech podcasts.  Think of it like NPR for Programmers.  I have only 
