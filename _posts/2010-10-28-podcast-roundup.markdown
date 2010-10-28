@@ -24,7 +24,7 @@ awesome to hang out with.  I love hearing about their own bootstrapped businesse
 transparent and open about the decisions they make and what the outcomes are.  They both seem really down-to-earth and 
 relatable.  Neither is afraid to speak his mind and give his own "take" about what is going on the tech world.  Something 
 about them just feels "real", they aren't superstar bloggers or Hacker News celebrities -- just two normal hackers 
-hanging out and talking shop.  They seem to be gaining momentum and I am exciting to follow this podcast as it grows.
+hanging out and talking shop.  They seem to be gaining momentum and I am excited to follow this podcast as it grows.
 
 Here are a few of their interview shows that I really liked:  
 
