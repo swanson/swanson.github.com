@@ -18,7 +18,7 @@ build half a product, not a half-ass product.  Don't worry about how you will sc
 
 **How was it?**
 There are tons of practical examples in this book and it is full of great advice for running your own small business.  I am familiar with
- working in a lean environment, but there were some new ideas about how to make your customers happy that I think could be valuable.  
+ working in a lean environment, but there were some new ideas about how to make your customers happy that I think could be valuable.
  The book is a quick read, most of the chapters are broken down into 1-2 page essays which makes it easy to come back later and pick 
  up a new piece of advice that you may have missed the first time.  I really liked the closing thoughts in the book:
 
