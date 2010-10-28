@@ -1,4 +1,4 @@
-I have a confession...I am a podcast-aholic.  I have a 30 minute commute to and from the office every day
+I have a confession to make...I am a podcast-aholic.  I have a 30 minute commute to and from the office every day
 so I load up a CD with tech podcasts and listen to them as I drive.  I even wrote a script to download
 new episodes and prepare them to be burned to CDs.  There are about a dozen programming podcasts that I have listened
 to on a regular basis, but I wanted to share a few of my favorites that have been dominating my playlists recently.
@@ -6,18 +6,19 @@ to on a regular basis, but I wanted to share a few of my favorites that have bee
 ##TechZing
 ####Release Schedule: Twice Weekly (Midweek interview, Weekend discussion), ~90 minute episodes
 ####Topics: Tech, Start-ups, Hacker News-type stories
-[TechZing](http://techzinglive.com/) is currently my favorite podcast in my normal rotation.  There are two episodes a 
+[TechZing](http://techzinglive.com/) is currently my favorite podcast.  There are two episodes a 
 week: one interview show and one discussion show.  The interview shows are really interesting and feel more like you are
 sitting in on a conversation than a typical Q&A session.  The hosts (Justin Vincent and Jason Roberts) aren't afraid to
 interject their own thoughts and stories into the interview and I think it makes for a much more engaging show.
 
 But the weekend discussion show is what really shines.  Justin and Jason are both funny guys and I think they would be 
-awesome to hang out with.  I love hearing about their own bootstrapped businesses and start-up ideas, they are pretty 
-transparent and open about the decisions they make.  They both seem really down-to-earth and relatable.  Neither afraid to 
-speak his mind and give his own "take" about what is going on the tech world.  Something about them just feels "real", 
-they aren't superstar bloggers or Hacker News celebrities -- just two normal hackers hanging out and talking shop.
+awesome to hang out with.  I love hearing about their own bootstrapped businesses and start-up ideas; they are pretty 
+transparent and open about the decisions they make and what the outcomes are.  They both seem really down-to-earth and 
+relatable.  Neither is afraid to speak his mind and give his own "take" about what is going on the tech world.  Something 
+about them just feels "real", they aren't superstar bloggers or Hacker News celebrities -- just two normal hackers 
+hanging out and talking shop.  They seem to be gaining momentum and I am exciting to follow this podcast as it grows.
 
-Here are a few of the interview shows that I really liked:  
+Here are a few of their interview shows that I really liked:  
 
  - [TechZing 68](http://techzinglive.com/page/423/techzing-68-gabriel-weinberg-duckduckgo): Gabriel Weinberg & DuckDuckGo
  - [TechZing 38](http://techzinglive.com/page/187/techzing-38-pete-michaud-retired-at-25): Pete Michaud / Retired at 25
@@ -34,13 +35,13 @@ enough technical detail to keep the listeners interested and the hosts generally
 implemented? what other libraries is it similar too?  Each show usually ends with the guest sharing what's on their
 "open source radar".
 
-The show seems to have a slight bias toward Javascript and, to a less extent, Ruby projects, but most of the shows are
+The show seems to have a slight bias toward Javascript and, to a less extent, Ruby projects, but most of the shows should be
 interesting to developers who work in any language.  The podcast benefits greatly from exposure on Github (it is featured
 on the Explore page) and this is actually how I found out about it.
 
-All of the episodes are about pretty recent projects, so for those that like to stay current on the latest "flavor of
-the month" (I'm looking at you `node.js` diehards...) then I would recommend the Changelog.  This also means that even
-as you worked your way through the backlog, you are still hearing about pretty recent stuff.
+All of the episodes are about recent projects, so for those that like to stay current on the latest "flavor of
+the month" (I'm looking at you `node.js` diehards...) then I would recommend The Changelog.  This also means that even
+as you worked your way through the backlog, you are still hearing about current stuff.
 
 Here are some of my favorite episodes to get you started:  
 
@@ -53,10 +54,10 @@ Here are some of my favorite episodes to get you started:
 ##This Developer's Life
 ####Release Schedule: About 3 times a month, ~45 minute episodes
 ####Topics: Stories about developers
-[This Developer's Life](http://thisdeveloperslife.com/) is a pretty new podcast -- the first episode was about 2 months ago
-and, as of this post, there have been six episodes.  The show is hosted by Rob Conery and Scott Hanselman (of HanselMinutes
+[This Developer's Life](http://thisdeveloperslife.com/) is a new podcast -- the first episode was 2 months ago
+and, as of this post, there have been six episodes released.  The show is hosted by Rob Conery and Scott Hanselman (of HanselMinutes
 fame) and takes a more narrative approach than other tech podcasts.  Think of it like NPR for Programmers.  I have only 
 listened to one episode of the podcast so far, but it was really good.  I usually cherry-pick some episodes from HanselMinutes
--- even though I work with .NET at my job, I think that podcast tends to drift a bit too far into Microsoft-land -- and Scott 
+-- even though I work with .NET at my job, I think that podcast tends to drift a bit too far into Microsoft-land for my tastes -- but Scott 
 is a really good show host.  The production value of the show is quite high so I am excited to catch up on the backlog and 
 will definitely be subscribing to future episodes.
