@@ -1,6 +1,6 @@
 ---
 layout: writeup
-title: Hackers & Painters
+title: Hackers &amp; Painters
 categories:
 - writeup
 ---
