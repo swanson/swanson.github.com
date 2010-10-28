@@ -11,8 +11,8 @@ new episodes and prepare them to be burned to CDs.  There are about a dozen prog
 to on a regular basis, but I wanted to share a few of my favorites that have been dominating my playlists recently.
 
 #TechZing
-Release Schedule: Twice Weekly (Midweek interview, Weekend discussion), ~90 minute episodes
-Topics: Tech, Start-ups, Hacker News-type stories
+Release Schedule: Twice Weekly (Midweek interview, Weekend discussion), ~90 minute episodes   
+Topics: Tech, Start-ups, Hacker News-type stories   
 [TechZing](http://techzinglive.com/) is currently my favorite podcast.  There are two episodes a 
 week: one interview show and one discussion show.  The interview shows are really interesting and feel more like you are
 sitting in on a conversation than a typical Q&A session.  The hosts (Justin Vincent and Jason Roberts) aren't afraid to
@@ -32,9 +32,9 @@ Here are a few of their interview shows that I really liked:
 
 ---
 
-#The Changelog
-Release Schedule: Weekly, ~30 minute episodes
-Topics: Open source
+#The Changelog   
+Release Schedule: Weekly, ~30 minute episodes   
+Topics: Open source   
 [The Changelog](http://thechangelog.com/) is a weekly show that explores up-and-coming open source software projects.
 The show typically uses an interview format; the hosts (Adam Stacoviak and Wynn Netherland) interview someone involved
 with the project (usually the creator) and they give an overview of the project, their motivations, etc.  There is 
@@ -58,9 +58,9 @@ Here are some of my favorite episodes to get you started:
 
 ---
 
-#This Developer's Life
-Release Schedule: About 3 times a month, ~45 minute episodes
-Topics: Stories about developers
+#This Developer's Life   
+Release Schedule: About 3 times a month, ~45 minute episodes   
+Topics: Stories about developers   
 [This Developer's Life](http://thisdeveloperslife.com/) is a new podcast -- the first episode was 2 months ago
 and, as of this post, there have been six episodes released.  The show is hosted by Rob Conery and Scott Hanselman (of HanselMinutes
 fame) and takes a more narrative approach than other tech podcasts.  Think of it like NPR for Programmers.  I have only 
