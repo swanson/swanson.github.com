@@ -68,8 +68,9 @@ Topics: Stories about developers
    
 [This Developer's Life](http://thisdeveloperslife.com/) is a new podcast -- the first episode was 2 months ago
 and, as of this post, there have been six episodes released.  The show is hosted by Rob Conery and Scott Hanselman (of HanselMinutes
-fame) and takes a more narrative approach than other tech podcasts.  Think of it like NPR for Programmers.  I have only 
-listened to one episode of the podcast so far, but it was really good.  I usually cherry-pick some episodes from HanselMinutes
+fame) and takes a more narrative approach than other tech podcasts.  Think of it like NPR for Programmers.  
+
+I have only listened to one episode of the podcast so far, but it was really good.  I usually cherry-pick some episodes from HanselMinutes
 -- even though I work with .NET at my job, I think that podcast tends to drift a bit too far into Microsoft-land for my tastes -- but Scott 
 is a really good show host.  The production value of the show is quite high so I am excited to catch up on the backlog and 
 will definitely be subscribing to future episodes.
