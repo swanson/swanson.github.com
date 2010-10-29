@@ -125,7 +125,6 @@ ul.posts {
 
     .site .footer .contact {
       float: left;
-      margin-right: 3em;
     }
 
       .site .footer .contact a {
@@ -141,6 +140,15 @@ ul.posts {
       .site .footer .rss img {
         border: 0;
       }
+      
+      .site .footer .disclaimer
+      {
+        float: left;
+        font-size: 85%;
+        text-align: center;
+        width: 100%;
+      }
+      
 
 /*****************************************************************************/
 /*
