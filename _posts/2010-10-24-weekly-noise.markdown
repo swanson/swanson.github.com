@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Weekly Noise
+title: Weekly Noise - Week 1
 categories:
 - blog
 ---
