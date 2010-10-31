@@ -11,8 +11,9 @@ on in advance, I didn't have to waste much time thinking about what to do when
 I had some downtime.  With that said, I will be continuing this format.
 
 Once I got a decent workflow going for actually making posts (Markdown and I still don't
-seem to be getting along).  I have been using the **awesome** [Showdown](http://attacklab.net/showdown/
-) tool to do WYSIWYG editing of the posts and then running `jeykll --server`
+seem to be getting along), writing the posts was actually pretty quick.  I have been 
+using the **awesome** [Showdown](http://attacklab.net/showdown/) tool to do 
+WYSIWYG editing of the posts and then running `jeykll --server`
 locally to do a formating check and some spot-edits.  By the end of the week,
 there was almost no overhead to writing book reviews in this way -- I was 
 even able to do one during my lunch break.
