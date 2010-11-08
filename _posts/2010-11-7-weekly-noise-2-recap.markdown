@@ -39,6 +39,7 @@ Putting the `res.render()` in the callback ensures that the query has finished a
 page will receive the proper data.  I imagine this code could still be improved with some 
 kind of asynchronous `map` function instead of a for-loop, but it works well enough at the moment.
 
+<script src="https://gist.github.com/667308.js?file=gistfile1.js"></script>
 
 I also ran into a problem with binding jQuery `onClick` callbacks.  Since all of the CRUD functionality 
 uses Ajax POSTs, I was constructing the new announcement divs on-the-fly.  If you use the 
