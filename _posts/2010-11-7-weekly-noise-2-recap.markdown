@@ -34,13 +34,11 @@ and pass them to the template.  It took me a while to realize that I need to put
 rendering function in the callback for the database query.  Otherwise, my application was 
 happy to go on ahead and render the page with an empty array.
 
-<script src="https://gist.github.com/667310.js?file=gistfile1.js"></script>
 
 Putting the `res.render()` in the callback ensures that the query has finished and the 
 page will receive the proper data.  I imagine this code could still be improved with some 
 kind of asynchronous `map` function instead of a for-loop, but it works well enough at the moment.
 
-<script src="https://gist.github.com/667308.js?file=gistfile1.js"></script>
 
 I also ran into a problem with binding jQuery `onClick` callbacks.  Since all of the CRUD functionality 
 uses Ajax POSTs, I was constructing the new announcement divs on-the-fly.  If you use the 
