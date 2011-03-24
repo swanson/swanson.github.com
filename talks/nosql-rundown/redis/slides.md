@@ -15,7 +15,7 @@
 !SLIDE bullets
 # Caching
 * Hash input query
-* Shove result into redi
+* Shove result into redis
 * Set an expiration
 * Delete to invalidate
 
