@@ -33,8 +33,8 @@
 !SLIDE bullets
 # Task queues
 * LPOP/RPUSH on a list
-* Backend for `resque` and `restmq`
 * Blocking atomic POPs for workers
+* Backend for `resque` and `restmq`
 
 !SLIDE bullets
 #API Throttling
