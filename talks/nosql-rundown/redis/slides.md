@@ -32,7 +32,7 @@
 
 !SLIDE bullets
 # Task queues
-* LPOP/RPOP on a list
+* LPOP/RPUSH on a list
 * Backend for `resque` and `restmq`
 * Blocking atomic POPs for workers
 
