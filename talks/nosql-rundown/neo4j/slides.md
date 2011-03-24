@@ -1,13 +1,13 @@
-!SLIDE
-# Neo4j
+!SLIDE bullets center
+![neo4j](neo4j.jpg)   
 
-!SLIDE bullets
 * Stores graph data (edges, vertices)
 * Both can have properties
 * Transactional
 
-!SLIDE
-#matrix example pic
+!SLIDE center full-page
+![matrix](Matrix.png)
+http://wiki.neo4j.org/content/The_Matrix
 
 !SLIDE bullets
 * Network oriented data

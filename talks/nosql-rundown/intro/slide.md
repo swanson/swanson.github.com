@@ -1,6 +1,7 @@
-!SLIDE
-
+!SLIDE center
 # NoSQL Rundown
+![fault-tolerance](fault-tolerance.png)  
+##March 24, 2011
 
 !SLIDE
 # Goal
@@ -10,5 +11,5 @@
 # What is NoSQL? #
 
 * Document stores
-* Key-value stores
 * Graph stores
+* Key-value stores

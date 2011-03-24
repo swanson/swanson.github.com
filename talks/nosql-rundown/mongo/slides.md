@@ -1,7 +1,6 @@
-!SLIDE
-# MongoDB
+!SLIDE bullets center
+![mongodb](mongodb.png)  
 
-!SLIDE bullets
 * JSON-like documentrs
 * Index any field
 * Rich queries
@@ -9,7 +8,6 @@
 !SLIDE
 # If it makes sense for your model
 
-!SLIDE
     @@@ Python
     class User()
         string Name
@@ -22,7 +20,7 @@
         List<Widget> Items
 
 !SLIDE
-# Relational model starts to get bloated 
+## Relational model starts to get bloated 
     @@@ Sql
     tblUsers
         -tblUserAddresses
@@ -30,7 +28,7 @@
         -tblUserOrders
     tblOrders
         -tblOrderItems
-## Join, Join, Join ...
+# Join, Join, Join ...
 
 !SLIDE
     @@@ Json
@@ -75,5 +73,5 @@
 * Write heavy
 * Flexible reporting
 
-!SLIDE
-#hummingbird pic
+!SLIDE center
+<iframe src="http://player.vimeo.com/video/11613517" width="800" height="600" frameborder="0"></iframe>

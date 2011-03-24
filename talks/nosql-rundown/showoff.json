@@ -4,8 +4,8 @@
   "sections": [
     {"section":"intro"},
     {"section":"mongo"},
-    {"section":"redis"},
     {"section":"neo4j"},
+    {"section":"redis"},
     {"section":"outro"}
   ]
 }
