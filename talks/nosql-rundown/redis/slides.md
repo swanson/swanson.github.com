@@ -6,27 +6,35 @@
 * 100k reads/writes per sec
 
 !SLIDE bullets
+# Swiss army knife for data
 * Binary-safe strings
 * List, set, sorted set, hash
 * Pub/sub channels
 * Expirable keys
 
 !SLIDE bullets
-#Web app sessions
+# Caching
+* Hash input query
+* Shove result into redi
+* Set an expiration
+* Delete to invalidate
+
+!SLIDE bullets
+# Web app sessions
 * Only accessed by primary key anyways
 * Lower per-page overhead
 * Expire automatically
 
 !SLIDE bullets
-#`tail` logs
+# `tail` logs
 * LPUSH + LTRIM into a list
 * Track latest N events
 
 !SLIDE bullets
-#Message queue
+# Task queues
 * LPOP/RPOP on a list
 * Backend for `resque` and `restmq`
-* Built-in in pub/sub
+* Blocking atomic POPs for workers
 
 !SLIDE bullets
 #API Throttling

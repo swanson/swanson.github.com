@@ -1,7 +1,7 @@
 !SLIDE bullets center
 ![mongodb](mongodb.png)  
 
-* JSON-like documentrs
+* JSON-like documents
 * Index any field
 * Rich queries
 
@@ -20,7 +20,7 @@
         List<Widget> Items
 
 !SLIDE
-## Relational model starts to get bloated 
+# Relational model starts to get bloated 
     @@@ Sql
     tblUsers
         -tblUserAddresses
