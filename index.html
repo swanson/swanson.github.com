@@ -9,15 +9,21 @@ title: Matt Swanson
     {% for post in site.categories.blog %}
       <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
-</ul>
-
+  </ul>
+  <h1>Talks</h1>
+  <ul class="posts">
+    {% for post in site.pages %}
+      {% if post.categories== :talks %}
+        <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+      {% endif %}
+    {% endfor %}
+  </ul>
   <h1>Book Writeups</h1>
   <ul class="posts">
     {% for post in site.categories.writeup %}
       <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
   </ul>
-
   <h1>Recent Open Source Projects (2010)</h1>
   <ul class="posts">
     <li><a href="http://github.com/swanson/stacktracker">StackTracker:</a> Cross-platform desktop notifier for the StackExchange API.</li>
