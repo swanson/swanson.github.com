@@ -220,3 +220,10 @@ ul.posts {
 {
   margin: 0 !important;
 }
+
+.project-date {
+  color: #aaa;
+  font-family: Monaco, "Courier New", monospace;
+  font-size: 80%;
+  font-weight: normal;
+}
