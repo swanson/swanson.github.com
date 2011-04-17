@@ -215,3 +215,8 @@ ul.posts {
     margin:1em 3em;
     padding-left:1em;
 }
+
+.book-writeup p img 
+{
+  margin: 0 !important;
+}
