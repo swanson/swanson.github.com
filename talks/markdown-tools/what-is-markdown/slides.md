@@ -27,12 +27,12 @@
 \`one-liner\`  
 
 !SLIDE bullets
-# Use any of these sites?
-* Github
-* Stack Overflow
-* Reddit
+## Use any of these sites?
+# Github
+# Stack Overflow
+# Reddit
 
-# Then you are probably 
-# already using MD
+## Then you are probably 
+## already using Markdown
 
 
