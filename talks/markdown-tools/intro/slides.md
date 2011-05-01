@@ -8,5 +8,5 @@
 
 * What is Markdown?
 * Jekyll
-* Showoff
+* ShowOff
 * Docoo
