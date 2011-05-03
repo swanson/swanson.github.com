@@ -9,4 +9,4 @@
 * What is Markdown?
 * Jekyll
 * ShowOff
-* Docoo
+* Docco
