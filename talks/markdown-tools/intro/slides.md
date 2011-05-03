@@ -1,5 +1,5 @@
 !SLIDE center 
-# Markdown Tools
+# Writing with Markdown
 
 ## May 03, 2011
 
