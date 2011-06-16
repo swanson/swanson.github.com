@@ -1,7 +1,9 @@
 !SLIDE center 
 # Writing with Markdown
+## Matt Swanson
+## github.com/swanson
 
-## May 03, 2011
+## June 16
 
 !SLIDE bullets incremental
 # Agenda
