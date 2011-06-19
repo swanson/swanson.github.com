@@ -20,7 +20,7 @@ weekend and it can be difficult to demo.
 If you start worrying about prematurely optimizing database calls or scaling to
 thousands of concurrent connections, you will probably not get much done.
 You might have a solid architecture on the whiteboard (complete with load
-balances, message queues, multi-tiered caching, ... ), but nothing to do show
+balancers, message queues, multi-tiered caching, ... ), but nothing to show
 at the all-important demo. It's okay if not everything works, focus on getting
 the core functionality done first and then polishing if there is time left.
 
