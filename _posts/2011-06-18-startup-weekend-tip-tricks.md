@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Startup Weekend Tip & Tricks
+title: Startup Weekend Tip &amp; Tricks
 categories:
 - blog
 ---
