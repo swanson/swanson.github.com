@@ -17,17 +17,24 @@ html, body {
 
 body {
   background-color: white;
-  font: 13.34px helvetica, arial, clean, sans-serif;
-  *font-size: small;
+  font: 16px Palatino, 'Palatino Linotype', Georgia, serif;
   text-align: center;
+  color: #222222;
+  line-height: 24px;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-size: 100%;
+  color: #181818;
 }
 
 h1 {
-  margin-bottom: 1em;
+  font-size: 36px;
+  line-height: 50px;
+}
+
+h2 {
+  font-size: 24px;
+  line-height: 30px;
 }
 
 p {
@@ -35,15 +42,16 @@ p {
 }
 
 a {
-  color: #00a;
+  color: #0C84E8;
+  text-decoration: none;
 }
 
 a:hover {
-  color: black;
+  text-decoration: underline;
 }
 
 a:visited {
-  color: #a0a;
+  color: #446178;
 }
 
 table {
@@ -64,17 +72,19 @@ img {
 
 ul.posts {
   list-style-type: none;
-  margin-bottom: 2em;
+  margin-bottom: 10px;
 }
 
   ul.posts li {
-    line-height: 1.75em;
+    line-height: 22px;
+    font-size: 16px;
   }
 
   ul.posts span {
+    font-family: 'Lucida Console', 'Andale Mono', monospace;
     color: #aaa;
-    font-family: Monaco, "Courier New", monospace;
-    font-size: 80%;
+    padding-right: 5px;
+    font-size:14px;
   }
 
 /*****************************************************************************/
@@ -85,10 +95,9 @@ ul.posts {
 
 .site {
   font-size: 110%;
-  text-align: justify;
-  width: 40em;
-  margin: 3em auto 2em auto;
-  line-height: 1.5em;
+  text-align: left;
+  width: 960px;
+  margin: 0 auto;
 }
 
 .title {
@@ -120,21 +129,20 @@ ul.posts {
     color: #aaa;
   }
 
+  .meta {
+    margin: 0;
+  }
+
   .site .footer {
     font-size: 80%;
     color: #666;
     border-top: 4px solid #eee;
-    margin-top: 2em;
     overflow: hidden;
   }
 
-    .site .footer .contact {
+    .site .footer {
       float: left;
     }
-
-      .site .footer .contact a {
-        color: #8085C1;
-      }
 
     .site .footer .rss {
       margin-top: 1.1em;
@@ -201,14 +209,6 @@ ul.posts {
     background-color: #333;
   }
 
-#related {
-  margin-top: 2em;
-}
-
-  #related h2 {
-    margin-bottom: 1em;
-  }
-  
 #post blockquote {
     border-left:2px solid #999999;
     color:#999999;
@@ -226,4 +226,18 @@ ul.posts {
   font-family: Monaco, "Courier New", monospace;
   font-size: 80%;
   font-weight: normal;
+}
+
+#sidebar {
+  position: fixed;
+  width: 200px;
+  margin: 10px 0;
+  float: left;
+  font-size: 16px;
+}
+
+#content {
+  padding-left: 240px;
+  width: 720px;
+  margin: 10px 0;
 }
