@@ -25,6 +25,9 @@ to get the data but that's a little hacky and wouldn't work for making commits
 or pushing changes (theoretically possible now that you can Edit
 files online and commit the changes through the web interface?).
 
+*(Addendum: the v2 did have read access to git objects, but not write access, as
+technoweenie from Github points out [here](http://news.ycombinator.com/item?id=2746877))*
+
 Anyways, the Github v3 API exposes all the 
 [raw git data](http://developer.github.com/v3/git/) now, so that seems like a much
 more robust way to go.
@@ -55,10 +58,10 @@ this response:
 <script src="https://gist.github.com/1074083.js?file=blobs.json">
 </script>
 
-Interesting, the `content` field looks promising, but I *think* it is the
-git [loose object](http://book.git-scm.com/7_how_git_stores_objects.html), which 
-is the content deflated with [`zlib`](http://www.zlib.net/). Not exactly ideal 
-for showing the file contents to the user.
+Interesting, the `content` field looks promising, <strike>but I <i>think</i> it is the
+git <a href='http://book.git-scm.com/7_how_git_stores_objects.html'>loose object</a>,
+which is the content deflated with <a href='http://www.zlib.net/'>zlib</a>.</strike> 
+but it is base64 encoded. Not exactly ideal for showing the file contents to the user.
 
 A bit more digging and I found that the API has some 
 [custom MIME types](http://developer.github.com/v3/mimes/#git-blob). Adding the 
