@@ -245,3 +245,7 @@ ul.posts {
 .footer {
   width: 100%;
 }
+
+.gist {
+  font-size: 12px !important;
+}
