@@ -70,8 +70,9 @@ A bit more digging and I found that the API has some
 <script src="https://gist.github.com/1074083.js?file=blobsraw.json">
 </script>
 
-Bingo! Access to the file data and it's human readable. I suspect that using that
-MIME type causes the API to call `git cat-file` or something similar on the server.
+Bingo! Access to the file data and it's human readable. <strike>I suspect that using 
+that MIME type causes the API to call <code>git cat-file</code> or something similar on
+the server.</strike>
 
 Now, I need to be able to get the data for any file in the repo and I would
 prefer to not have to use the command line to get the SHA every time. So it looks
