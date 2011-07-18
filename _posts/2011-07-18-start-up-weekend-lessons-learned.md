@@ -5,9 +5,10 @@ categories:
 - blog
 ---
 
-This past weekend, SEP held its first internal Startup Weekend event. Around 15 software engineers and
-a handful of business and marketing people spent their weekend building out product ideas, from pitching
-the concept to doing market research to coding prototypes. 
+This past weekend, [SEP](http://www.sep.com/) held its first internal 
+[Startup Weekend](http://indianapolis.startupweekend.org/) event. Around 15 
+software engineers and a handful of business and marketing people spent their weekend building out product 
+ideas, from pitching the concept to doing market research to coding prototypes. 
 
 Ten ideas were pitched and after voting, three teams were formed to work on the ideas receiving the most
 votes.
@@ -31,9 +32,9 @@ We didn't plan it this way, but it ended up that almost all of the teams members
 for the first time. As much as I would have liked to pick my own 'dream team' of people that I know I work
 well with, I think that working with new people had a greater benefit. Several people expressed how cool it
 was to learn from other team members, whether it be new tools and techniques or just how they approach a
-problem. 
+problem in general. 
 
-That quiet guy from that one project you've never worked on? Ya, turns out he can crank out code and works 
+That quiet guy from that one project you've never worked on? Turns out he can crank out code and works 
 really well with you. And he's played around with `node.js` too! ;-)
 
 Those developers-turned-managers? They'll surprise you by hacking on code all weekend, they've still got it!
@@ -77,27 +78,31 @@ whether or not any of the projects live on past the weekend, I think the majorit
 experience and would be interested in working on a product team in the future.
 
 ##Not every engineer wants to be an entrepreneur
-At least for the inaugural event, I think that the engineers were more interesting in the ideas that were 
+At least for this inaugural event, I think that the engineers were more interesting in the ideas that were 
 pitched as having cool or interesting technology instead of those focused on business viability. The ideas 
 that I felt had the best chances of actually turning into profitable products ended up near the bottom of
 the list when everyone voted.
 
 In hindsight, this was probably not such a terrible scenario. Engineers have to enjoy coming to events like 
 this or else you aren't going to get much turnout; people are giving up their weekends, so it might be 
-unrealistic to expect them to focus on the business aspect.
+unrealistic to expect them to focus on the business aspects.
 
 In my [Startup Tips & Tricks](/blog/2011/06/18/startup-weekend-tip-tricks.html) post, I gave an example of 
-having one team member work on a marketing/sales website. I don't think anyone was really interested in 
-doing that once people started coding. Perhaps it's just a matter of finding the people that are interested 
-in that kind of stuff and getting them paired with people that have marketing and business development skills, 
-but I was a little bummed that the business side of product development got overshadowed.
+having one team member work on a marketing/sales website. No one was really interested in 
+doing that once people started coding.
+
+Perhaps it's just a matter of finding the developers that are interested in that kind of stuff and getting them
+paired with people that have marketing and business development skills, but I was a little bummed that the 
+business side of product development got overshadowed.
 
 ##Final thoughts
 To me, the weekend had the feel of a hackathon more than a 'traditional' startup weekend. When asked if it
 went as I had expected, I said it was different; not better or worse but it was just different. I had hopes
-that someone would come up with a great product that we couldn't **not** start pursuing. I don't know if
-that was the case with this batch -- my gut tells me "No" but what do I know, I'm just an engineer! I think
-we found some market opportunities but I don't know if SEP is really well positioned to capitalize on them.
+that someone would come up with a great product that we couldn't **not** start pursuing. 
+
+I'm not sure if that happened with this batch of ideas -- my gut tells me "No" but what do I know, I'm 
+just an engineer! I think we found some market opportunities but I don't know if SEP is well positioned to 
+capitalize on them.
 
 I don't know what the future of SEP startup weekends will be. The event may grow and evolve if we 
 continue having them (which seems like a given after talking to everyone involved). But even if the focus doesn't 
