@@ -87,7 +87,7 @@ In hindsight, this was probably not such a terrible scenario. Engineers have to 
 this or else you aren't going to get much turnout; people are giving up their weekends, so it might be 
 unrealistic to expect them to focus on the business aspects.
 
-In my [Startup Tips & Tricks](/blog/2011/06/18/startup-weekend-tip-tricks.html) post, I gave an example of 
+In my [Startup Weekend Tips & Tricks](/blog/2011/06/18/startup-weekend-tip-tricks.html) post, I gave an example of 
 having one team member work on a marketing/sales website. No one was really interested in 
 doing that once people started coding.
 
