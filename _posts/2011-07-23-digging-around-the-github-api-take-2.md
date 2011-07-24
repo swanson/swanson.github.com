@@ -103,7 +103,7 @@ magically work:
      }
 
 There is likely lots of complexity with branches and doing less trivial commits, but for the simple
-use-case of making a new commit on the latest version on the `master` branch I think could work.
+use-case of making a new commit on the latest version on the `master` branch I think it could work.
 
 ###What's the point again?
 
