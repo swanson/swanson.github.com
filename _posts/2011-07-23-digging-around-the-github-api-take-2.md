@@ -61,20 +61,20 @@ use JSON in the body as well, something like:
 After some investigating, I determined that the follow steps would result in a commit
 being added:
 
- * GET `/repo/:user/:repo/git/refs/heads/master` while authenticated 
+ * GET `/repos/:user/:repo/git/refs/heads/master`
    <ul><li>Store the SHA for the latest commit (SHA-LATEST-COMMIT)</li></ul>  
- * GET `/repo/:user/:repo/git/commits/SHA-LATEST-COMMIT`
+ * GET `/repos/:user/:repo/git/commits/SHA-LATEST-COMMIT`
    <ul><li>Store the SHA for the tree (SHA-BASE-TREE)</li></ul>
- * POST `/repo/:user/:repo/git/trees/` while authenticated
+ * POST `/repos/:user/:repo/git/trees/` while authenticated
    * Set `base_tree` to be SHA-BASE-TREE
    * Set `path` to be the full path of the file you are creating or editing
    * Set `content` to be the full contents of the file
    * From the response, get the top-level SHA (SHA-NEW-TREE)
- * POST `/repo/:user/:repo/git/commits` while authenticated
+ * POST `/repos/:user/:repo/git/commits` while authenticated
    * Set `parents` to be an array containing SHA-LATEST-COMMIT
    * Set `tree` to be SHA-NEW-TREE
    * From the response, get the top-level SHA (SHA-NEW-COMMIT)
- * POST `/repo/:user/:repo/git/refs/head/master` while authenticated
+ * POST `/repos/:user/:repo/git/refs/head/master` while authenticated
    * Set `sha` to be SHA-NEW-COMMIT
    * You may need to set `force` to be true
 
