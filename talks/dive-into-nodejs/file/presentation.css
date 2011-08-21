@@ -1,0 +1,9 @@
+.bearing {
+  font-size: 35px;
+  margin: 0 auto;
+}
+
+.bearing tr, .bearing td {
+  border: 2px solid black;
+  padding: 5px;
+}
