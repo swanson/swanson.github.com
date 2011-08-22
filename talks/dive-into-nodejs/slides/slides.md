@@ -17,11 +17,10 @@
 * Mainly used for HTTP
 * Similar to Python's Twisted
 
-!SLIDE
-##Quick Asynchronous Refresher
-![sync](sync.png)
-![threaded](threaded.png)
-![async](async.png)
+!SLIDE center
+##Quick Refresher
+![comparison](comparison.png)
+###[http://krondo.com/wp-content/uploads/2009/08/twisted-intro.html](http://krondo.com/wp-content/uploads/2009/08/twisted-intro.html)
 
 !SLIDE center
 #So where's the speedup?
