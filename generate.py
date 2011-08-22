@@ -8,7 +8,7 @@ p.add_argument('category', help='category (e.g blog, writeup)')
 args = p.parse_args()
 
 template = '''---
-layout: post
+layout: %s
 title: %s
 categories:
 - %s
@@ -23,7 +23,8 @@ def slugify(value):
     return re.sub('[-\s]+', '-', value)
 
 fn = str(date.today()) + '-' + slugify(args.title) + '.md'
-post = template % (args.title, args.category)
+layout = "writeup" if args.category == "writeup" else "post"
+post = template % (layout, args.title, args.category)
 
 with open('_posts/%s' % fn, 'w') as fp:
     fp.write(post)
