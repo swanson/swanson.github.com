@@ -32,7 +32,7 @@ But it is a [well-established fact][reg] that this simply isn't the case.
 It is irresponsible for a company to hire someone without knowing if they can
 code.
 
-So how do you answer this question? Here are three good that I like:
+So how do you answer this question? Here are three options that I like:
 
 --------
 
