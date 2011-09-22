@@ -15,7 +15,7 @@ trial runs][trial], [marathon on-site interviews][goog], the list goes on and on
 [gh]: http://code.dblock.org/github-is-your-new-resume
 [pp]: http://www.markhneedham.com/blog/2010/02/25/pair-programming-in-interviews/
 [goog]: http://www.crsr.net/Notes/Google.html
-[trial]: www.microsoft.com/.../5-tips-for-hiring-your-first-employee.aspx
+[trial]: http://www.microsoft.com/business/en-us/resources/management/recruiting-staffing/5-tips-for-hiring-your-first-employee.aspx
 
 Whatever methodology you subscribe to, one of the major questions that needs to be answered
 is: 
