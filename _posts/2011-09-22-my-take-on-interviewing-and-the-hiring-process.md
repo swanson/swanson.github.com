@@ -1,15 +1,21 @@
 ---
 layout: post
 title: My take on interviewing and the hiring process
-published: false
 categories:
 - blog
 ---
 
 There seem to be few topics that illicit a stronger reaction from developers than
 how to interview and hire programmers. Everyone seems to have their own idea of the best way to
-hire - algorithm puzzles, fizzbuzz, Github repos, pair programming, four week
-trial runs, marathon on-site interviews, the list goes on and on.
+hire - [algorithm puzzles][algo], [fizzbuzz][fb], [Github repos][gh], [pair programming][pp], [four week
+trial runs][trial], [marathon on-site interviews][goog], the list goes on and on.
+
+[algo]: http://projecteuler.net/
+[fb]: http://www.codinghorror.com/blog/2007/02/why-cant-programmers-program.html
+[gh]: http://code.dblock.org/github-is-your-new-resume
+[pp]: http://www.markhneedham.com/blog/2010/02/25/pair-programming-in-interviews/
+[goog]: http://www.crsr.net/Notes/Google.html
+[trial]: www.microsoft.com/.../5-tips-for-hiring-your-first-employee.aspx
 
 Whatever methodology you subscribe to, one of the major questions that needs to be answered
 is: 
@@ -19,12 +25,14 @@ Can the candidate program?
 People outside the industry will probably think this is a dumb question. Why would
 someone apply for a job as a programmer if they can't program? 
 
-But it is a well-established fact that this simply isn't the case. 
+But it is a [well-established fact][reg] that this simply isn't the case. 
+
+[reg]: http://weblog.raganwald.com/2007/01/dont-overthink-fizzbuzz.html
 
 It is irresponsible for a company to hire someone without knowing if they can
 code.
 
-So how do you answer this question?
+So how do you answer this question? Here are three good that I like:
 
 --------
 
@@ -34,13 +42,17 @@ This would be my preferred method because it is asynchronous. The candidate does
 anything special for you and the interviewer can browse through the code when it is
 convenient for them.
 
-Having side projects or working on open source is a good indicator that someone is
+Having [side projects][side] or working on open source is a good indicator that someone is
 passionate about their craft and has basic coding skills (and probably has the means to 
 improve them). 
 
+[side]: http://www.meetup.com/Indianapolis-Developers-with-Side-Projects/
+
 Please note that I said it is a __good indicator__, NOT the only indicator. Lots
 of excellent programmers aren't on Github and don't have open source code - there is no
-one "right way" to being a developer, each person has their own path.
+one "right way" to being a developer, each person has their [own path][path].
+
+[path]: http://ofps.oreilly.com/titles/9780596518387/walking_the_long_road.html
 
 Contrarian Carl says:
 >In my past job I worked on a proprietary, closed source project and I signed a NDA! I can't show
@@ -57,14 +69,20 @@ No problem, those are completely valid reasons. Move on to the next option.
 
 * Have them program something during an interview. 
 
-This part is deceptively tricky. You don't want to use one of those Easy-Once-You-Know-The-Trick 
+This part is deceptively tricky. You don't want to use one of those 
+[Easy-Once-You-Know-The-Trick][trick] 
 algorithm puzzles and you don't want to make the candidate feel like they are being treated
 as free labor.
 
-Everyone has their favorite, special algorithm for generating prime numbers using bitwise
-operators. And it would be neat to see if a candidate could jump right in and fix a low
-priority bug or two in your SaaS app. But I know, personally, that both of those extremes
-are very off-putting to me as potential employee.
+[trick]: http://www.techinterviews.com/programming-puzzles-riddles-and-interview-problems
+
+Everyone has their favorite, special algorithm for 
+[generating prime numbers using bitwise operators][sieve]. 
+And it would be neat to see if a candidate could jump right in and fix a low priority bug or 
+two in your SaaS app. But I know, personally, that both of those extremes are very 
+off-putting to me as potential employee.
+
+[sieve]: http://www.haskell.org/haskellwiki/Prime_numbers#Bitwise_prime_sieve_with_Template_Haskell
 
 I recommend coming up with your own simple, interview-only application. The problem domain
 should be small enough that a candidate can wrap your head around it in a few minutes with a minimal
@@ -76,10 +94,12 @@ resources they want and give them a choice of environment and tools if possible.
 under one hour.
 
 Here is a sample: garage sale finder. You need a database populated
-with sale locations, times, and descriptions (scrap CraigsList to seed). A web service/API
-with a couple methods (get all sales, get closest N sales to a location, get sale details).
-You can write a web, mobile, or even desktop front end. You could whip up a basic version
-in a few hours over a weekend without much difficulty.
+with sale locations, times, and descriptions (scrap [CraigsList][cl] to seed). Stand up a 
+web service/API with a couple methods (get all sales, get closest N sales to a location, 
+get sale details). You can write a web, mobile, or even desktop front end. You could whip
+up a basic version in a few hours over a weekend without much difficulty.
+
+[cl]: http://sfbay.craigslist.org/gms/
 
 The beauty of this approach is that you can swap in and out whichever component you want the
 candidate to write. 
