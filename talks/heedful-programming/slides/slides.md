@@ -1,5 +1,5 @@
 !SLIDE center full-page
-<img id="background-img" style="width:100%;position:absolute;top:0;left:0" src="/image/slides/carrier-bg.jpg" alt="">
+<img id="background-img" style="width:100%;position:absolute;top:0;left:0" src="/talks/heedful-programming/slides/carrier-bg.jpg" alt="">
 !SLIDE bullets
 #Fork of Dave Hoover's talk from SDC Chi 2011
 
