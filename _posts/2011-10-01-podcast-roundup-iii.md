@@ -24,7 +24,7 @@ for independence, and getting started instead of just thinking about starting. I
 makes me think and looking at myself in an introspective manner - plus the show has it's own quirky
 sense of humor and style that make it really enjoyable to listen to.
 
-I've been told by someone I recommendED the show to that the first few episodes are hard to get into,
+I've been told by someone I recommended the show to that the first few episodes are hard to get into,
 but I think if you can make it to episode 5 (my favorite episode of any podcast ever) you will 
 be hooked.
 
