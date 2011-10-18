@@ -18,7 +18,7 @@ developers**. And I'm going to steer my post a yet another direction.
 [mct]: http://www.sep.com/mcterry/2011/10/14/the-applebees-of-software-development-we-arent-your-neighborhood-waiters/
 [tet]: http://snibble.github.com/blog/2011/10/16/NeighborhoodSoftwareDevelopers.html
 
-Have you ever looked at the [Applebee's menu][menu]? It's one of those lamented 7-page deals that 
+Have you ever looked at the [Applebee's menu][menu]? It's one of those laminated 7-page deals that 
 always seem to hide the list of side dishes and comes with an insert for the monthly
 specials. There are probably 50+ different entrees on the menu - a consequence of trying to have
 something for everyone. 
