@@ -16,7 +16,7 @@ categories:
 **Problem:**  
 The boss wants to keep up-to-date on that new social media thing,
 but Twitter's UI is too advanced for him. He wants you to whip up a simple Tweet Viewer
-so he can use maximize his synergy and improve dynamics.
+so he can maximize his synergy and improve team dynamics.
 
 **Pre-Reqs:**
 * A web environment that can speak HTTP
@@ -55,13 +55,13 @@ When I visit `http://localhost/`, it should now display the
 3\. Linkify @mentions and #hashtags
 ---
 Any words beginning with the `@` characters are @mentions, they should
-be converted into links that point to the mentioned user's twitter page.
+be converted into links that point to the mentioned user's Twitter page.
 For example, `@github` should be a link to `http://twitter.com/github`.
 
 Any words beginning with the `#` are #hashtags, they should be converted
-into links that point to the twitter search page for that tag.
+into links that point to the Twitter search page for that tag.
 For example `#pun` should be a link to `http://twitter.com/search/%23pun` 
-(note the encoded `#`)
+(note the encoded `#`).
 
 4\. "Pretty print" timestamps
 ---
