@@ -35,7 +35,7 @@ but 2 weeks later, you've lost all interest. How is that perceived? Do you lack 
 follow through?
 
 Now do you go back in time and agree to the project even though you had 20 other things on your plate? 
-Now the desire to not under commit and miss an opportunity has caused you to over commit!
+The desire to not under commit and miss an opportunity has caused you to over commit!
 
 Maybe this isn't an issue for anyone else - feel free to chime in and tell me I'm way over analyzing -
 but as a young developer trying to improve my craft and move up the hierarchy at work this is 
@@ -61,6 +61,3 @@ and another one will never come.
 
 But I need to find the right balance of over/under committing. Striking that balance is a hard problem. 
 Like cache invalidation hard.
-
-I don't have all the answers or even a good closing message to pass on, but this a post I've been meaning
-to write for a while now.
