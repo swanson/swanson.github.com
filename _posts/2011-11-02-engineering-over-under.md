@@ -1,12 +1,11 @@
 ---
 layout: post
-title: "Engineering - Over/Under: Serial over committer"
-published: false
+title: "Engineering - Over/Under: I'm a Serial Over Committer"
 categories:
 - blog
 ---
 
-Over committing - committing yourself to too many things at once - is a pretty established anti-pattern.
+Over committing - taking on too many things at once - is a pretty established anti-pattern.
 
 When you have too much work in progress, you start to lose focus. You might be able to keep your
 head above water, but you end up just doing an okay job on everything, instead of 
@@ -20,8 +19,6 @@ Okay, so I'll avoid over committing to a bunch of stuff, you might say - I've go
 
 Well, not exactly.
 
-Under committing - not committing to anything new or challenging - isn't much better.
-
 Suppose your manager comes over and asks if you want to work on a speculative new project - it's interesting
 technology but it's going to require some extra work on your own time. You decide to pass on the
 opportunity. No problem.
@@ -30,12 +27,12 @@ Nothing undesirable happens immediately as a result - except that maybe your man
 out. But maybe the next time one of these projects comes up, they'll ask Bob first. Maybe that 
 speculative project turns into a full fledged project and you missed your chance to work on it.
 
-What if you said yes to the initial offer, but didn't follow through? You're gung-ho that afternoon
-but 2 weeks later, you've lost all interest. How is that perceived? Do you lack the ability to
-follow through?
+What if you said yes to the initial offer, but didn't follow through? You were gung-ho that afternoon
+but 2 weeks later, you've lost all interest. How is that perceived? Do you lack the ability to be a 
+finisher?
 
-Now do you go back in time and agree to the project even though you had 20 other things on your plate? 
-The desire to not under commit and miss an opportunity has caused you to over commit!
+With that in mind, do you go back in time and agree to the project even though you had 20 other things on 
+your plate?  The desire to not under commit and miss an opportunity has caused you to over commit!
 
 Maybe this isn't an issue for anyone else - feel free to chime in and tell me I'm way over analyzing -
 but as a young developer trying to improve my craft and move up the hierarchy at work this is 
@@ -59,5 +56,5 @@ out on any opportunities. I want to be that go-to person, that expert, that guy 
 impatient. And I have this irrational fear that I'll miss that one magically project that I'll love 
 and another one will never come.
 
-But I need to find the right balance of over/under committing. Striking that balance is a hard problem. 
+I need to find the right balance of over/under committing. And striking that balance is a hard problem. 
 Like cache invalidation hard.
