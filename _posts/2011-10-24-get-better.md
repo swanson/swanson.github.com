@@ -5,10 +5,12 @@ categories:
 - blog
 ---
 
-> *... the sooner you care, the better you'll make. The better you'll do. And the *
-> *better you'll live. *    
->
-> \- [Merlin Mann][merlin]
+<blockquote>
+  <p>... the sooner you care, the better you'll make. The better you'll do. And the 
+  better you'll live.</p>    
+  <cite><a href="http://www.43folders.com/2011/01/17/permission-to-be-awesome">
+  Merlin Mann</a></cite>
+</blockquote>
 
 [merlin]: http://www.43folders.com/2011/01/17/permission-to-be-awesome
 

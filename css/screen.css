@@ -34,12 +34,9 @@ h3 {
   margin: 1em 0;
 }
 
-p {
-  margin: 1em 0;
-}
-
 ul {
   margin: 1em 0;
+  list-style: disc;
 }
 
 a {
@@ -118,13 +115,6 @@ ul.posts span {
 
 #post pre code {
   border: none;
-}
-
-#post blockquote {
-    border-left:2px solid #999999;
-    color:#999999;
-    margin:1em 3em;
-    padding-left:1em;
 }
 
 .book-writeup p img 
