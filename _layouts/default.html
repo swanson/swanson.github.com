@@ -1,38 +1,46 @@
 <!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
+<!--[if lt IE 7 ]><html class="ie ie6" lang="en"> <![endif]-->
+<!--[if IE 7 ]><html class="ie ie7" lang="en"> <![endif]-->
+<!--[if IE 8 ]><html class="ie ie8" lang="en"> <![endif]-->
+<!--[if (gte IE 9)|!(IE)]><!--><html lang="en"> <!--<![endif]-->
 <head>
-   <meta http-equiv="content-type" content="text/html; charset=utf-8" />
-   <meta name="google-site-verification" content="VikwqTxe7ybu1qSM7LFgIQpvHLN0_j-iVzaLqF88vEw" />
-   <title>Matt Swanson - {{ page.title }}</title>
-   <meta name="author" content="Matt Swanson" />
+  <meta charset="utf-8">
+  <meta name="google-site-verification" content="VikwqTxe7ybu1qSM7LFgIQpvHLN0_j-iVzaLqF88vEw" />
+  <title>Matt Swanson - {{ page.title }}</title>
+  <meta name="author" content="Matt Swanson" />
 
-   <!-- Homepage CSS -->
-   <link rel="stylesheet" href="/css/screen.css?20110702" type="text/css" media="screen, projection" />
-   <link rel="stylesheet" href="/css/syntax.css" type="text/css" media="screen, projection" />
+  <link rel="stylesheet" href="/css/base.css">
+  <link rel="stylesheet" href="/css/skeleton.css">
+  <link rel="stylesheet" href="/css/screen.css">
+  <link rel="stylesheet" href="/css/layout.css">
+
 
 </head>
 <body>
+  <div class="container">
+    <div class="four columns sidebar">
+      <nav>
+        <h2><a href="/">Matt Swanson</a></h2>
+        <ul>
+        <p>I enjoy hacking on weekend projects and playing with new technology;
+          sometimes I write about it here.</p>
+        <p>
+          I'm a Software Engineer from Indiana and I ship code at <a href="http://www.sep.com/">SEP</a>.
+        </p>
 
-<div class="site">
-  <div id="sidebar">
-      <h3><a href="/">Matt Swanson</a></h3>
-      <p>I enjoy hacking on weekend projects and playing with new technology;
-      sometimes I write about it here.</p>
-      <p>
-      I'm a Software Engineer from Indiana and I ship code at <a href="http://www.sep.com/">SEP</a>.
-      </p>
-
-      <p>
-        Find me on:<br />
-        <a href="http://github.com/swanson/">github</a><br />
-        <a href="http://news.ycombinator.com/user?id=swanson">hacker news</a><br />
-        <a href="http://twitter.com/_swanson">twitter</a><br/>
-        <a href="http://stackoverflow.com/users/184609/swanson">stack overflow</a><br />
-        <a href="/atom.xml"><img style="display:inline;" src="/static/rss.png" /></a>
-      </p>
+        <p>
+          Find me on:<br />
+          <a href="http://github.com/swanson/">github</a><br />
+          <a href="http://news.ycombinator.com/user?id=swanson">hacker news</a><br />
+          <a href="http://twitter.com/_swanson">twitter</a><br/>
+          <a href="http://stackoverflow.com/users/184609/swanson">stack overflow</a><br />
+          <a href="/atom.xml"><img style="display:inline;" src="/static/rss.png" /></a>
+        </p>
+        </ul>
+      </nav>
   </div>
 
-  <div id="content">
+  <div class="twelve columns content">
     {{ content }}
   
     <div class="footer">
@@ -43,8 +51,6 @@
     </div>
   </div>
 </div>
-
-<a href="http://github.com/swanson"><img style="position: absolute; top: 0; right: 0; border: 0;" src="https://d3nwyuy0nl342s.cloudfront.net/img/7afbc8b248c68eb468279e8c17986ad46549fb71/687474703a2f2f73332e616d617a6f6e6177732e636f6d2f6769746875622f726962626f6e732f666f726b6d655f72696768745f6461726b626c75655f3132313632312e706e67" alt="Fork me on GitHub" /></a>
 
 <script type="text/javascript">
 
