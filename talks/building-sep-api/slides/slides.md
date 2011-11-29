@@ -63,6 +63,7 @@
 * Out of office switch
 
 !SLIDE bullets
+* Merit badges
 * Build/CI status
 * Employee internet presence
 * You Rock cards
