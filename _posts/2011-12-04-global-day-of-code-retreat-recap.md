@@ -36,7 +36,7 @@ out and Jon was willing to indulge me.
 We spent most of the time getting familiar with the problem domain and applying the Four Rules of the
 Universe to a Cell class. I introduced Jon to Ping Pong pairing, which was a concept that I was 
 introduced to by an [old coworker][mab] and we ended up getting all of our tests passing. We
-were about to move on to start model the Board when time was up.
+were about to move on to start modeling the Board when time was up.
 
 [mab]: http://spraints.github.com/
 
