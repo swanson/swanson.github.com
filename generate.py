@@ -9,7 +9,7 @@ args = p.parse_args()
 
 template = '''---
 layout: %s
-title: %s
+title: "%s"
 categories:
 - %s
 ---
