@@ -9,9 +9,11 @@ I usually have two or three side projects that I'm hacking on at any given
 time. I've tried sticking to one, but I like having a few options that I can
 hop between.
 
-I'm winding down one project I've been working on for a few weeks (an Android
-app for doing planning poker) which means it's time to reach into my
+I'm winding down one project I've been working on for a few weeks 
+([an Android app for doing planning poker][pp]) which means it's time to reach into my
 giant bag of projects and pull something out.
+
+[pp]: https://github.com/sep/planning-poker-android
 
 One thing I've been meaning to do more of is collaboration - with both people
 in Indianapolis and across the web. So I figured I'd toss out my current
