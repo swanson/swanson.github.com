@@ -5,7 +5,7 @@ categories:
 - blog
 ---
 
-I've been read Daniel Kahneman's excellent [*Thinking, Fast and Slow*][tfs] lately; the book introduces two types of thinking: System 1 and System 2.
+I've been reading Daniel Kahneman's excellent [*Thinking, Fast and Slow*][tfs] lately; the book introduces two types of thinking: System 1 and System 2.
 
 [tfs]: http://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374275637
 
