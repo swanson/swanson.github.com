@@ -1,6 +1,6 @@
 ---
 layout: writeup
-title: "There&rsquo;s Always a Duck"
+title: "There's Always a Duck"
 categories:
 - writeup
 ---
