@@ -6,7 +6,7 @@ categories:
 ---
 
 ![](/static/always-a-duck.jpeg)  
-[There&rsquo;s Always a Duck: A collection of essays about people, culture, and teams][link]   
+[There's Always a Duck: A collection of essays about people, culture, and teams][link]   
 Elisabeth Hendrickson    
 
 ---
