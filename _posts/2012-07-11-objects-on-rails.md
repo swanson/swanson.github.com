@@ -34,8 +34,8 @@ It was nice to see how topics I was familiar with from other contexts (dependenc
 injection, aggregate root) fit into a Rails app.
 
 **Who should read it?**  
-Anyone with interest in the on-going "how to do OO in Rails"; basic-to-intermediate
-Rails knowledge required to get the most out of this book
+Anyone with interest in the on-going "how to do OO in Rails" debate; 
+basic-to-intermediate Rails knowledge required to get the most out of this book
 
 [link]: http://objectsonrails.com/
 
