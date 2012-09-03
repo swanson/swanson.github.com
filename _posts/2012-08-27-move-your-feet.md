@@ -50,5 +50,5 @@ pairs of wicking socks I would need, etc &mdash; when the trainer looked over an
 comment that really resonated with me:
 
 <blockquote>
-<p style="font-size: 22px;">Wanna know the secret to improving your running? <strong>Move your feet.</strong></p>
+<p style="font-size: 18px;">Wanna know the secret to improving your running? <strong>Move your feet.</strong></p>
 </blockquote>

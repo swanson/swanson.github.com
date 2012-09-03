@@ -1,8 +1,12 @@
 ---
 layout: default
 ---
+
+<p class="meta"> {{ page.date | date: "%B %d, %Y" }} 
+<a href="/"><i class="home icon-home"></i></a>
+</p>
 <h1>&ldquo;{{ page.title }}&rdquo; Book Writeup</h1>
-<p class="meta"> {{ page.date | date: "%B %d, %Y" }} </p>
+
 
 <div id="post" class="book-writeup">
 {{ content }}
