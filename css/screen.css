@@ -134,6 +134,15 @@ ul.posts span {
   box-shadow: 0 1px 3px rgba(0, 0, 0, 0.055);
 }
 
+.pic img 
+{
+  padding: 5px;
+  border: 1px solid #AAA;
+  border-radius: 3px;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.055);
+  margin-bottom: 15px;
+}
+
 .project-date {
   color: #aaa !important;
   font-family: Monaco, "Courier New", monospace;
