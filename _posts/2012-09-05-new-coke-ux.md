@@ -22,8 +22,8 @@ Let me walk you through my first few encounters with a Freestyle.
 The first step is to get ice for my soda. Right off the bat, I run into issues. 
 Unlike the traditional soda fountains, the Freestyle has only a single "prong" instead of
 the four to eight prong design. The only instructions for getting ice after engraved in 
-the clear plastic prong &mdash; which is not super easy to read because it is not at eye-
-level and there are shadows due to the recessed nature of the dispensing area.
+the clear plastic prong &mdash; which is not super easy to read because it is not at eye-level 
+and there are shadows due to the recessed nature of the dispensing area.
 
 Next comes the selection of the flavor. I notice that the touchscreen is laggy. I don't 
 know if this is a hardware (the machines use a [projected capacitance screen][pc]) 
@@ -49,7 +49,7 @@ interface grievances I have.
 Here's more interaction issues that bug me about the Freestyle:
 
 * It's hard to operate with a tray of food in one hand. I have to put the cup into the 
-recessed area (after clearing off stray ice cubes) and hope that it does tip over and is
+recessed area (after clearing off stray ice cubes) and hope that it doesn't tip over and is
 positioned correctly under the nozzle
 * There is a delay between pressing the dispense soda button and the stream actually 
 starting and stopping. This makes it very difficult to top off your drink after the fizz
