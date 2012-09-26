@@ -64,5 +64,7 @@ different flavors until an employee asked them to make a decision).
 * Watch a younger kid try to use it. They can't reach the screen, they make a big mess.
 
 Maybe I have an irrational hatred for the Freestyle. But whenever I see one, I can't help
-thinking this is my generation's New Coke. Same great taste, now with a touchscreen 
-slapped on it!
+thinking this is my generation's [New Coke][nc]. Same great taste, now with a 
+touchscreen slapped on it!
+
+[nc]: http://en.wikipedia.org/wiki/New_Coke
