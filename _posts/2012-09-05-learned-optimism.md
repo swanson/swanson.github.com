@@ -6,7 +6,6 @@ categories:
 date: 2012-09-20
 ---
 
-
 ![](/static/learned-optimism.jpg)  
 [Learned Optimism: How to Change Your Mind and Your Life][link]   
 Martin Seligman    
@@ -47,4 +46,4 @@ If you're into pop psychology books (like I am), then it's worth a read. There i
 fascinating stuff about using optimism tests when hiring insurance salesmen that might
 also work for hiring developers.
 
-[link]: http://www.amazon.com/Learned-Optimism-Change-Your-ebook/dp/B005DB6S7K/ref=tmm_kin_title_0
+[link]: http://www.amazon.com/Learned-Optimism-Change-Your-ebook/dp/B005DB6S7K/
