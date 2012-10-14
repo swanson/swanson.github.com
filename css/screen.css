@@ -214,6 +214,7 @@ sup {
 
 #stalker a:hover {
   text-decoration: none;
+  color: #0C84E8;
 }
 
 .icon-hn {
@@ -237,4 +238,10 @@ sup {
 
 .home:hover {
   text-decoration: none;
+}
+
+.disclaimer p {
+  margin-top: 5px;
+  font-size: 11px;
+  text-align: center;
 }
