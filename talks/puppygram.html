@@ -1,0 +1,147 @@
+<html>
+<head>
+  <link href="http://netdna.bootstrapcdn.com/twitter-bootstrap/2.1.1/css/bootstrap.no-icons.min.css" rel="stylesheet">
+  <link href="http://netdna.bootstrapcdn.com/font-awesome/2.0/css/font-awesome.css" rel="stylesheet">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
+  <link href='http://fonts.googleapis.com/css?family=Gorditas' rel='stylesheet' type='text/css'>
+  <script src="http://netdna.bootstrapcdn.com/twitter-bootstrap/2.1.1/js/bootstrap.min.js"></script>
+  <style type="text/css">
+    body {
+      font-family: 'Gorditas' !important;
+      background-image: url(http://subtlepatterns.com/patterns/tileable_wood_texture.png);
+    }
+
+    .container {
+      padding-top: 40px;
+      background: white;
+      height: 100%;
+    }
+
+    .hipster {
+      -webkit-filter: blur(1px) sepia(75%) brightness(0.1);
+    }
+
+    .tilt {
+      -webkit-transform: rotate(-5deg);
+    }
+
+    .dead {
+      -webkit-filter: invert();
+    }
+
+    #puppy-div {
+      padding: 10px;
+      margin-top: 40px;
+      margin-bottom: 40px;
+    }
+
+    #puppy {
+      border: 1px solid #EEE;
+      min-height: 300px;
+    }
+
+    h1 {
+      text-align: center;
+      font-size: 50px;
+    }
+
+    h2 {
+      text-align: center;
+      font-size: 18px;
+      line-height: 18px;
+    }
+
+    a {
+      margin: 0 auto;
+    }
+
+    #sepia {
+      width: 100%;
+      font-size: 24px;
+      line-height: 30px;
+      padding: 10px;
+    }
+
+    :focus{
+      outline: none;
+    }
+
+    li {
+      font-size: 18px;
+      margin-bottom: 10px;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="row-fluid">
+      <div class="span12">
+        <div class="span6 offset3">
+          <h1><i class="icon-magic"></i> PUPPYGRAM</h1>
+          <h2>...because cats suck</h2>
+          <div id="puppy-div" class="thumbnail">
+            <img id="puppy" src="http://placedog.com/460/320" />
+          </div>
+          <div style="margin-bottom: 10px;">
+            <button href="#" id="sepia" class="btn btn-primary">
+              <i class="icon-camera-retro"></i> Put that puppy on instagram, yo!</button>
+          </div>
+          <hr />
+          <div class="pull-left">
+            <a href="#myModal" role="button" data-toggle="modal">wtf is this?</a>
+          </div>
+          <div class="pull-right">
+            <button href="#" id="reset" class="btn">Reset</button>
+            <button href="#" id="new" class="btn btn-success"><i class="icon-plus"></i> New Puppy</button>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="modal hide" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-hidden="true">x</button>
+        <h3 id="myModalLabel"><i class="icon-thumbs-up"></i> Awesome Stuff</h3>
+      </div>
+      <div class="modal-body">
+        <p>
+          <ul>
+            <li>Puppy placeholder from <a href="http://placedog.com">Placedog</a></li>
+            <li><code>-webkit-filter</code> and <code>-webkit-transform</code> for Instagram effect</li>
+            <li>CSS and modal dialog from <a href="http://twitter.github.com/bootstrap">Bootstrap</a></li>
+            <li>"Gorditas" Webfont from <a href="http://www.google.com/webfonts">Google Webfonts</a></li>
+            <li><a href="http://fortawesome.github.com/Font-Awesome/">FontAwesome</a> font-icons</li>
+            <li>Wood tile background by <a href="http://subtlepatterns.com/tileable-wood/">SubtlePatterns</a></li>
+          </ul>
+        </p>
+      </div>
+      <div class="modal-footer">
+        <button class="btn" data-dismiss="modal" aria-hidden="true">Close</button>
+      </div>
+    </div>
+  </div>
+  <script>
+    $(document).ready(function() {
+
+      $("#sepia").click(function(e) {
+        e.preventDefault();
+        $("#puppy").addClass("hipster");
+        $("#puppy-div").addClass("tilt");
+      });
+
+      $("#reset").click(function(e) {
+        e.preventDefault();
+        $("#puppy").removeClass("hipster");
+        $("#puppy-div").removeClass("tilt");
+      });
+
+      $("#new").click(function(e) {
+        e.preventDefault();
+        $("#puppy").addClass("dead");
+        setTimeout(function() {
+          history.go(0);
+        }, 2000);
+      });
+    });
+  </script>
+</body>
+</html>
