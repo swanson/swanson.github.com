@@ -18,7 +18,7 @@ There are five dysfunctions that plague workplace teams. A good team leader will
 how the dysfunctions are manifesting in their team and take action to overcome them.
  
 **How was it?**  
-The book uses an interesting format &mdash; a fiction company has hired a new CEO and 
+The book uses an interesting format &mdash; a fictional company has hired a new CEO and 
 we see meetings and interactions from her perspective as she tries to improve her 
 executive team. The concept was new to me and helped to make the dysfunctions more 
 concrete and the interactions more authentic.
