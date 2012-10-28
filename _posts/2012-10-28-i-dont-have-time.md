@@ -24,7 +24,7 @@ words today? How about emailing five bloggers that might be interested in review
 book this week?
 
 [Nathan Barry][nb], a normal guy from Idaho with a wife and kid, found the time to write 
-his book in [thousand words chunks][book]. 
+his book in [thousand word chunks][book]. 
 
 [nb]: http://nathanbarry.com/
 [book]: http://nathanbarry.com/commitment-changed-career/
