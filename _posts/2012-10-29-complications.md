@@ -37,7 +37,7 @@ as the project goes along.
 Surgeons participate in a Mortality and Morbidity panel; the purpose is not to assign
 blame but to assess and evaluate the decision making process to improve in the future.
 
-An interesting point raised in the book was that with all the new technology
+An interesting point raised in the book was how with all the new technology
 like MRIs and CT scans, the number of autopsies has dropped over the years. The test
 results give doctors a sense of confidence (sometimes a false sense); they don't
 believe that an autopsy will uncover anything they didn't know already.
