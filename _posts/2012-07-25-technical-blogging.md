@@ -35,4 +35,4 @@ Overall, I think the book would be very useful for someone interested in bloggin
 didn't know where to begin. For people that already have a blog, you can probably skim a
 few of the later sections and skip the rest.
 
-[link]: http://pragprog.com/book/actb/technical-blogging
+[link]: http://www.amazon.com/exec/obidos/ASIN/1934356883/ref=nosim&tag=bookreview0a1-20

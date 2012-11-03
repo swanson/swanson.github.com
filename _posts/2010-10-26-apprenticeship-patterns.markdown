@@ -5,7 +5,7 @@ categories:
 - writeup
 ---
 ![](/static/apprenticeship-patterns.png)  
-[Apprenticeship Patterns: Guidance for Aspiring Software Craftsman](http://oreilly.com/catalog/9780596518387/)  
+[Apprenticeship Patterns: Guidance for Aspiring Software Craftsman](http://www.amazon.com/exec/obidos/ASIN/0596518382/ref=nosim&tag=bookreview0a1-20)  
 Dave Hoover, Adewale Oshineye  
 ISBN: 0596518382
 

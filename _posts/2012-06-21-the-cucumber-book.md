@@ -29,4 +29,4 @@ book, unfortunately, didn't help much in that regard.
 I would recommend the book as a way for someone to pick up Cucumber if they were going to
 use it on a project, but I don't think it is strictly necessary.
 
-[link]: http://pragprog.com/book/hwcuc/the-cucumber-book
+[link]: http://www.amazon.com/exec/obidos/ASIN/1934356808/ref=nosim&tag=bookreview0a1-20

@@ -5,7 +5,7 @@ categories:
 - writeup
 ---
 ![](/static/getting-real.png)  
-[Getting Real](http://gettingreal.37signals.com/index.php)  
+[Getting Real](http://www.amazon.com/exec/obidos/ASIN/0578012812/ref=nosim&tag=bookreview0a1-20)  
 37 Signals   
 ISBN: 0578012812
 

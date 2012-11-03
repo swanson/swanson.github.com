@@ -6,7 +6,7 @@ categories:
 ---
 
 ![](/static/little-bets.jpg)  
-[Little Bets: How Breakthrough Ideas Emerge from Small Discoveries](http://petersims.com/book/)  
+[Little Bets: How Breakthrough Ideas Emerge from Small Discoveries](http://www.amazon.com/exec/obidos/ASIN/1439170428/ref=nosim&tag=bookreview0a1-20)  
 Peter Sims   
 ISBN: 9781439170427
 

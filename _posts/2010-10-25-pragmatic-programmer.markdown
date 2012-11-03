@@ -5,7 +5,7 @@ categories:
 - writeup
 ---
 ![](/static/pragmatic-programmer.jpg)  
-[The Pragmatic Programmer: From Journeyman to Master](http://www.amazon.com/Pragmatic-Programmer-Journeyman-Master/dp/020161622X)  
+[The Pragmatic Programmer: From Journeyman to Master](http://www.amazon.com/exec/obidos/ASIN/020161622X/ref=nosim&tag=bookreview0a1-20)  
 Andrew Hunt and David Thomas  
 ISBN: 020161622X
 

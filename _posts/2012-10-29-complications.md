@@ -57,4 +57,4 @@ perspective on similar problems.
 So if that sounds useful to you, check out this book.
 
 [better]: http://swanson.github.com/writeup/2012/10/14/better.html
-[link]: http://www.amazon.com/Complications-Surgeons-Notes-Imperfect-Science/dp/0805063196
+[link]: http://www.amazon.com/exec/obidos/ASIN/0312421702/ref=nosim&tag=bookreview0a1-20

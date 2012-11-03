@@ -5,7 +5,7 @@ categories:
 - writeup
 ---
 ![](/static/pro-git.png)  
-[Pro Git](http://progit.org/book/)  
+[Pro Git](http://www.amazon.com/exec/obidos/ASIN/1430218339/ref=nosim&tag=bookreview0a1-20)  
 Scott Chacon   
 ISBN: 1430218339
 

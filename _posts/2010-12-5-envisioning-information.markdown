@@ -6,7 +6,7 @@ categories:
 ---
 
 ![](/static/ei.png)  
-[Envisioning Information](http://www.edwardtufte.com/tufte/books_ei)  
+[Envisioning Information](http://www.amazon.com/exec/obidos/ASIN/0961392118/ref=nosim&tag=bookreview0a1-20)  
 Edward Tufte  
 ISBN: 0961392118
 

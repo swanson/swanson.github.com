@@ -5,7 +5,7 @@ categories:
 - writeup
 ---
 ![](/static/hackers-and-painters.png)  
-[Hackers & Painters: Big Ideas from the Computer Age](http://www.paulgraham.com/hackpaint.html)  
+[Hackers & Painters: Big Ideas from the Computer Age](http://www.amazon.com/exec/obidos/ASIN/1449389554/ref=nosim&tag=bookreview0a1-20)  
 Paul Graham   
 ISBN: 0596006624
 

@@ -37,4 +37,4 @@ This is a great mid-to-advanced level book on TDD. I don't know if I would recom
 it to someone completely new to the topic; but for someone with a bit of experience,
 this is the book you want to read.
 
-[link]: http://www.growing-object-oriented-software.com/
+[link]: http://www.amazon.com/exec/obidos/ASIN/0321503627/ref=nosim&tag=bookreview0a1-20

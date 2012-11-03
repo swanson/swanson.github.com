@@ -58,4 +58,4 @@ end-all, be-all predictor of success is an interesting one to explore in any fie
 Software certainly has many cases of individuals without strong academic backgrounds 
 succeeding through raw grit, determination, and courage.
 
-[link]: http://www.amazon.com/How-Children-Succeed-Curiosity-Character/dp/0547564651/
+[link]: http://www.amazon.com/exec/obidos/ASIN/0547564651/ref=nosim&tag=bookreview0a1-20

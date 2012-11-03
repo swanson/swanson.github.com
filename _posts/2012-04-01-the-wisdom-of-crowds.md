@@ -35,4 +35,4 @@ In the end, it was a very approachable book about behavioral economics (which I 
 in the same genre and style of Freakonomics and Malcolm Gladwell (which I also 
 like), but those looking for new and pragmatic approaches will probably be letdown.
 
-[link]: http://www.randomhouse.com/features/wisdomofcrowds/
+[link]: http://www.amazon.com/exec/obidos/ASIN/0385721706/ref=nosim&tag=bookreview0a1-20

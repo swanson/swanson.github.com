@@ -6,7 +6,7 @@ categories:
 ---
 
 ![](/static/software-craftsmanship.jpg)  
-[Software Craftsmanship: The New Imperative](http://www.amazon.com/Software-Craftsmanship-Imperative-Pete-McBreen/dp/0201733862)  
+[Software Craftsmanship: The New Imperative](http://www.amazon.com/exec/obidos/ASIN/0201733862/ref=nosim&tag=bookreview0a1-20)  
 Pete McBreen  
 ISBN: 0201733862
 

@@ -37,4 +37,4 @@ each section.
 All team leads, those looking to become team leads, anyone leading retrospectives - if you
 haven't read this book, I think you are really missing out.
 
-[link]: http://pragprog.com/book/dlret/agile-retrospectives
+[link]: http://www.amazon.com/exec/obidos/ASIN/0977616649/ref=nosim&tag=bookreview0a1-20

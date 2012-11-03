@@ -6,7 +6,7 @@ categories:
 ---
 
 ![](/static/personal-kanban.png)  
-[Personal Kanban - Mapping Work, Navigating Life](http://www.personalkanban.com/pk/personal-kanban-the-book/)  
+[Personal Kanban - Mapping Work, Navigating Life](http://www.amazon.com/exec/obidos/ASIN/1453802266/ref=nosim&tag=bookreview0a1-20)  
 Jim Benson & Tonianne DeMaria Barry  
 ISBN: 1453802266
 

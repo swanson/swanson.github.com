@@ -42,5 +42,5 @@ It's a quick read and good for those working on teams that you don't feel tight-
 while the fictional company does make software, a development background is not required
 to read this one.
 
-[link]: http://www.amazon.com/Five-Dysfunctions-Team-Leadership-Fable/dp/0787960756
+[link]: http://www.amazon.com/exec/obidos/ASIN/0787960756/ref=nosim&tag=bookreview0a1-20
 

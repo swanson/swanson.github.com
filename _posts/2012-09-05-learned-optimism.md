@@ -46,4 +46,4 @@ If you're into pop psychology books (like I am), then it's worth a read. There i
 fascinating stuff about using optimism tests when hiring insurance salesmen that might
 also work for hiring developers.
 
-[link]: http://www.amazon.com/Learned-Optimism-Change-Your-ebook/dp/B005DB6S7K/
+[link]: http://www.amazon.com/exec/obidos/ASIN/1400078393/ref=nosim&tag=bookreview0a1-20

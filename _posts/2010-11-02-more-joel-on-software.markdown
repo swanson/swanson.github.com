@@ -5,7 +5,7 @@ categories:
 - writeup
 ---
 ![](/static/more-joel.png)  
-[More Joel on Software](http://www.joelonsoftware.com)  
+[More Joel on Software](http://www.amazon.com/exec/obidos/ASIN/1430209879/ref=nosim&tag=bookreview0a1-20)  
 Joel Spolsky   
 ISBN: 1430209879
 

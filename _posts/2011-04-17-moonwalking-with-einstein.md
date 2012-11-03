@@ -5,7 +5,7 @@ categories:
 - writeup
 ---
 ![](/static/moonwalking-with-einstein.jpg)  
-[Moonwalking with Einstein: The Art and Science of Remembering Everything](http://www.amazon.com/Moonwalking-Einstein-Science-Remembering-Everything/dp/159420229X)  
+[Moonwalking with Einstein: The Art and Science of Remembering Everything](http://www.amazon.com/exec/obidos/ASIN/0143120530/ref=nosim&tag=bookreview0a1-20)  
 Joshua Foer  
 ISBN: 9781594202292
 

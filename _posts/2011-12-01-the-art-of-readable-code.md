@@ -6,7 +6,7 @@ categories:
 ---
 
 ![](/static/art-of-readable-code.png)  
-[The Art of Readable Code](http://shop.oreilly.com/product/9780596802301.do)  
+[The Art of Readable Code](http://www.amazon.com/exec/obidos/ASIN/0596802293/ref=nosim&tag=bookreview0a1-20)  
 Dustin Boswell, Trevor Foucher   
 ISBN: 0596802293
 

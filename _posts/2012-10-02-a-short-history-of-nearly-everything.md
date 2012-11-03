@@ -45,4 +45,4 @@ I found the book to be an enjoyable blend of learning and humor and would recomm
 anyone that has ever sat through a high school science class and wondered why it was so
 damn boring.
 
-[link]: http://www.amazon.com/Short-History-Nearly-Everything/dp/0767908171
+[link]: http://www.amazon.com/exec/obidos/ASIN/076790818X/ref=nosim&tag=bookreview0a1-20

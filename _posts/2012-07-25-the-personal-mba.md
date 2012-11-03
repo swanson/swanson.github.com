@@ -30,4 +30,4 @@ I would recommend anyone interested in learning more about business or entrepren
 to start by reading this book. Afterwards, you can pick a topic to dive deeper into 
 based on the author's other recommendations.
 
-[link]: http://book.personalmba.com/
+[link]: http://www.amazon.com/exec/obidos/ASIN/1591845572/ref=nosim&tag=bookreview0a1-20

@@ -46,5 +46,5 @@ topic for the past few months. The goal of the book is to help you convince
 co-works to adopt new ideas without resorting to the BS of office politics and
 top-down mandates - so if that sounds appealing to you, give this book a shot.
 
-[link]: http://pragprog.com/book/trevan/driving-technical-change
-[fc]: http://www.amazon.com/Fearless-Change-Patterns-Introducing-Ideas/dp/0201741571
+[link]: http://www.amazon.com/exec/obidos/ASIN/1934356603/ref=nosim&tag=bookreview0a1-20
+[fc]: http://www.amazon.com/exec/obidos/ASIN/0201741571/ref=nosim&tag=bookreview0a1-20
