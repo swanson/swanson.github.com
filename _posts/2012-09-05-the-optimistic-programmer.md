@@ -55,8 +55,10 @@ in the company.
 
 The difference? Alice was an optimist and Bob was a pessimist.
 
-When faced with adversity, Bob internal explanatory style told him that his troubles were
-permanent, pervasive in all aspects of his life, and he was the one to blame.
+When faced with adversity, Bob internal [explanatory style][es] told him that his 
+troubles were permanent, pervasive in all aspects of his life, and he was the one to blame.
+
+[es]: http://en.wikipedia.org/wiki/Explanatory_style
 
 Contrast that with Alice, who believed that what happened was just an unlucky setback in
 this one area of her life. She didn't let it effect her outside of work, but once she
