@@ -1,5 +1,5 @@
 from argparse import ArgumentParser
-import re
+import re, os
 from datetime import date
 
 p = ArgumentParser(description='Generate a jeykll blog post template')
@@ -28,4 +28,6 @@ post = template % (layout, args.title, args.category)
 
 with open('_posts/%s' % fn, 'w') as fp:
     fp.write(post)
-print "generated %s" % fn
+
+os.system('subl -n . _posts/%s' % fn)
+print "Crush it!"

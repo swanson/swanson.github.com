@@ -245,3 +245,8 @@ sup {
   font-size: 11px;
   text-align: center;
 }
+
+.footnotes { 
+  font-size: 14px;
+  font-style: italic;
+}
