@@ -9,7 +9,7 @@ Some bugs are the worst because they [cost money][money]. Some because they [cos
 
 Others would cite bugs buried deep in a [framework][rails] or [hardware][intel] as "the worst".
 
-For me, the worst kind of bugs are those were the solution, in hindsight, seemed
+For me, the worst kind of bugs are those where the solution, in hindsight, seemed
 so obvious. You end up more frustrated with the bug after knowing the fix.
 
 [money]: http://money.cnn.com/2012/08/09/technology/knight-expensive-computer-bug/index.html
