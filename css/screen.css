@@ -101,7 +101,22 @@ ul.posts span {
   border-top: 4px solid #eee;
   overflow: hidden;
 }
-    
+
+nav h1, nav h2 {
+  text-align: center;
+}
+
+nav hr {
+  margin-top: 10px;
+  margin-bottom: 15px;
+  border: dotted #ddd;
+  border-width: 1px 0 0;
+}
+
+#social {
+  margin-bottom: 10px;
+  font-size: 13px;
+}
 
 #post pre {
   border: 1px solid #ddd;
@@ -126,16 +141,14 @@ ul.posts span {
   border: none;
 }
 
-.book-writeup p img 
-{
+.book-writeup p img {
   padding: 5px;
   border: 1px solid #AAA;
   border-radius: 3px;
   box-shadow: 0 1px 3px rgba(0, 0, 0, 0.055);
 }
 
-.pic img 
-{
+.pic img {
   padding: 5px;
   border: 1px solid #AAA;
   border-radius: 3px;
@@ -205,6 +218,16 @@ sup {
 
 #home h2 {
   color: #0C84E8;
+}
+
+#logo {
+  margin-bottom: 25px;
+}
+
+#stalker {
+  display: inline-block;
+  height: 18px;
+  margin-left: 5px;
 }
 
 #stalker a {
