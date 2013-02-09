@@ -207,8 +207,14 @@ sup {
   color: #0C84E8;
 }
 
+#stalker a {
+  width: 29px;
+  overflow: hidden;
+  float: left;
+}
+
 #stalker i {
-  font-size: 24px;
+  font-size: 28px;
   margin-right: 5px;
 }
 
@@ -217,20 +223,14 @@ sup {
   color: #0C84E8;
 }
 
-.icon-hn {
-  background-color: #0C84E8;
-  font-weight: bold;
-  color: white;
-  font-size: 20px;
-  height: 24px;
-  width: 24px;
+span.icon-hn {
+  width: 14px;
+  height: 29px;
   text-align: center;
-  position: relative;
-  bottom: 5px;
-  margin-right: 5px;
+  font-weight: bold;
 }
 
-.home {
+.home, #toggle-theme {
   font-size: 24px;
   float: right;
   color: #AAA;
@@ -249,4 +249,12 @@ sup {
 .footnotes { 
   font-size: 14px;
   font-style: italic;
+}
+
+.icon-overlay {
+  font-size: 18px !important;
+  position: relative;
+  bottom: 27px;
+  left: 5px;
+  color: white;
 }
