@@ -224,8 +224,9 @@ sup {
 }
 
 span.icon-hn {
+  font-family: "open sans", sans-serif;
   width: 14px;
-  height: 29px;
+  line-height: 20px;
   text-align: center;
   font-weight: bold;
 }
