@@ -24,63 +24,17 @@
 <body>
   <div class="container">
     <div class="four columns sidebar">
-      <nav>
-        <h1>Hi.</h1>
-        <img src="/static/logo.png" id="logo" alt="Blog logo"/>
-        <h2>I'm <a href="/">Matt Swanson</a>.</h2>
-        <hr/>
-        <ul>
-        <p>I do computer things and sometimes write about it here.</p>
-        <p>
-          I'm a Software Engineer from Indiana and I ship code at <a href="http://www.sep.com/">SEP</a>.
-        </p>
-        <hr/>
-        <div>
-          <div id="social">
-            <strike>Stalk</strike> Follow me:
-            <div id="stalker">
-              <a title="swanson on Github" href="http://github.com/swanson/"><i class="icon-github-sign"></i></a>
-              <a title="swanson on Hacker News" href="http://news.ycombinator.com/user?id=swanson">
-                <i class="icon-sign-blank"></i>
-                <span class="icon-overlay icon-hn">Y</span>
-              </a>
-              <a title="_swanson on Twitter" href="http://twitter.com/_swanson"><i class="icon-twitter-sign"></i></a>
-              <a title="RSS feed" id="rss" href="/atom.xml">
-                <i class="icon-sign-blank"></i>
-                <i class="icon-rss icon-overlay"></i>
-              </a>
-            </div>
-          </div>
-        </div>
-        </ul>
-      </nav>
+      {% include sidebar.html %}
     </div>
 
     <div class="eleven columns content">
       {{ content }}
     
       <div class="footer">
-          <div class="disclaimer">
-          <p>The postings on this site are my own and don't necessarily represent my 
-          employer’s positions, strategies or opinions.</p>
-        </div>
+        {% include footer.html %}
       </div>
     </div>
   </div>
-
-<script type="text/javascript">
-
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-13005539-2']);
-  _gaq.push(['_trackPageview']);
-
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
-
-</script>
-
+{% include analytics.html %}
 </body>
 </html>
