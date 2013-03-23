@@ -76,4 +76,4 @@ into full-blown analysis paralysis. This is one of the reasons why I start my ra
 in advance. There is still a hard deadline to start and the fixed time block helps keep me from spending
 too much time [trying to find the perfect shoes][move].
 
-[move]: http://swanson.github.com/blog/2012/08/27/move-your-feet.html
+[move]: http://mdswanson.com/blog/2012/08/27/move-your-feet.html

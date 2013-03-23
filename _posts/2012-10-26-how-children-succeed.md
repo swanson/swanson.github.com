@@ -49,7 +49,7 @@ in her team, they were able to dominate schools that would be favored by more tr
 metrics (IQ, income level, quality of education).
 
 [b2w]: http://5by5.tv/b2w/87
-[lo]: http://swanson.github.com/writeup/2012/09/20/learned-optimism.html
+[lo]: http://mdswanson.com/writeup/2012/09/20/learned-optimism.html
  
 **Who should read it?**  
 While the book is primarily focused on education, I think the idea that IQ isn't the 

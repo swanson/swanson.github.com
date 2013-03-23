@@ -5,7 +5,7 @@ categories:
 - blog
 ---
 
-Its been a week since I started my first [Weekly Noise](http://swanson.github.com/blog/2010/10/24/weekly-noise.html)
+Its been a week since I started my first [Weekly Noise](http://mdswanson.com/blog/2010/10/24/weekly-noise.html)
 post and so far, I think it is a success.  Since I had planned out what to work
 on in advance, I didn't have to waste much time thinking about what to do when 
 I had some downtime.  With that said, I will be continuing this format.

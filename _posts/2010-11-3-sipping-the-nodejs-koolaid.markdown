@@ -6,7 +6,7 @@ categories:
 ---
 
 I've been toying around with the idea of building a 
-[small web application](http://swanson.github.com/blog/2010/10/31/weekly-noise-2-so-its-like-a-screensaver.html) 
+[small web application](http://mdswanson.com/blog/2010/10/31/weekly-noise-2-so-its-like-a-screensaver.html) 
 with a completely Javascript stack, from top-to-bottom.  After perusing GitHub for a bit, 
 I found that it is actually doable.  
 

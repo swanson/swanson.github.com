@@ -39,7 +39,7 @@ And most importantly, I think that my execution is better. Obviously I am biased
 in the comments are already addressed by my project. 
 
 In 
-*[Getting Real](http://swanson.github.com/writeup/2010/10/28/getting-real.html)*, I learned that having a rival 
+*[Getting Real](http://mdswanson.com/writeup/2010/10/28/getting-real.html)*, I learned that having a rival 
 or [enemy](http://gettingreal.37signals.com/ch02_Have_an_Enemy.php) can help you hone in on the
 problems you are trying to solve. In addition to Amazon book reviews and the perennial AskReddit/HackerNews book threads, I
 now have several direct competitors.

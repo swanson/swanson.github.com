@@ -19,7 +19,7 @@ get your blog added to **planet.sep.com**.
 * Try to write at least once a week, see how long you can keep the streak going
 * Need a topic? Come find me and I'll help you out
 * Be sure to hassle any of these people if they stop writing!
-	* [Matt Swanson](http://swanson.github.com/)
+	* [Matt Swanson](http://mdswanson.com/)
 	* [Jon Fuller](http://jonfuller.codingtomusic.com/)
 	* [Brian Ball](http://myotherpants.com/)
 	* [Matt Terry](http://www.sep.com/mcterry)

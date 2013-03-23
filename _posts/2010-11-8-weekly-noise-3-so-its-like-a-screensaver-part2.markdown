@@ -4,7 +4,7 @@ title: Weekly Noise 3 - "So it's like a screensaver..." (Part II)
 categories:
 - blog
 ---
-I got a lot done [last week](http://swanson.github.com/blog/2010/11/07/weekly-noise-2-recap.html) 
+I got a lot done [last week](http://mdswanson.com/blog/2010/11/07/weekly-noise-2-recap.html) 
 and I am really liking the **Weekly Noise** format.  I've even got a new idea 
 ready for after I finish this project -- and even though I want to jump ship and 
 start on that, I will be patient and follow my new system.

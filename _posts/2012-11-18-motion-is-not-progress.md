@@ -49,4 +49,4 @@ There is nothing worse than burning yourself out, only to have nothing to show f
 efforts.
 
 [as]: http://en.wikipedia.org/wiki/Attribute_substitution
-[myf]: http://swanson.github.com/blog/2012/08/27/move-your-feet.html
+[myf]: http://mdswanson.com/blog/2012/08/27/move-your-feet.html

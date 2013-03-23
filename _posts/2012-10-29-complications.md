@@ -56,5 +56,5 @@ perspective on similar problems.
 
 So if that sounds useful to you, check out this book.
 
-[better]: http://swanson.github.com/writeup/2012/10/14/better.html
+[better]: http://mdswanson.com/writeup/2012/10/14/better.html
 [link]: http://www.amazon.com/exec/obidos/ASIN/0312421702/ref=nosim&tag=bookreview0a1-20

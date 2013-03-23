@@ -6,7 +6,7 @@ categories:
 ---
 
 I was just about to give up on my 
-[screensaver project](http://swanson.github.com/blog/2010/10/31/weekly-noise-2-so-its-like-a-screensaver.html).
+[screensaver project](http://mdswanson.com/blog/2010/10/31/weekly-noise-2-so-its-like-a-screensaver.html).
 My progress had stalled 
 due to performance issues with `raphael.js` as I started adding more than a 
 handful of shapes.  I was ready to just slap a static background image on it 
@@ -48,7 +48,7 @@ Recap:
  - Updates are sent to all open instances of the page in real-time using [`socket.io`](http://socket.io/)
  - The background animation is rendered client-side using [`three.js`](https://github.com/mrdoob/three.js/) and is 
  based heavily on this [demo](http://test.sjeiti.com/jsflowfield4d/)
- - I worked on this project for three weeks (Weekly Noise [2](http://swanson.github.com/blog/2010/10/31/weekly-noise-2-so-its-like-a-screensaver.html), [3](http://swanson.github.com/blog/2010/11/08/weekly-noise-3-so-its-like-a-screensaver-part2.html), and [4](http://swanson.github.com/blog/2010/11/14/weekly-noise-3-recap.html))
+ - I worked on this project for three weeks (Weekly Noise [2](http://mdswanson.com/blog/2010/10/31/weekly-noise-2-so-its-like-a-screensaver.html), [3](http://mdswanson.com/blog/2010/11/08/weekly-noise-3-so-its-like-a-screensaver-part2.html), and [4](http://mdswanson.com/blog/2010/11/14/weekly-noise-3-recap.html))
  - I planned to spend 12 hours of free time on the project; I ended up spending around 20 hours in total on it
 
 What I learned:

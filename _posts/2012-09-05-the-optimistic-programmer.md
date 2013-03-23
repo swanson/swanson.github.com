@@ -68,7 +68,7 @@ So what's the point?
 
 This analysis comes from Martin Seligman's [Learned Optimism][lo].
 
-[lo]: http://swanson.github.com/writeup/2012/09/20/learned-optimism.html 
+[lo]: http://mdswanson.com/writeup/2012/09/20/learned-optimism.html 
 
 Seligman developed a simple questionnaire that can "diagnose" a persons level of optimism, 
 which he used to help companies hire employees that were highly optimistic (but deficient 
