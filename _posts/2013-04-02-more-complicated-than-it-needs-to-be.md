@@ -72,7 +72,7 @@ class SuggestionBox < Sinatra::Base
     suggestion = "#{params[:idea]} #{params[:category]}\n"
 
     # The Boss ♥'s Dropbox
-    system("echo '#{suggestion}' >> ~/Dropbox/suggestion_box.txt")
+    File.open('~/Dropbox/suggestion_box.txt', 'w') { |f| f.write(suggestion) }
 
     flash[:success] = "Thanks!"
     redirect to("/")
