@@ -14,7 +14,7 @@ ISBN: 0932633161
 
 **What's the point?**  
 Engineers love problem solving. We love coming up with solutions. We are
-fascinated by juicy problems, ones that stretches our intellect as we formulate
+fascinated by juicy problems, ones that stretch our intellect as we formulate
 a fix.
 
 However, if we rush in with solutions before we correctly define the problem
