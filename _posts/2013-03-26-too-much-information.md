@@ -42,7 +42,7 @@ on how in depth to go.
 
 I tend to err on the side of too little information and adjust as needed. You can always
 offer to go further if the client wants more information. I find this preferable to getting
-too technical and losing the focus on the discussion.
+too technical and losing the focus of the discussion.
 
 *"So how long will this task take?"*, the client asks at a status meeting.
 
