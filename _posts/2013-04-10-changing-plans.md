@@ -131,13 +131,13 @@ that to a `ProfitCalculator`. When the company expands overseas and we have
 to consider international tariffs and customs fees when calculation our profit,
 we will be thankful we only need to make changes in one place.
 
-If you find that your class has questions that don't seem reasonable, this is a
+If you find yourself asking questions don't seem reasonable, this is a
 sign that your class is not cohesive and is holding on to too much behavior. Try
 extracting that logic in a smaller, re-usable piece.
 
 ---
 
-Changing requirements will happen. We cannot anticipate how a project's plan may
+Requirement changes will happen. We cannot anticipate how a project's plan may
 change, but we can take modest steps to make our systems more flexible and
 better equipped to handle it.
 
