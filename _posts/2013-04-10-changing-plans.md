@@ -127,7 +127,7 @@ want to ask this same question to &mdash; a `YearlySalesReport`, a
 `StoreSalesReport`, a `ProductCatalogue`, etc.
 
 Instead, we could ask the `QuarterlySalesReport` for the list of sales and pass
-that to a `ProfitCalculator`. When the company expands over-seas and we have
+that to a `ProfitCalculator`. When the company expands overseas and we have
 to consider international tariffs and customs fees when calculation our profit,
 we will be thankful we only need to make changes in one place.
 
