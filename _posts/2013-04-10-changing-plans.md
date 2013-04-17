@@ -22,7 +22,7 @@ accommodate the new changes that need to be made.
 This is a scary thought! 
 
 There will never be a time on this project when you will know less about how
-changes will impact the rest of the system then **right now**. Only with time 
+changes will impact the rest of the system than **right now**. Only with time 
 and experience with the project will you begin to fully understand the 
 consequences of your earlier design choices.
 
