@@ -248,10 +248,11 @@ sup {
 
 span.icon-hn {
   font-family: "open sans", sans-serif;
-  width: 14px;
   line-height: 20px;
   text-align: center;
   font-weight: bold;
+  position: relative;
+  left: 7px;
 }
 
 .home, #toggle-theme {
@@ -276,7 +277,7 @@ span.icon-hn {
 }
 
 .icon-overlay {
-  font-size: 18px !important;
+  font-size: 16px !important;
   position: relative;
   bottom: 27px;
   left: 5px;
