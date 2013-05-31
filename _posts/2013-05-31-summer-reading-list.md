@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "New Developer Summer Reading List"
+title: "The Intern & New Hire Summer Reading List"
 categories:
 - blog
 disclaimer: true
@@ -10,10 +10,9 @@ disclaimer: true
 [The Pragmatic Programmer: From Journeyman to Master][pp]  
 Andrew Hunt, David Thomas  
 
-The Pragmatic Programmer &mdash; sometimes shortened to just PragProg &mdash; is widely considered
-as one of the most important books for developers. Even though it was written over 10 years ago, it
-holds up extremely well over time because it focuses less of specific technologies and more on solid
-methodologies and fundamental skills.
+The Pragmatic Programmer is widely considered as one of the most important books for developers. 
+Even though it was written over 10 years ago, it holds up extremely well over time because it 
+focuses less of specific technologies and more on solid methodologies and fundamental skills.
 
 For a new developer, this book is a whirlwind tour that &mdash; in a manageable 250 pages &mdash; covers 
 everything from getting the most out of your development tools to software design principles to career 
@@ -25,7 +24,7 @@ Sections to pay close attention to:
 * __Decoupling and the Law of Demeter__: smaller modules with minimal dependencies are good
 * __Programming by Coincidence__: learn to program deliberately
 
-Alternative: [Clean Code][cc] (more focus on the mechanics of writing good code)
+Alternative: [Clean Code][cc] (more focused on the mechanics of writing good code)
 
 [pp]: http://www.amazon.com/exec/obidos/ASIN/020161622X/ref=nosim&tag=bookreview0a1-20
 [cc]: http://www.amazon.com/exec/obidos/ASIN/0132350882/ref=nosim&tag=bookreview0a1-20
@@ -37,9 +36,9 @@ Alternative: [Clean Code][cc] (more focus on the mechanics of writing good code)
 Dave Hoover, Adewale Oshineye  
 
 Following the Pattern Language format, this book focuses on the journey from beginner developer
-to journeyman to master and introduces the concept of Software Craftsmanship. Some many of the
-"Context" sections were spot on with how I felt during my first six months as a professional that
-I was a little worried the authors were stalking me.
+to journeyman to master and introduces the concept of Software Craftsmanship. I was a little worried
+that the authors were stalking me because so many of the "Context" sections captured exactly with how 
+I felt during my first six months as a professional developer.
 
 This book is less popular than others, but it has been the most impactful book I've found for starting 
 a career in software. There is so much fantastic advice in this book that it deserves to be more
@@ -67,7 +66,7 @@ of general purpose advice for designing software that is a joy to work with and 
 has a very friendly writing style and this book explains concepts with an ease that is lacking in other
 books on the subject of design (I'm looking at you Gang of Four...).
 
-This book is a great introduction to some fairly advanced concepts &mdash; dependency injection,
+This book is a great introduction to some more advanced design concepts &mdash; dependency injection,
 Tell Don't Ask, role behavior, object composition &mdash; that doesn't feel overwhelming. A new developer
 won't pick up and master every concept the first time, but it is good to get exposure as early as possible.
 
