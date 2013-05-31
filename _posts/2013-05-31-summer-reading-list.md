@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Intern & New Hire Summer Reading List"
+title: "The Intern &amp; New Hire Summer Reading List"
 categories:
 - blog
 disclaimer: true
