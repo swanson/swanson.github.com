@@ -75,7 +75,7 @@ ultimately switched back to MVC.
 
 A new pattern can make sense in the abstract, but not be fully fleshed out when it comes to a
 concrete implementation. Do a **side-by-side comparison** of what actual code looks like using 
-competing techniques. You should be able to instinctive tell which option you prefer.
+competing techniques. You should be able to instinctively tell which option you prefer.
 
 A technical argument without code almost seems like an economist postulating about why the GDP
 went down without using any supporting data. It seems absurd in other fields, why not ours?
