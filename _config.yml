@@ -1,6 +1,7 @@
 pygments: true
 auto: true
 url: http://mdswanson.com
+lsi: false
 
 projects:
   - year: 2013
