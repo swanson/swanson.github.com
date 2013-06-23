@@ -45,4 +45,4 @@ It's a very personal and reflective activity and I would encourage you to try it
 finding some old code, reading your very first blog post, or revisiting a design from years ago.
 
 There is always more to learn and an infinite number of ways to improve, but don't forget to stop and
-evaluate how face you've come.
+evaluate how far you've come.
