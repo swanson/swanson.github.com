@@ -10,59 +10,32 @@ title: blog posts, talks, book writeups, projects
       <li><span>{{ post.date | date_to_string }} &raquo;</span><a href="{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
   </ul>
+
   <h2><i class="icon-bullhorn"></i> Talks</h2>
   <ul id="talk-posts" class="posts">
     {% for post in site.categories.talk %}
       <li><span>{{ post.date | date_to_string }} &raquo;</span><a href="{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
   </ul>
+
   <h2><i class="icon-book"></i> Book Writeups</h2>
   <ul id="book-posts" class="posts">
     {% for post in site.categories.writeup %}
       <li><span>{{ post.date | date_to_string }} &raquo;</span><a href="{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
   </ul>
+
   <h2><i class="icon-beaker"></i> Projects</h2>
   <p>Random side-projects, in various states of completion</p>
 
-  <h2 class="project-date">2013 &raquo;</h2>
-  <ul class="posts">
-    <li><a href="http://indyhackers.us6.list-manage.com/subscribe?u=244b5370d41b5cf4146ec517c&id=b51f983563">Hacks && Happenings:</a> Monthly email newsletter for Indianapolis-area developers</li>
-    <li><a href="http://www.tripli.co">Triplico:</a> Share YouTube videos among 3 people</li>
-    <li><a href="http://gemlicensechecker.herokuapp.com/">Gem License Checker:</a> Given a Gemfile, determine the license for your dependancies</li>
-  </ul>
-  
-  <h2 class="project-date">2012 &raquo;</h2>
-  <ul class="posts">
-    <li><a href="https://www.moraleapp.com">Morale:</a> Daily team mood tracking via email</li>
-    <li><a href="http://www.queuerunner.com">QueueRunner:</a> Track your TV shows</li>
-    <li><a href="https://github.com/swanson/ferrara">ferrara:</a> Fetch streaming links (Netflix, Hulu, iTunes) for TV episodes</li>
-    <li><a href="https://github.com/sep/planning-poker-android">Planning Poker:</a> Android app for conducting agile Planning Poker exercises</li>
-    <li><a href="http://mostpreciseweather.com/">Most Precise Weather:</a> The Most Precise Weather Forecast. Ever. (Accuracy not guarenteed)</li>
-    <li><a href="http://indyhackersapi.herokuapp.com/events">IndyHackers API:</a> JSON API for the IndyHackers event calendar</li>
-    <li><a href="http://indystartuplab.org/">Indy Startup Lab:</a> Weekly meetup for hackers to work on anything that needs doing</li>
-  </ul>
-
-  <h2 class="project-date">2011 &raquo;</h2>
-  <ul class="posts">
-    <li><a href="http://abe.heroku.com">abe:</a> Abraham Lincoln? Isn't he the President who...</li>
-    <li><a href="https://github.com/swanson/netflix-it-now">Netflix It Now:</a> Bookmarklet and small webapp to tell me when movies became streamable</li>
-    <li><a href="http://sep.com">dasher:</a> Company status dashboard, built with Node</li>
-    <li><a href="https://github.com/swanson/lanyon">lanyon:</a> WYSIWYG editor for Jeykll powered blogs, hooked directly into the Github API</li>
-    <li><a href="https://github.com/swanson/cloutbout">CloutBout:</a> Fantasy sports for Twitter, built in under 36 hours for SDC Chicago 2011 Hackathon</li>
-    <li><a href="http://sep.com">WhooWho!:</a> Lean CRM with recommendations, built at SEP Startup Weekend Summer 2011</li>
-    <li><a href="http://bibliotechnical.com">bibliotechnical:</a> Programming book recommendation site</li>
-    <li><a href="http://github.com/swanson/LandingPad.rb">LandingPad.rb:</a> Landing page app, deployed on Heroku using Sinatra + MongoDB</li>
-  </ul>
-
-  <h2 class="project-date">2010 &raquo;</h2>
-  <ul class="posts">
-    <li><a href="http://github.com/swanson/glorified-screensaver">Glorified Screensaver:</a> Real-time announcement board built with Node.js, socket.io, and three.js.</li>
-    <li><a href="http://github.com/swanson/stacktracker">StackTracker:</a> Cross-platform desktop notifier for the StackExchange API.</li>
-    <li><a href="http://github.com/swanson/duel-of-tweets">Duel of Tweets:</a> Head-to-head polls conducted over Twitter, built in under 36 hours for SDC Chicago 2010 Hackathon.</li>
-    <li><a href="http://github.com/swanson/flask-embedly">flask-embedly:</a> Flask extension that adds Embedly support to templating.</li>
-    <li><a href="http://github.com/swanson/autocastr">autocastr:</a> Automatically download and partition podcasts into CD-R sized folders.</li>
-    <li><a href="http://github.com/swanson/mongo-overflow">Mongo Overflow:</a> Small StackOverflow clone with a mongoDB backend.</li>
-    <li><a href="http://github.com/swanson/bumps">Bumps:</a> OBD-II iPhone logging application and server, used for pothole detection research.</li>
-  </ul>
+  {% for project_group in site.projects %}
+    <h2 class="project-date">{{ project_group.year }} &raquo;</h2>
+    <ul class="posts">
+      {% for project in project_group.projects %}
+        <li>
+          <a href="{{ project.url }}">{{ project.name }}:</a> {{ project.blurb }}
+        </li>
+      {% endfor %}
+    </ul>
+  {% endfor %}
 </div>
