@@ -5,12 +5,12 @@ categories:
 - blog
 ---
 
-[Medium][m] recently implemented a pretty simple feature that I think is 
+[Medium][m] recently implemented a simple feature that I think is 
 really great.
 
 [m]: https://medium.com
 
-At the top of every blog post, there is a small blurb telling you how long the
+At the top of every blog post, there is a blurb telling you how long the
 article will take to read &mdash; this post is a "3 min read" or a "12 min read".
 
 <div class="pic">
@@ -29,18 +29,17 @@ def minutes_to_read(post)
 end
 {% endhighlight %}
 
-But what is shows is that Medium has a deep understanding of how people consume
+But what it shows is that Medium has a deep understanding of how people consume
 blog posts. 
 
-Do you ever glance at the scroll bar to see if the post that everyone
-has been linking to is a huge essay or a quick hitter you can read while your
-code is compiling? Because I do all the time. And I've never seen this Time to Read
-feature on any other blog platform.
+Do you ever glance at the scroll bar to see if a post is a huge essay or a quick 
+hitter you can read while your code is compiling? Because I do all the time. And 
+I've never seen this "Time to Read" feature on any other blog platform.
 
 Additionally, it keeps readers on Medium for longer &mdash; even if you are
-only mildly interested in a topic, if you know it's only going to take 2 minutes 
-to finish, you'll stick it out. Since Medium's whole stance seems to be centered
-around high quality content, solving the sub-10 second bounce rate seems 
+only mildly interested in an article, if you know it's only going to take 2
+minutes to finish, you'll stick it out. Since Medium's whole vision seems to 
+be centered around high quality content, preventing a sub-10 second bounce seems 
 worthwhile.
 
 ---
