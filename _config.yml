@@ -3,6 +3,9 @@ auto: true
 url: http://mdswanson.com
 lsi: false
 
+colors:
+  highlight: '#0C84E8'
+
 projects:
   - year: 2013
     projects:
