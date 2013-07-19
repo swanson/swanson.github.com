@@ -81,7 +81,7 @@ thing, an Inception-like shot of someone reading a post about Stringer
 while using Stringer, and a final shot showing the feed management 
 page.
 
-<img src="https://www.github.com/swanson/stringer/raw/master/screenshots/instructions.png" alt="Stringer Screenshot" style="max-width:100%;">
+<img src="https://www.github.com/swanson/stringer/raw/master/screenshots/instructions.png" alt="Stringer Screenshot" style="max-width:600px;">
 
 Compare the [README][rm] of Stringer to some competitors: [CommaFeed][cf] 
 [selfoss][ss] [NewsBlur][nb]. You can tell if Stringer is going to be the right choice for you right away.
