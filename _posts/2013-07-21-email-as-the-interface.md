@@ -35,7 +35,7 @@ already, so an email interface has less cognitive overhead. You can get email on
 tablet, or laptop; no need to build native apps right off the bat.
 
 * **Less features**: you might not think is a benefit but email forces you to be very deliberate
-about design user interactions and simplifying processes. You can enabled a drag-and-drop AJAX
+about design user interactions and simplifying processes. You can't embed a drag-and-drop AJAX
 calendar in an email, but you could email someone three date options as links and let them
 pick one.
 
