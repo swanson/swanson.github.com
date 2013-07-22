@@ -43,7 +43,7 @@ pick one.
 
 * **The future is interesting**: Gmail recently came out with something called [Schemas][sc], a
 special markup you can add to emails to create buttons and other actions (add to calendar,
-write a review) directly in the user's inbox.
+write a review, etc) directly in the user's inbox.
 
 ![Gmail Add to Queue button]({{ site.url }}/static/gmail-add-to-queue.png)
 
@@ -62,8 +62,8 @@ a built-in differentiator.
 [st]: http://www.streak.com/
 
 * **Scaling is crazy cheap**: sending emails is ridiculously cheap right now. [Mandrill][md] is sending
-thousands of emails for [Moraleapp][morale] a month and we are still under the 12k/month free plan
-and are doing all the hard work of maintaining a positive reputation to avoid landing in spam.
+thousands of emails for [MoraleApp][morale] a month and we are still under the 12k/month free plan
+and Mandrill is doing all the hard work of maintaining a positive reputation to avoid landing in spam.
 
 * **Interesting technical challenges**: go tell a computer scientist you need an NLP
 system to parse expenses out of a free-form inbound email and watch their face light up. Or how 
