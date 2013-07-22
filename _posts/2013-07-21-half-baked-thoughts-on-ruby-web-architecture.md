@@ -145,7 +145,7 @@ end
 
 Instead of using a `scope` or putting more methods on `Story`, we just do the querying behind
 a clean `StoryRepository#read` interface. This is definitely not common in the Rails apps I've
-seen. I really like using this pattern: my controller is cluttered with sort order or pagination
+seen. I really like using this pattern: my controller isn't cluttered with sort order or pagination
 stuff, my model doesn't need to know every possible way a caller wants to query it, I can
 stub out that nasty method chain in a test easily.
 
