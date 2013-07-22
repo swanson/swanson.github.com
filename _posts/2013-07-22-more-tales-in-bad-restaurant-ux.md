@@ -35,7 +35,7 @@ difference between the King Club and the McAllister's Club?!?
 
 This information is relegated to the very bottom of each column
 on the new menu boards. And worse, it only displays the details
-for whatever item
+for whichever item
 is "active". The screens cycle through the list of sandwiches 
 [like a carousel][c], only revealing what the heck is on the Spud 
 Óle if you happen to glance over at the right time.
@@ -54,7 +54,7 @@ tap the menu item to select it &mdash; but this isn't an app! It's a
 
 The font size scales based on how many items are in each category
 so you have the desserts at 24px and the sandwiches at a squint-worthy
-13px write next to each other. You literally cannot read the list of 
+13px right next to each other. You literally cannot read the list of 
 sides (a choice that every single customer has to make!) until you 
 are at the register. Ugh.
 
@@ -63,7 +63,7 @@ and make it easier to swap in new menu items. But I can't imagine how
 this passed through any kind of user testing. At the end of the day,
 every minute spent explaining what is on a sandwich slows down the 
 process for everyone. Go to McAllister's during the lunch rush and you
-will find a line of the door so speed does matter.
+will find a line wrapped around the restaurant so speed does matter.
 
 My recommendation: the old menu boards worked great, why don't you
 just digitize them instead of rolling out this frustrating carousel of
