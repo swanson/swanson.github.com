@@ -22,7 +22,7 @@ public or private, and an optional caption.
 
 ## Starting Point
 
-[![]({{site.url}}/static/chops-upload-ux-0-thumb.png)]({{site.url}}/static/chops-upload-ux-0.png)
+[![]({{site.url}}/static/chops-upload-ux-0-thumb.png)]({{site.url}}/static/chops-upload-ux-0.png) 
 
 It is pretty rough around the edges &mdash; but I will say it is
 completely functional and works great! It's just kinda ugly.
