@@ -17,7 +17,7 @@ code instead of books.
 [la]: http://www.leansoftwarearchitecture.com/
 
 The idea of DCI &mdash; as I have cystallized it &mdash; is to extract behavior into groups
-of roles or actions and then inject this new behavior until objects. 
+of roles or actions and then inject this new behavior into objects. 
 
 The canonical example, instead of this:
 
