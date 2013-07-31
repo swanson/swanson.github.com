@@ -5,7 +5,7 @@ categories:
 - blog
 ---
 
-[T-shaped people][t] are all the rage right now in knowledge work pop culture.
+[T-shaped people][t] are all the rage right now in knowledge-work pop-culture.
 
 [t]: http://en.wikipedia.org/wiki/T-shaped_skills
 
