@@ -87,7 +87,7 @@ very beginning).
 When you work on something that is yours, when you have skin in the game, you
 suddenly become a perfectionist. Could I delegate some development work to
 another person? Sure, I *could*. But it is easier to just do it myself, that 
-way it will be right and how I want it. I've been that guy so much; it's
+way it will be "right" and how I wanted it. I've been That Guy so much; it's
 something I'm really trying to work on.
 
 And when I did delegate some non-programming stuff, it didn't go much better.
@@ -120,7 +120,7 @@ Mark's approach, it probably works better.
 
 But since the difference between saying you are going to be deliberate and
 actually doing it is more than most people (myself included) can overcome, I'd
-say find something you actually care about and then don't let anything slow you 
+say find something you really care about and then don't let anything slow you 
 down.
 
 You'll either get more T-shaped or fail with style. Either way it will be a fun
