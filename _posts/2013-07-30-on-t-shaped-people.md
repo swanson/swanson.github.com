@@ -23,11 +23,11 @@ and provide more overall value to a project than someone who is just a
 
 Slightly different variations of this type of person have been
 in vogue lately: someone with [Founder Skills][fs], a [Hybrid][h], a 
-[Full Stack Product Hacker][fs], etc.
+[Full Stack Product Hacker][ph], etc.
 
 [fs]: http://www.paulgraham.com/founders.html
 [h]: http://www.hybridconf.net/
-[fs]: http://www.etsy.com/full-stack-product-hacker
+[ph]: http://www.etsy.com/full-stack-product-hacker
 
 I came across an old &mdash; in internet time &mdash; [article from Mark Otto][mdo] 
 (pre-Bootstrap fame!) about investing in gaining T-shaped skills as a fresh-out 
