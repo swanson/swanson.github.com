@@ -55,7 +55,7 @@ the app, it starts a gradual back-off. If I stop responding to daily emails, it
 starts sending them every few days, then every week, then just stops completely.
 
 This is another trick that Leanpub should steal. I've gotten 5 emails about
-updates to a certain book I bought. I haven't click any of the "download update"
+updates to a certain book I bought. I haven't clicked any of the "download update"
 links in any of the emails. Why doesn't Leanpub start emailing less often? Maybe
 only when a major update happens, instead of several minor ones?
 
