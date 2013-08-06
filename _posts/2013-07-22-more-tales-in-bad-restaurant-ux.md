@@ -69,7 +69,7 @@ My recommendation: the old menu boards worked great, why don't you
 just digitize them instead of rolling out this frustrating carousel of
 sadness?
 
-[Addendum, 08/05/2013]: Overheard some McAllister's
+\[Addendum, 08/05/2013\]: Overheard some McAllister's
 employees talking about the downsides of the new system.
 They agreed that the boards were very pretty, but that they
 had been receiving four times as many questions about items
