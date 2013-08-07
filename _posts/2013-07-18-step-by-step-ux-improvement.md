@@ -17,7 +17,7 @@ allow for project screenshots to be uploaded and displayed, but it
 could use some UI/UX love.
 
 <a href="{{site.url}}/static/chops-ux-step-0.png">
-<img alt="Mission Belt note" src="{{site.url}}/static/chops-ux-step-0-thumb.png">
+<img alt="Chops UX Step 0" src="{{site.url}}/static/chops-ux-step-0-thumb.png">
 </a>
 
 <br/>
@@ -26,7 +26,7 @@ could use some UI/UX love.
 ## Scenario: A project with no screenshots
 
 <a href="{{site.url}}/static/chops-ux-step-1.png">
-<img alt="Mission Belt note" src="{{site.url}}/static/chops-ux-step-1.png">
+<img alt="Chops UX Step 1" src="{{site.url}}/static/chops-ux-step-1.png">
 </a>
 
 Observations: 
@@ -47,12 +47,12 @@ making a better placeholder image
 prevent the user from performing an "empty action"
 
 <a href="{{site.url}}/static/chops-ux-step-2.png">
-<img alt="Mission Belt note" src="{{site.url}}/static/chops-ux-step-2.png">
+<img alt="Chops UX Step 2" src="{{site.url}}/static/chops-ux-step-2.png">
 </a>
 
 ## Scenario: A project with one screenshot
 <a href="{{site.url}}/static/chops-ux-step-3.png">
-<img alt="Mission Belt note" src="{{site.url}}/static/chops-ux-step-3.png">
+<img alt="Chops UX Step 3" src="{{site.url}}/static/chops-ux-step-3.png">
 </a>
 
 Observations:
@@ -72,12 +72,12 @@ throughout the app) and more terse
 * Swap in dot separator
 
 <a href="{{site.url}}/static/chops-ux-step-2a.png">
-<img alt="Mission Belt note" src="{{site.url}}/static/chops-ux-step-2a.png">
+<img alt="Chops UX Step 4" src="{{site.url}}/static/chops-ux-step-2a.png">
 </a>
 
 ## Scenario: A project with multiple screenshots
 <a href="{{site.url}}/static/chops-ux-step-3.png">
-<img alt="Mission Belt note" src="{{site.url}}/static/chops-ux-step-3a.png">
+<img alt="Chops UX Step 5" src="{{site.url}}/static/chops-ux-step-3a.png">
 </a>
 
 Observations:
@@ -86,7 +86,7 @@ Observations:
 
 ## Final tweaks
 <a href="{{site.url}}/static/chops-ux-step-4.png">
-<img alt="Mission Belt note" src="{{site.url}}/static/chops-ux-step-4.png">
+<img alt="Chops UX Step 6" src="{{site.url}}/static/chops-ux-step-4.png">
 </a>
 
 * I added a screenshot icon to the placeholder using [FontAwesome][fa] for a 
