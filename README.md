@@ -4,10 +4,11 @@ Spelling/grammar corrections are always welcome via Pull Requests and much appre
 
 ---
 
-License
+### License
 The following directories and their contents are Copyright Matt Swanson. You may not reuse anything therein without my permission:
 
 * _posts/
+* talks/
 * static/
 
 All other directories and files are MIT Licensed. 
