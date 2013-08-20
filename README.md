@@ -1,6 +1,20 @@
-The Jekyll source for [http://mdswanson.com](http://mdswanson.com), which contains my blog, talks, and book writeups.
+### [My Blog](http://mdswanson.com)
 
-Spelling/grammar corrections are always welcome via Pull Requests and much appreciated.
+The [Jekyll](http://jekyllrb.com/) source for [http://mdswanson.com](http://mdswanson.com), which contains my blog, talks, and book writeups.
+
+![](https://raw.github.com/swanson/swanson.github.com/master/screenshots/home.png)
+
+Spelling/grammar corrections are always welcome (and much appreciated :heart:) via Pull Requests.
+
+---
+### Theme
+The theme is custom made and based on [Skeleton](http://www.getskeleton.com/). It is responsive and uses [Font Awesome](http://fortawesome.github.io/Font-Awesome/) for icons. 
+
+See the License section below if you are interested in re-using elements of the design.
+
+![](https://raw.github.com/swanson/swanson.github.com/master/screenshots/blog.png)
+![](https://raw.github.com/swanson/swanson.github.com/master/screenshots/review.png)
+![](https://raw.github.com/swanson/swanson.github.com/master/screenshots/responsive.png)
 
 ---
 
