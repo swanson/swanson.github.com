@@ -21,7 +21,7 @@ interest them and record external projects that they have worked on
 
 My basic process goes like this: expose some data, let the end-user
 play around with it, talk to the end-user and find out what questions
-they want questions to based on the data. If those questions are compelling,
+they want answers to based on the data. If those questions are compelling,
 create a report to help them answer said questions.
 
 ## Interview: Mike, our biz-dev champ
