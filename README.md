@@ -25,6 +25,6 @@ The following directories and their contents are Copyright Matt Swanson. You may
 * talks/
 * static/
 
-All other directories and files are MIT Licensed. 
+All other directories and files are MIT Licensed. Font Awesome (font/) is licensed under SIL OFL 1.1 and MIT Licences and I claim no ownership.
 
 Feel free to use the HTML and CSS as you please, however, if are you using the theme wholesale, please change the logo. If you do use them, a link back to http://mdswanson.com would be appreciated, but is not required.
