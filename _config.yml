@@ -66,10 +66,6 @@ projects:
         blurb: Abraham Lincoln? Isn't he the President who...
 
       - name: Netflix It Now
-        url:
-        blurb: 
-
-      - name: Netflix It Now
         url: https://github.com/swanson/netflix-it-now
         blurb: Bookmarklet and small webapp to tell me when movies became streamable
 
