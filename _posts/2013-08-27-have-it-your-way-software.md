@@ -95,7 +95,7 @@ be customizable.
 ---
 
 I recently did an estimate for a project that featured lots of
-per-user customization. Compared to a striped down version (with
+per-user customization. Compared to a stripped down version (with
 sensible defaults that cover the 80% cases), the fully custom
 estimate bloated to ***nearly 4x the cost***!
 
