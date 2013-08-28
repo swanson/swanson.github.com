@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "'Have It Your Way' Software"
+title: "\"Have It Your Way\" Software"
 categories:
 - blog
 ---
