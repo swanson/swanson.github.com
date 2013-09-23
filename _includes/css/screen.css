@@ -291,3 +291,42 @@ span.icon-hn {
   font-size: smaller; 
   padding-bottom: 10px
 }
+
+.newsletter {
+  color: #3a87ad;
+  background-color: #d9edf7;
+  padding: 8px 14px;
+  text-shadow: 0 1px 0 rgba(255, 255, 255, 0.5);
+  border: 1px solid #bce8f1;
+  -webkit-border-radius: 4px;
+  -moz-border-radius: 4px;
+  border-radius: 4px;
+}
+
+.newsletter form {
+  margin-bottom: 0px;
+}
+
+#mce-EMAIL {
+  margin-top: 20px;
+  display: inline-block;
+}
+
+#mc-embedded-subscribe {
+  font-size: 13px;
+  line-height: 20px;
+  margin-left: 10px;
+  display: inline-block;
+  padding: 2px 12px;
+  color: #ffffff;
+  text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.25);
+  background-color: #5bb75b;
+  background-image: -moz-linear-gradient(top, #62c462, #51a351);
+  background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#62c462), to(#51a351));
+  background-image: -webkit-linear-gradient(top, #62c462, #51a351);
+  background-image: -o-linear-gradient(top, #62c462, #51a351);
+  background-image: linear-gradient(to bottom, #62c462, #51a351);
+  background-repeat: repeat-x;
+  border-color: #51a351 #51a351 #387038;
+  border-color: rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.25);
+}
