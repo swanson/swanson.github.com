@@ -9,6 +9,11 @@ layout: default
 
 
 <div id="post">
+  {% if page.from_newsletter %}
+    <p class="recycled-content">
+      This post first appeared in my <a href="http://eepurl.com/Fi5ZX">weekly-ish newsletter</a> about <strong>building awesome software</strong>.
+    </p>
+  {% endif %}
 {{ content }}
 </div>
 
