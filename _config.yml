@@ -2,6 +2,7 @@ pygments: true
 auto: true
 url: http://mdswanson.com
 lsi: false
+markdown: redcarpet
 
 colors:
   highlight: '#0C84E8'
