@@ -1,5 +1,4 @@
 pygments: true
-auto: true
 url: http://mdswanson.com
 lsi: false
 markdown: redcarpet
