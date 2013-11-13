@@ -15,7 +15,7 @@ Everyone stands in a circle and takes their turn answering the questions. The wh
 last only a few minutes and gets everyone of the same page.
 
 But when you consider all the extra crap that gets talked about at a standup &mdash; the
-*"Oh, did you remember to do X when you did Y?"*, the *"I told you were should have done A, but the client
+*"Oh, did you remember to do X when you did Y?"*, the *"I told you we should have done A, but the client
 made us do B"*, the *"By the way, can we add a new item type in Jira for tracking requirement changes?"*,
 the *"Let me tell you about every line of awesome code I wrote yesterday"* &mdash; you are now approaching 
 the 15 minute mark and the cost is breaching four-figures.
