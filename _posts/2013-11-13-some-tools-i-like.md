@@ -27,7 +27,7 @@ your image sizes are reduced by 25-75%.
 
 ## I need to make a quick web page. Should I install WordPress?
 
-No, please, no! Why not try out [Jekyll](http://jekyllrb.com/) &mdash; an awesome static site generator.
+No, please, no! Why not try out [Jekyll](http://jekyllrb.com/) &mdash; an awesome static site generator?
 
 I've used it to make:
 
