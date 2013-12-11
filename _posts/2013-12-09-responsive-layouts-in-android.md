@@ -11,7 +11,7 @@ digging into how to build layouts that work across all device sizes.
 
 I have some experience with responsive design on the web &mdash; things like
 fluid grids, media queries, etc &mdash; so I wanted to try to leverage those
-same approachs for Android.
+same approaches for Android.
 
 My biggest goal was to create a layout that can scale up without having
 completely separate layouts for each screen size. Android uses 
@@ -45,7 +45,7 @@ res/values/styles.xml
 {% endhighlight %}
 
 
-For tablets in portait orientation, we add a bit more padding since the 
+For tablets in portrait orientation, we add a bit more padding since the 
 screen is larger.
 
 {% highlight xml %}
@@ -95,7 +95,7 @@ gracefully.
 ### 7" Tablet
 ![Responsive Layout on Tablet]({{site.url}}/static/responsive_android_tablet.JPG)
 
-### 7" Tablet (Portrait)
+### 7" Tablet (Landscape)
 ![Responsive Layout on Landscape Tablet]({{site.url}}/static/responsive_android_tablet_landscape.JPG)
 
 ---
