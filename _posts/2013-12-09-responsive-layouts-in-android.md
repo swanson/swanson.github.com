@@ -3,7 +3,7 @@ layout: post
 title: "Responsive Layouts in Android without Copy/Paste"
 categories:
 - blog
-published: false
+date: 2013-12-11
 ---
 
 I'm working on an Android app that targets both phones and tablets so I've been
@@ -88,6 +88,15 @@ Then on our various application screens, we use our style like so:
 
 A single application layout for all screens that scales up (and down)
 gracefully.
+
+### 4" Phone
+![Responsive Layout on Phone]({{site.url}}/static/responsive_android_phone.JPG)
+
+### 7" Tablet
+![Responsive Layout on Tablet]({{site.url}}/static/responsive_android_tablet.JPG)
+
+### 7" Tablet (Portrait)
+![Responsive Layout on Landscape Tablet]({{site.url}}/static/responsive_android_tablet_landscape.JPG)
 
 ---
 
