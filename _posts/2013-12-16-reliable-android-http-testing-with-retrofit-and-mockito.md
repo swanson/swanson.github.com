@@ -94,7 +94,7 @@ Same as before &mdash; we capture the callback. But this time we call the
 `failure` method, which simulates an API error. If we need more discrete error
 handling (e.g. if the response is HTTP 401, redirect to login; if HTTP 500, 
 toast a general system error message), we can easily create the appropriate
-RetrofitError objects and pass them in.
+`RetrofitError` objects and pass them in.
 
 The power of `ArgumentCaptor` really shines through here. We have complete
 control of the object we've captured. We can feed it any data or trigger any 
