@@ -15,7 +15,7 @@ The issue is complicated further in a platform like Android, where HTTP calls
 should be asynchronous. Now you add timing into the mix and you are probably
 ready to throw in the towel on testing your API calls.
 
-A great way to solve these issues and reliably exercise these HTTP calls are
+A great way to solve these issues and reliably exercise these HTTP calls is
 to use a nifty utility in [Mockito][m] (a test double library for Java): 
 [`ArgumentCaptor`][ac].
 
@@ -58,7 +58,7 @@ The second and third cases will be tricky to test if you are relying on hitting
 a real API server. I know GitHub has had some DDOS issues lately, but you certainly
 can't rely on that to test your error cases!
 
-But with an `ArgumentCapture`, we can grab the callback argument and then we have
+But with an `ArgumentCaptor`, we can grab the callback argument and then we have
 full control of what data we send in.
 
 Let's look at testing the happy path (I am using [Robolectric][r] and you should
