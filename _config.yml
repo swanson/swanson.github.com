@@ -23,7 +23,7 @@ projects:
 
       - name: Gem License Checker
         url: http://gemlicensechecker.herokuapp.com
-        blurb: Given a Gemfile, determine the license for your dependancies
+        blurb: Given a Gemfile, determine the license for your dependencies
 
       - name: Let's Work Happier
         url: http://www.letsworkhappier.com
