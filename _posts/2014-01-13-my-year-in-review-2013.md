@@ -266,7 +266,7 @@ not free lunches and beanbag chairs.
 
 * [System thinking over goals][sys]: Setting goals is for suckers. They make you feel bad until you
 hit the goal (or fail and feel worse) and then you lose purpose. After accidentally using systems
-thinking in 2011 and getting away from it in 2012, I am fully back on board for systems in 2013.
+thinking in 2012 and getting away from it in 2013, I am fully back on board for systems in 2014.
 
 [sys]: http://www.dilbert.com/blog/entry/goals_vs_systems/
 
