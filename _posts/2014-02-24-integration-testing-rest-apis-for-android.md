@@ -77,7 +77,7 @@ Cons:
 
 **Conclusion:**
 A solid approach with no external moving parts. Doesn't allow for blackbox
-integration testing, but gets your pretty close for not much effort. I'd say
+integration testing, but gets you pretty close for not much effort. I'd say
 this fits the [80/20 rule][par].
 
 ## Use WireMock
@@ -121,10 +121,10 @@ Pros:
 
 Cons:
 
-* Works best for static response (hard to keep server state)
+* Works best for static responses (hard to keep server state)
 
 **Conclusion:**
-I think this approach can work if you have mainly static JSON responses and don't
+I think this approach can work if you have mainly static JSON responses or don't
 want to introduce another dependency into your project. It doesn't cover every
 edge case &mdash; but for us it was an adequate solution.
 
@@ -139,8 +139,8 @@ You can't go wrong with any of the latter three approaches (I would recommend
 not going down the test server path if possible).
 
 If you don't care about having a true blackbox test, go with the Retrofit
-interface mock. If you want something close to a real server, but still
-want fine control, give WireMock a shot. If you just need something basic, I
+interface mock. If you want something closer to a real server, but still
+with fine control, give WireMock a shot. If you just need something basic, I
 think it's hard to beat my 100-line Retrofit client and a folder of `.json`
 files.
 
