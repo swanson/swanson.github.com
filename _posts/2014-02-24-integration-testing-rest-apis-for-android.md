@@ -9,14 +9,13 @@ In my last post on Android testing, I talked about how to
 [reliably test API calls][rt] with Mockito's `ArgumentCaptor`. But that approach
 was best suited for unit tests &mdash; what about integration tests?
 
-*(This post assumes you are using [Retrofit][rf] to handle API calls)*
+*(This post assumes you use [Retrofit][rf] to handle API calls)*
 
 The most straightforward way to do integration testing in Android is to use
-the built-in `InstrumentationTestCase` classes. At a high-level, the idea is
-to create a second APK that will "drive" your app under test by 
-programmatically sending commands (key presses, button clicks, etc). If you
-come from a web development background, this is similar to how tools like
-Selenium work.
+the built-in `InstrumentationTestCase` classes. At a high-level, you create a 
+second APK that will "drive" your app under test by programmatically sending commands
+(key presses, button clicks, etc). If you come from a web development background, 
+this is similar to how tools like Selenium work.
 
 One of the common complaints with this kind of blackbox, end-to-end
 integration testing is that the tests are flaky. They will fail for no reason
@@ -25,7 +24,7 @@ Tests that fail randomly are tests that you cannot trust; tests that
 you cannot trust are a liability.
 
 After some [discussions][d] with [Jake Wharton][jw] and [Michael Bailey][mb], I 
-wanted to summarize a few approaches to improve the reliability of your Android 
+wanted to summarize approaches that will improve the reliability of your Android 
 integration tests.
 
 ## Setup a test server
@@ -59,8 +58,8 @@ of any of these, but has the most chance to increase flakiness.
 This approach creates a boundary before the HTTP level; you take the stance
 that you trust the test suites of Gson, Retrofit, etc to work and then just
 mock out the data. You can see an [example of this][mi] in the sample 
-application that comes with Retrofit. A `MockGitHub` is created and returns 
-canned data, bypassing any network operations or serialization.
+application that comes with Retrofit. A `MockGitHub` returns canned data, 
+bypassing any network operations or serialization.
 
 Pros:
 
@@ -74,20 +73,19 @@ again)
 Cons:
 
 * Still mocking out some parts of the app, so not a *true* integration test
-* Doesn't exercise Gson serialization (though these could be tested in unit)
+* Doesn't exercise Gson serialization (could use unit tests for this)
 
 **Conclusion:**
-A very solid approach with no external moving parts. Doesn't allow for blackbox
+A solid approach with no external moving parts. Doesn't allow for blackbox
 integration testing, but gets your pretty close for not much effort. I'd say
 this fits the [80/20 rule][par].
 
 ## Use WireMock
 
-[WireMock][wm] is a neat little tool that can allows you to mock web requests
+[WireMock][wm] allows you to mock web requests
 and return data either programmatically or from a file on disk. You can also set
-headers, status codes, and anything else you'd need. There are several other
-interesting features, such as recording requests from a live server and saving 
-them for future runs.
+headers, status codes, and anything else you'd need. WireMock can also record
+requests from a live server and save them for future runs.
 
 Pros:
 
@@ -109,7 +107,7 @@ for the next Android project I start.
 
 ## Custom Retrofit Client
 
-This is the approach I settled on for my current work project. We wrote a small
+The approach I settled on for my current work project was to write a small
 [Retrofit `Client`][ljc] that converts the HTTP verb and URL into a filename and
 then reads the appropriate static JSON files from the `res/raw` folder of the
 instrumentation application.
@@ -126,9 +124,9 @@ Cons:
 * Works best for static response (hard to keep server state)
 
 **Conclusion:**
-I think this approach can work if you have mostly static JSON responses and don't
-want to introduce another dependency into your project. There are definitely 
-edges cases it doesn't cover &mdash; but for us it was an adequate solution.
+I think this approach can work if you have mainly static JSON responses and don't
+want to introduce another dependency into your project. It doesn't cover every
+edge case &mdash; but for us it was an adequate solution.
 
 For this particular project, we were interacting with a legacy API that had
 some quirks that required a fair amount of Gson customizations (multiple date formats,
@@ -140,16 +138,16 @@ better running the tests through the serialization layer.
 You can't go wrong with any of the latter three approaches (I would recommend
 not going down the test server path if possible).
 
-If you don't care about having a completely blackbox test, go with the Retrofit
-interface mock. If you want something very close to a real server, but still
+If you don't care about having a true blackbox test, go with the Retrofit
+interface mock. If you want something close to a real server, but still
 want fine control, give WireMock a shot. If you just need something basic, I
 think it's hard to beat my 100-line Retrofit client and a folder of `.json`
 files.
 
-The important thing isn't which you choose, but rather that you pick an approach
-that will work for your project and team. Instrumentation tests can provide a lot
-of value and reduce the burden for manual testing, so investing time to create
-a reliable test suite is worth the cost.
+The approach you choose isn't important, pick the one that works best for
+your project and team. Instrumentation tests can provide a lot of value and 
+reduce the burden for manual testing, so investing time to create a reliable 
+test suite will pay off in the end.
 
 [d]: https://twitter.com/_swanson/status/437703758139506688
 [jw]: https://twitter.com/JakeWharton
