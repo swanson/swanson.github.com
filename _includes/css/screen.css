@@ -13,7 +13,7 @@ body {
   color: #222222;
   line-height: 24px;
   margin: 0;
-  border-top: 7px solid {{ site.colors.highlight }};
+  border-top: 7px solid {{ site.data.theme.colors.highlight }};
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -48,7 +48,7 @@ ul {
 }
 
 a {
-  color: {{ site.colors.highlight }};
+  color: {{ site.data.theme.colors.highlight }};
   text-decoration: none;
 }
 
@@ -57,7 +57,7 @@ a:hover {
 }
 
 a:visited {
-  color: {{ site.colors.highlight }};
+  color: {{ site.data.theme.colors.highlight }};
 }
 
 table {
@@ -218,7 +218,7 @@ sup {
 }
 
 #home h2 {
-  color: {{ site.colors.highlight }};
+  color: {{ site.data.theme.colors.highlight }};
 }
 
 #logo {
@@ -235,7 +235,7 @@ sup {
   width: 29px;
   overflow: hidden;
   float: left;
-  color: {{ site.colors.highlight }};
+  color: {{ site.data.theme.colors.highlight }};
 }
 
 #stalker i {
@@ -245,7 +245,7 @@ sup {
 
 #stalker a:hover {
   text-decoration: none;
-  color: {{ site.colors.highlight }};
+  color: {{ site.data.theme.colors.highlight }};
 }
 
 span.icon-hn {
@@ -273,7 +273,7 @@ span.icon-hn {
   text-align: center;
 }
 
-.footnotes { 
+.footnotes {
   font-size: 14px;
   font-style: italic;
 }
@@ -287,9 +287,9 @@ span.icon-hn {
 }
 
 .caption {
-  margin: 0 auto; 
-  text-align: center; 
-  font-size: smaller; 
+  margin: 0 auto;
+  text-align: center;
+  font-size: smaller;
   padding-bottom: 10px
 }
 

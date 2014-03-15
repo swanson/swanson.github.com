@@ -18,14 +18,14 @@ when I opened the package there was a hand-written note. It probably took someon
 to do but it made me smile and I showed two other people.
 
 <div class="pic">
-  <img alt="Mission Belt note" src="{{site.url}}/static/mission-belt-note.png">
+  <img alt="Mission Belt note" src="{{site.baseul}}/static/mission-belt-note.png">
 </div>
 
 I just finished up some contract work for a local [coffee shop][gh]. Here's what I got in the
 mail after the project was completed:
 
 <div class="pic">
-  <img alt="Greyhouse Box" src="{{site.url}}/static/greyhouse-box.png">
+  <img alt="Greyhouse Box" src="{{site.baseul}}/static/greyhouse-box.png">
 </div>
 
 Are you frickin' kidding me? A hand-calligraphified box? Filled with awesome treats?
@@ -55,21 +55,21 @@ implement.
 best ones and added a random "kudos" message to our [employee happiness app][morale].
 
 <div class="pic">
-  <img alt="Random kudos message" title="Nothing's ever gonna keep you down!" src="{{site.url}}/static/morale-delight.png">
+  <img alt="Random kudos message" title="Nothing's ever gonna keep you down!" src="{{site.baseul}}/static/morale-delight.png">
 </div>
 
 * In my [TV episode tracker][queuerunner], when you run out of items to watch - you 
 receive this playful jab. A little humor is always welcome.
 
 <div class="pic">
-  <img alt="TV Zero&trade;" src="{{site.url}}/static/queuerunner-delight.png">
+  <img alt="TV Zero&trade;" src="{{site.baseul}}/static/queuerunner-delight.png">
 </div>
 
 * When I started building my [anti-social RSS reader][stringer], one of the first things I added
 was this self-aware message in the footer &mdash; reminding myself to stop using the app.
 
 <div class="pic">
-  <img alt="Hey! Slacker!" src="{{site.url}}/static/stringer-delight.png">
+  <img alt="Hey! Slacker!" src="{{site.baseul}}/static/stringer-delight.png">
 </div>
 
 ---

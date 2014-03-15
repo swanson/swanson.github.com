@@ -14,9 +14,13 @@
 
   <link href="http://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800" rel="stylesheet" type="text/css">
   <link rel="shortcut icon" href="/static/favicon.png">
-  <link rel="alternate" type="application/rss+xml" title="Matt Swanson" href="{{site.url}}/atom.xml" />
+  <link rel="alternate" type="application/rss+xml" title="Matt Swanson" href="{{site.baseul}}/atom.xml" />
 
-  <link rel="stylesheet" href="/css/all.css">
+  {% if site.github %}
+    <link rel="stylesheet" href="/css/all.css?sha={{ site.github.build_revision }}">
+  {% else %}
+    <link rel="stylesheet" href="/css/all.css">
+  {% endif %}
 <!--[if IE 7]>
   <link rel="stylesheet" href="/css/font-awesome-ie7.min.css">
 <![endif]-->
@@ -29,7 +33,7 @@
 
     <div class="eleven columns content">
       {{ content }}
-    
+
       <div class="footer">
         {% include footer.html %}
       </div>

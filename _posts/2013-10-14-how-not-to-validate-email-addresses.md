@@ -66,7 +66,7 @@ for your app.
 How about checking for common domain typos? There is a really slick Javascript library called 
 [mailcheck][mc] that handles this well.
 
-![mailcheck example]({{site.url}}/static/mailcheck-example.png)
+![mailcheck example]({{site.baseul}}/static/mailcheck-example.png)
 
 Again, don't be strict and auto-correct the address, but pointing out that `bob@gmial.com` is
 a typo is a win for user experience. You can even add custom domains easily &mdash; if you know

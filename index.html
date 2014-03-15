@@ -28,7 +28,7 @@ title: blog posts, talks, book writeups, projects
   <h2><i class="icon-beaker"></i> Projects</h2>
   <p>Random side-projects, in various states of completion</p>
 
-  {% for project_group in site.projects %}
+  {% for project_group in site.data.projects %}
     <h2 class="project-date">{{ project_group.year }} &raquo;</h2>
     <ul class="posts">
       {% for project in project_group.projects %}

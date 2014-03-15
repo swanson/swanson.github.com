@@ -90,13 +90,13 @@ A single application layout for all screens that scales up (and down)
 gracefully.
 
 ### 4" Phone
-![Responsive Layout on Phone]({{site.url}}/static/responsive_android_phone.JPG)
+![Responsive Layout on Phone]({{site.baseul}}/static/responsive_android_phone.JPG)
 
 ### 7" Tablet
-![Responsive Layout on Tablet]({{site.url}}/static/responsive_android_tablet.JPG)
+![Responsive Layout on Tablet]({{site.baseul}}/static/responsive_android_tablet.JPG)
 
 ### 7" Tablet (Landscape)
-![Responsive Layout on Landscape Tablet]({{site.url}}/static/responsive_android_tablet_landscape.JPG)
+![Responsive Layout on Landscape Tablet]({{site.baseul}}/static/responsive_android_tablet_landscape.JPG)
 
 ---
 

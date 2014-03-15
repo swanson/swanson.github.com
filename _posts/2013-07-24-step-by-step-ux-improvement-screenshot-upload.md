@@ -22,7 +22,7 @@ public or private, and an optional caption.
 
 ## Starting Point
 
-[![]({{site.url}}/static/chops-upload-ux-0-thumb.png)]({{site.url}}/static/chops-upload-ux-0.png) 
+[![]({{site.baseul}}/static/chops-upload-ux-0-thumb.png)]({{site.baseul}}/static/chops-upload-ux-0.png) 
 
 It is pretty rough around the edges &mdash; but I will say it is
 completely functional and works great! It's just kinda ugly.
@@ -42,7 +42,7 @@ Tweaks:
 * Make the `Private?` checkbox inline
 * Swap the order of inputs (picking image first)
 
-[![]({{site.url}}/static/chops-upload-ux-1-thumb.png)]({{site.url}}/static/chops-upload-ux-1.png)
+[![]({{site.baseul}}/static/chops-upload-ux-1-thumb.png)]({{site.baseul}}/static/chops-upload-ux-1.png)
 
 I particularly like the ordering after this change. The most 
 important part of a screenshot is the image and it is right at the
@@ -63,7 +63,7 @@ Tweaks:
 * Change file inputs to be side by side with clear indication that 
 you can drop **or** browser, not both
 
-[![]({{site.url}}/static/chops-upload-ux-2-thumb.png)]({{site.url}}/static/chops-upload-ux-2.png)
+[![]({{site.baseul}}/static/chops-upload-ux-2-thumb.png)]({{site.baseul}}/static/chops-upload-ux-2.png)
 
 Observations:
 
@@ -80,7 +80,7 @@ Tweaks:
 * Apply correct `btn-primary` class to the button, tweak copy
 * Change caption to text `<input>` instead of `<textarea>`, tweak copy
 
-[![]({{site.url}}/static/chops-upload-ux-3-thumb.png)]({{site.url}}/static/chops-upload-ux-3.png)
+[![]({{site.baseul}}/static/chops-upload-ux-3-thumb.png)]({{site.baseul}}/static/chops-upload-ux-3.png)
 
 ## Scenario: Beginner Mindset
 Think about the user time a new user lands on this page. 
@@ -104,7 +104,7 @@ so we should accommodate them as well.
 
 Here's what I came up with:
 
-[![]({{site.url}}/static/chops-upload-ux-4-thumb.png)]({{site.url}}/static/chops-upload-ux-4.png)
+[![]({{site.baseul}}/static/chops-upload-ux-4-thumb.png)]({{site.baseul}}/static/chops-upload-ux-4.png)
 
 Succinct microcopy that asks the real question we want to know and
 an extra `Not sure` option (defaults to making the image 

@@ -1,6 +1,3 @@
 url: http://localhost:4000
 pygments: true
 markdown: redcarpet
-
-colors:
-  highlight: '#0C84E8'

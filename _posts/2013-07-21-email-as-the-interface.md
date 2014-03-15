@@ -39,13 +39,13 @@ about design user interactions and simplifying processes. You can't embed a drag
 calendar in an email, but you could email someone three date options as links and let them
 pick one.
 
-![Morale daily email]({{ site.url }}/static/morale-email.png)
+![Morale daily email]({{ site.baseul }}/static/morale-email.png)
 
 * **The future is interesting**: Gmail recently came out with something called [Schemas][sc], a
 special markup you can add to emails to create buttons and other actions (add to calendar,
 write a review, etc) directly in the user's inbox.
 
-![Gmail Add to Queue button]({{ site.url }}/static/gmail-add-to-queue.png)
+![Gmail Add to Queue button]({{ site.baseul }}/static/gmail-add-to-queue.png)
 
 [sc]: https://developers.google.com/gmail/schemas/reference/one-click-action
 
