@@ -22,7 +22,7 @@ displaying the items on ten large vertical monitors.
 Visually, they are pretty neat; lots of big pictures of the food and
 an attractive color scheme.
 
-![McAllister's Deli - Terrible UX Menu Board]({{site.baseul}}/static/mcallisters-menu.png)
+![McAllister's Deli - Terrible UX Menu Board]({{site.baseurl}}/static/mcallisters-menu.png)
 
 But they are absolutely terrible to use!
 

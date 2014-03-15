@@ -178,7 +178,7 @@ Things kept chugging along on this blog. I wrote 37 posts in 2013, more than 201
 and 2012 combined. I wrote almost weekly from May to September. Page views were up
 33% over last year.
 
-![2013 Blog Stats]({{site.baseul}}/static/2013-blog-stats.png)
+![2013 Blog Stats]({{site.baseurl}}/static/2013-blog-stats.png)
 
 The top three posts in terms of views:
 

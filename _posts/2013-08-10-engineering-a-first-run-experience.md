@@ -41,7 +41,7 @@ an email address, but since Stringer is a single-user app, there is no need. If
 I were to go back, I would kill the password confirmation too. 95% of the time,
 the confirmation will match and if it doesn't they can always reset the password.
 
-[![]({{site.baseul}}/static/stringer_pw_setup_thumb.png)]({{site.baseul}}/static/stringer_pw_setup.png) 
+[![]({{site.baseurl}}/static/stringer_pw_setup_thumb.png)]({{site.baseurl}}/static/stringer_pw_setup.png) 
 
 The first page also sets the tone of the app &mdash; for Stringer, this means 
 short, to-the-point copy and an emphasis on the opinionated decisions of the app.
@@ -53,7 +53,7 @@ feeds you want to read. The target audience for Stringer knows what an RSS feed
 is and is comfortable with technical language like "importing". Tailor your
 on-boarding language to the end-user.
 
-[![]({{site.baseul}}/static/stringer_welcome_aboard_thumb.png)]({{site.baseul}}/static/stringer_welcome_aboard.png) 
+[![]({{site.baseurl}}/static/stringer_welcome_aboard_thumb.png)]({{site.baseurl}}/static/stringer_welcome_aboard.png) 
 
 There are some small touches that improve the user experience here. 90% of the
 users were coming from Google Reader when the project launched, so there is a
@@ -89,7 +89,7 @@ I could just let the import page spin for 2 minutes while the app pulls down
 all your feeds, but that is a poor experience. Instead, I can fill that time with 
 something useful, like explaining how the app works.
 
-[![]({{site.baseul}}/static/stringer_tutorial_thumb.png)]({{site.baseul}}/static/stringer_tutorial.png) 
+[![]({{site.baseurl}}/static/stringer_tutorial_thumb.png)]({{site.baseurl}}/static/stringer_tutorial.png) 
 
 I added a background job to start parsing the imported feeds and then take the
 user to an interactive instruction manual. Turn a technical problem (feeds take
@@ -105,7 +105,7 @@ show the user what all the buttons do and only took about an hour to implement.
 Notice the sample stories. They are cheeky little parodies of the type of feeds
 that would be popular among Stringer's target audience (tech-savvy readers).
 
-[![]({{site.baseul}}/static/stringer_tutorial_2_thumb.png)]({{site.baseul}}/static/stringer_tutorial_2.png) 
+[![]({{site.baseurl}}/static/stringer_tutorial_2_thumb.png)]({{site.baseurl}}/static/stringer_tutorial_2.png) 
 
 And everything works just like the real app, you can open a story, use the
 keyboard shortcuts, click the other buttons. When you open a story, it is filled
@@ -119,14 +119,14 @@ The bottom line is that I need to distract the user for at least 30 seconds so
 the app can fetch them some stories. But at the same time, I can teach them 
 how to use the app and (hopefully...) make them chuckle at the fake headlines.
 
-[![]({{site.baseul}}/static/stringer_tutorial_3_thumb.png)]({{site.baseul}}/static/stringer_tutorial_3.png) 
+[![]({{site.baseurl}}/static/stringer_tutorial_3_thumb.png)]({{site.baseurl}}/static/stringer_tutorial_3.png) 
 
 I used a simple `setTimeout()` JavaScript call to show a "Start Reading" button
 after 10 seconds.
 
 ## Now you're in!
 
-[![]({{site.baseul}}/static/stringer_home_thumb.png)]({{site.baseul}}/static/stringer_home.png) 
+[![]({{site.baseurl}}/static/stringer_home_thumb.png)]({{site.baseurl}}/static/stringer_home.png) 
 
 Now the user enters the app to find it already filled with stories. I made the
 decision to only grab stories that were published in the past 24 hours, it makes
@@ -142,10 +142,10 @@ user link their Google Account or enter a bunch of feed URLs.
 
 But more importantly, the user had a great experience setting up the app.
 
-![]({{site.baseul}}/static/stringer_tweet_1.png)
-![]({{site.baseul}}/static/stringer_tweet_2.png)
-![]({{site.baseul}}/static/stringer_tweet_3.png)
-![]({{site.baseul}}/static/stringer_tweet_4.png)
+![]({{site.baseurl}}/static/stringer_tweet_1.png)
+![]({{site.baseurl}}/static/stringer_tweet_2.png)
+![]({{site.baseurl}}/static/stringer_tweet_3.png)
+![]({{site.baseurl}}/static/stringer_tweet_4.png)
 
 ---
 

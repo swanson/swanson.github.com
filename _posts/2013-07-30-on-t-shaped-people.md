@@ -14,7 +14,7 @@ with T-shaped skills is someone who has deep expertise in one area but also
 breadth of generalized experience. Apparently, if you plot skills across those
 axes then it looks like a T...or something.
 
-![]({{site.baseul}}/static/t-shaped-heavy.png)
+![]({{site.baseurl}}/static/t-shaped-heavy.png)
 
 Anyways, people are raving about this concept and they are mostly justified. If
 you can find a T-shaped person, then they can collaborate across disciplines

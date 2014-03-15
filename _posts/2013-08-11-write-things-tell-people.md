@@ -58,7 +58,7 @@ deep posts about abstract topics is hard stuff!
 
 [b]: https://www.beeminder.com
 
-!["Write 20k this month"]({{site.baseul}}/static/beeminder.png)
+!["Write 20k this month"]({{site.baseurl}}/static/beeminder.png)
 
 But I've found a huge source of material in my recent projects. I wrote three posts
 about my UX process for a work project, two posts about my open source RSS reader,
@@ -72,7 +72,7 @@ you, it will very likely be interesting to someone else.
 
 ---
 
-!["Super popular!"]({{site.baseul}}/static/super-popular.png)
+!["Super popular!"]({{site.baseurl}}/static/super-popular.png)
 
 I sometimes joke around with friends about my "super popular" blog. It isn't really
 super popular. But I have had some neat things happen as a result of writing on 

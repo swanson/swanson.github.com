@@ -16,8 +16,8 @@ technologies were used, etc). A new feature was added recently to
 allow for project screenshots to be uploaded and displayed, but it 
 could use some UI/UX love.
 
-<a href="{{site.baseul}}/static/chops-ux-step-0.png">
-<img alt="Chops UX Step 0" src="{{site.baseul}}/static/chops-ux-step-0-thumb.png">
+<a href="{{site.baseurl}}/static/chops-ux-step-0.png">
+<img alt="Chops UX Step 0" src="{{site.baseurl}}/static/chops-ux-step-0-thumb.png">
 </a>
 
 <br/>
@@ -25,8 +25,8 @@ could use some UI/UX love.
 
 ## Scenario: A project with no screenshots
 
-<a href="{{site.baseul}}/static/chops-ux-step-1.png">
-<img alt="Chops UX Step 1" src="{{site.baseul}}/static/chops-ux-step-1.png">
+<a href="{{site.baseurl}}/static/chops-ux-step-1.png">
+<img alt="Chops UX Step 1" src="{{site.baseurl}}/static/chops-ux-step-1.png">
 </a>
 
 Observations: 
@@ -46,13 +46,13 @@ making a better placeholder image
 * Add conditional to not render View All if there are no screenshots to
 prevent the user from performing an "empty action"
 
-<a href="{{site.baseul}}/static/chops-ux-step-2.png">
-<img alt="Chops UX Step 2" src="{{site.baseul}}/static/chops-ux-step-2.png">
+<a href="{{site.baseurl}}/static/chops-ux-step-2.png">
+<img alt="Chops UX Step 2" src="{{site.baseurl}}/static/chops-ux-step-2.png">
 </a>
 
 ## Scenario: A project with one screenshot
-<a href="{{site.baseul}}/static/chops-ux-step-3.png">
-<img alt="Chops UX Step 3" src="{{site.baseul}}/static/chops-ux-step-3.png">
+<a href="{{site.baseurl}}/static/chops-ux-step-3.png">
+<img alt="Chops UX Step 3" src="{{site.baseurl}}/static/chops-ux-step-3.png">
 </a>
 
 Observations:
@@ -71,13 +71,13 @@ Tweaks:
 throughout the app) and more terse
 * Swap in dot separator
 
-<a href="{{site.baseul}}/static/chops-ux-step-2a.png">
-<img alt="Chops UX Step 4" src="{{site.baseul}}/static/chops-ux-step-2a.png">
+<a href="{{site.baseurl}}/static/chops-ux-step-2a.png">
+<img alt="Chops UX Step 4" src="{{site.baseurl}}/static/chops-ux-step-2a.png">
 </a>
 
 ## Scenario: A project with multiple screenshots
-<a href="{{site.baseul}}/static/chops-ux-step-3.png">
-<img alt="Chops UX Step 5" src="{{site.baseul}}/static/chops-ux-step-3a.png">
+<a href="{{site.baseurl}}/static/chops-ux-step-3.png">
+<img alt="Chops UX Step 5" src="{{site.baseurl}}/static/chops-ux-step-3a.png">
 </a>
 
 Observations:
@@ -85,8 +85,8 @@ Observations:
 * Everything looks pretty good!
 
 ## Final tweaks
-<a href="{{site.baseul}}/static/chops-ux-step-4.png">
-<img alt="Chops UX Step 6" src="{{site.baseul}}/static/chops-ux-step-4.png">
+<a href="{{site.baseurl}}/static/chops-ux-step-4.png">
+<img alt="Chops UX Step 6" src="{{site.baseurl}}/static/chops-ux-step-4.png">
 </a>
 
 * I added a screenshot icon to the placeholder using [FontAwesome][fa] for a 
