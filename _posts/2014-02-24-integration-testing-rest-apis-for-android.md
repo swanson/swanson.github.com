@@ -71,9 +71,16 @@ Cons:
 * Still mocking out some parts of the app, so not a *true* integration test
 * Doesn't exercise Gson serialization (could use unit tests for this)
 
+<<<<<<< HEAD
 **Conclusion:** A solid approach with no external moving parts. Doesn't allow
 **for blackbox integration testing, but gets your pretty close for not much
 **effort. I'd say this fits the [80/20 rule][par].
+=======
+**Conclusion:**
+A solid approach with no external moving parts. Doesn't allow for blackbox
+integration testing, but gets you pretty close for not much effort. I'd say
+this fits the [80/20 rule][par].
+>>>>>>> 28b43d6095795d2de6535d1d0e2a77b99d68f4b5
 
 ## Use WireMock
 
@@ -114,9 +121,12 @@ Pros:
 
 Cons:
 
-* Works best for static response (hard to keep server state)
+* Works best for static responses (hard to keep server state)
 
 **Conclusion:**
+I think this approach can work if you have mainly static JSON responses or don't
+want to introduce another dependency into your project. It doesn't cover every
+edge case &mdash; but for us it was an adequate solution.
 
 I think this approach can work if you have mainly static JSON responses and
 don't want to introduce another dependency into your project. It doesn't cover
