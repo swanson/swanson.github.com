@@ -1,4 +1,6 @@
 desc 'Run the jekyll dev server'
 task :server do
-  system "jekyll serve --watch --baseurl /"
+  system "jekyll serve --watch --baseurl ''"
 end
+
+task :serve => :server
