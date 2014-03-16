@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<p class="meta"> {{ page.date | date: "%B %d, %Y" }} 
+<p class="meta"> {{ page.date | date: "%B %d, %Y" }}
 <a href="/"><i class="home icon-home"></i></a>
 </p>
 <h1>&ldquo;{{ page.title }}&rdquo; Book Writeup</h1>
@@ -13,7 +13,7 @@ layout: default
 </div>
 
 <div id="related">
-  <h2>Related Posts</h2>
+  <h2>More Writeups</h2>
   <ul class="posts">
     {% for post in site.categories.writeup limit:3 %}
       <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
