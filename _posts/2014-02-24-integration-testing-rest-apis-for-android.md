@@ -71,16 +71,10 @@ Cons:
 * Still mocking out some parts of the app, so not a *true* integration test
 * Doesn't exercise Gson serialization (could use unit tests for this)
 
-<<<<<<< HEAD
+
 **Conclusion:** A solid approach with no external moving parts. Doesn't allow
-**for blackbox integration testing, but gets your pretty close for not much
-**effort. I'd say this fits the [80/20 rule][par].
-=======
-**Conclusion:**
-A solid approach with no external moving parts. Doesn't allow for blackbox
-integration testing, but gets you pretty close for not much effort. I'd say
-this fits the [80/20 rule][par].
->>>>>>> 28b43d6095795d2de6535d1d0e2a77b99d68f4b5
+for blackbox integration testing, but gets you pretty close for not much
+effort. I'd say this fits the [80/20 rule][par].
 
 ## Use WireMock
 
