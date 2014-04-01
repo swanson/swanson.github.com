@@ -40,4 +40,4 @@ File.open(filename, "w") do |file|
 end
 
 system "#{EDITOR} #{filename}"
-p "Crush it!"
+puts "Crush it!"
