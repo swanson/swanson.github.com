@@ -30,6 +30,6 @@ Share for them.
 ---
 
 The first time you break through this mental barrier is the hardest. The good
-part is that you can acquire the requisite knowledge is just one day.
+part is that you can acquire the requisite knowledge in just one day.
 
 [imp]: http://en.wikipedia.org/wiki/Impostor_syndrome
