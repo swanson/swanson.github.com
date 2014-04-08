@@ -240,14 +240,6 @@ class ReaderApplication extends Application {
     toast("Something went wrong, please try again.");
     Log.e("ReaderApp", event.getErrorMessage());
   }
-
-  @Override
-  public void onDestroy() {
-    super.onDestory();
-
-    mBus.unregister(mStoryService);
-    mBus.unregister(this);
-  }
 }
 ```
 
