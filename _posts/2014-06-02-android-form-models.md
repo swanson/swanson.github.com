@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Form Models in Android"
+title: "Extracting Form Models in Android"
 categories:
 - blog
 ---
