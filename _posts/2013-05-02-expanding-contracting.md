@@ -42,13 +42,13 @@ processes that no longer provide value.
 
 Both phases of the Expansion/Contraction Cycle are necessary. 
 
-Without expansion, you will hover around a [local maxima][max] - expending large amounts of time and effort 
+Without expansion, you will hover around a [local maxima][max] &mdash; expending large amounts of time and effort 
 for minimal gain. Without contraction, you drift around in a sea of endless options and have only surface-level
 knowledge of anything.
 
 [max]: http://en.wikipedia.org/wiki/Maxima_and_minima
 
-Near the phases transitions is when tension occurs.
+Near the phase transitions is when tension occurs.
 
 <div class="pic">
   <img alt="Expansion / Contraction Cycle" src="{{site.baseurl}}/static/cycle.png">
