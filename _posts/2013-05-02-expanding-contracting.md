@@ -48,7 +48,7 @@ knowledge of anything.
 
 [max]: http://en.wikipedia.org/wiki/Maxima_and_minima
 
-Near the phase transitions is when tension occurs.
+Near the phase transitions, tension occurs.
 
 <div class="pic">
   <img alt="Expansion / Contraction Cycle" src="{{site.baseurl}}/static/cycle.png">
