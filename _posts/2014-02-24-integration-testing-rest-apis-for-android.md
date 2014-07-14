@@ -36,19 +36,19 @@ on a project once, but it was just an echo server.
 
 Pros:
 
-* Very little code changes to your app Can share the test server across
-* platforms (iOS, web, etc)
+* Very little code changes to your app 
+* Can share the test server across platforms (iOS, web, etc)
 
 Cons:
 
-* Another moving piece that can intermittently fail Requires some expertise
-* outside of the Android domain to deploy the server and keep it updated
-* Difficult to trigger error/edge cases Slow test execution (still making HTTP
-* calls)
+* Another moving piece that can intermittently fail 
+* Requires some expertise outside of the Android domain to deploy the server and keep it updated
+* Difficult to trigger error/edge cases 
+* Slow test execution (still making HTTP calls)
 
 **Conclusion:** It's not a great option, but certainly better than running tests
-**against a production API (don't do that!!). Probably the least amount of
-**up-front work of any of these, but has the most chance to increase flakiness.
+against a production API (don't do that!!). Probably the least amount of
+up-front work of any of these, but has the most chance to increase flakiness.
 
 ## Mock the Retrofit Interface
 
@@ -60,11 +60,11 @@ operations or serialization.
 
 Pros:
 
-* Very robust; will not fail because of a flaky network, timeout, etc Easy to
-* trigger test error/edge cases Can control the server state if you need to
-* dynamically update (e.g. I delete an item and don't want it to show up if I
-* ask for the list of items again) Write dummy data in pure Java; could be
-* re-used for unit tests via factories
+* Very robust; will not fail because of a flaky network, timeout, etc 
+* Easy to trigger test error/edge cases 
+* Can control the server state if you need to dynamically update (e.g. I delete an 
+item and don't want it to show up if I ask for the list of items again) 
+* Write dummy data in pure Java; could be re-used for unit tests via factories
 
 Cons:
 
@@ -85,18 +85,17 @@ server and save them for future runs.
 
 Pros:
 
-* Robust; again no failures from network down/timeouts Easy to trigger test
-* error/edge cases Exercises the serialization/HTTP layers of the app Could
-* re-use JSON files across platforms (iOS, web, etc)
+* Robust; again no failures from network down/timeouts 
+* Easy to test error/edge cases 
+* Exercises the serialization/HTTP layers of the app 
+* Could re-use JSON files across platforms (iOS, web, etc)
 
 Cons:
 
-* Another moving piece that could fail Powerful features, but more complex and
-* requires some changes to your test code
+* Another moving piece that could fail 
+* Powerful features, but more complex and requires some changes to your test code
 
-**Conclusion:**
-
-Definitely the most flexible and feature-rich approach. A small investment in
+**Conclusion:** Definitely the most flexible and feature-rich approach. A small investment in
 learning the tool will probably pay off in time savings down the road. WireMock
 reminds me alot of Ruby's [`VCR`][vcr] gem and I will probably use it for the
 next Android project I start.
@@ -110,15 +109,16 @@ instrumentation application.
 
 Pros:
 
-* No flaky network/timeout failures Easy to trigger test error/edge cases No
-* extra moving pieces Exercises the serialization/HTTP layers of the app
+* No flaky network/timeout failures 
+* Easy to trigger test error/edge cases 
+* No extra moving pieces 
+* Exercises the serialization/HTTP layers of the app
 
 Cons:
 
 * Works best for static responses (hard to keep server state)
 
-**Conclusion:**
-I think this approach can work if you have mainly static JSON responses or don't
+**Conclusion:** I think this approach can work if you have mainly static JSON responses or don't
 want to introduce another dependency into your project. It doesn't cover every
 edge case &mdash; but for us it was an adequate solution.
 
