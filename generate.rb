@@ -1,22 +1,21 @@
 require 'date'
 require 'optparse'
 
-EDITOR = "atom"
-
 options = {}
-OptionParser.new do |opts|
-  opts.banner = "Usage: generate.rb title category"
+opts = OptionParser.new do |opts|
+  opts.banner = "Usage:\n\tgenerate.rb title category " + 
+    "\n\nOptions:\n\tcategory\tblog, writeup"
+end
+opts.parse!
 
-  opts.on("-c category", [:blog, :writeup], "Category (e.g blog, writeup)") do |category|
-    options[:category] = category
-  end
-end.parse!
+if ARGV.empty?
+  puts opts.banner
+  exit
+end
 
-options[:title] = ARGV.pop
-options[:category] ||= :blog
-options[:layout] = options[:category] == :blog ? :post : :writeup
-
-raise OptionParser::MissingArgument unless options[:title]
+options[:title] = ARGV.shift
+options[:category] = ARGV.shift || "blog"
+options[:layout] = options[:category] == "blog" ? :post : :writeup
 
 def slug(title)
   title.downcase.gsub(/[^\w]/, " ").strip.gsub(/\s+/, '-')
@@ -39,5 +38,5 @@ File.open(filename, "w") do |file|
   file.write(content)
 end
 
-system "#{EDITOR} #{filename}"
+system "subl -n . _posts/"
 puts "Crush it!"
