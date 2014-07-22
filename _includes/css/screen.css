@@ -248,15 +248,6 @@ sup {
   color: {{ site.data.theme.colors.highlight }};
 }
 
-span.icon-hn {
-  font-family: "open sans", sans-serif;
-  line-height: 20px;
-  text-align: center;
-  font-weight: bold;
-  position: relative;
-  left: 7px;
-}
-
 .home, #toggle-theme {
   font-size: 24px;
   float: right;
@@ -276,14 +267,6 @@ span.icon-hn {
 .footnotes {
   font-size: 14px;
   font-style: italic;
-}
-
-.icon-overlay {
-  font-size: 16px !important;
-  position: relative;
-  bottom: 27px;
-  left: 5px;
-  color: white;
 }
 
 .caption {
