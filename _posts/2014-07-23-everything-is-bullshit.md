@@ -5,7 +5,6 @@ categories:
 - writeup
 ---
 
-
 ![]({{site.baseurl}}/static/bullshit.jpg)  
 [Everything Is Bullshit: The greatest scams on Earth revealed][link]   
 Priceonomics  

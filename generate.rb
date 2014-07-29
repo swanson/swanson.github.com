@@ -38,5 +38,5 @@ File.open(filename, "w") do |file|
   file.write(content)
 end
 
-system "subl -n . _posts/"
+system "subl -n . #{filename}"
 puts "Crush it!"
