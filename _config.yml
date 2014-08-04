@@ -1,5 +1,5 @@
 lsi: false
-highlighter: rouge
+highlighter: pygments
 markdown: redcarpet
 baseurl: http://mdswanson.com
 exclude: ["CNAME", "README.md", "Rakefile", "generate.rb", "Gemfile", "Gemfile.lock"]
