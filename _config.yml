@@ -2,6 +2,6 @@ lsi: false
 highlighter: rouge
 markdown: redcarpet
 baseurl: http://mdswanson.com
-exclude: ["CNAME", "README.md", "Rakefile", "generate.py"]
+exclude: ["CNAME", "README.md", "Rakefile", "generate.rb", "Gemfile", "Gemfile.lock"]
 gems:
   - jekyll-sitemap
