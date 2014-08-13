@@ -10,7 +10,7 @@ categories:
 
 It all started with a JavaScript error...
 
-```
+```javascript
 Uncaught SyntaxError: Unexpected token ILLEGAL
 ```
 
@@ -47,7 +47,7 @@ about that string.
 
 I pasted it into an `irb` session and found the likely culprit:
 
-```
+```ruby
 irb(main):001:0> "QNk8n\U+FFE2\U+FFA8"
 ```
 

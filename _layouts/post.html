@@ -2,11 +2,14 @@
 layout: default
 ---
 
-<p class="meta"> {{ page.date | date: "%B %d, %Y" }}
-<a href="/"><i class="home fa fa-home"></i></a>
-</p>
+{% include header.html %}
+
+<article>
 <h1 class="title">{{ page.title }}</h1>
 
+<p class="date">
+  {{ page.date | date: "%B %d, %Y" }}
+</p>
 
 <div id="post">
   {{ content }}
@@ -26,3 +29,5 @@ layout: default
   <p style="text-align: left; color: #666;">Disclaimer: Matt Swanson is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to amazon.com</p>
 </div>
 {% endif %}
+
+</article>

@@ -1,0 +1,140 @@
+@import 'variables';
+@import 'syntax';
+
+body {
+  border-top: 7px solid $accent-color;
+}
+
+header {
+  height: $nav-height;
+  margin-bottom: $nav-height / 4;
+  display: block;
+  width: 100%;
+  @include clearfix;
+
+  a.logo {
+    float: left;
+    max-height: $nav-height;
+
+    img {
+      max-height: $nav-height - 20;
+      margin-top: 10px;
+      margin-bottom: 10px;
+    }
+  }
+
+  nav {
+    float: right;
+    text-align: center;
+
+    ul li {
+      display: inline;
+      text-decoration: none;
+      line-height: $nav-height;
+      font-size: .9em;
+      
+      a {
+        color: $accent-color;
+      
+        &:hover { 
+          color: darken($accent-color, 15);
+        }
+      }
+      
+      :after {
+        content: " \00b7";
+        font-weight: bold;
+      }
+    }
+
+    li.no-bullet :after {
+      content: none;
+    }
+  }
+}
+
+section {
+  @include outer-container;
+
+  width: 720px;
+  margin: 0 auto;
+  padding-top: 10px;
+}
+
+article {
+  @include clearfix;
+  text-align: left;
+
+  h1 {
+    font-family: $sans-serif-article-2;
+    font-size: 1.3em;
+
+    @include media($medium-screen) {
+      font-size: 1.8em;
+    }
+  }
+
+  h2 {
+    font-family: $sans-serif-article-2;
+    font-size: 1.2em;
+    font-weight: 400;
+    line-height: 1.4em;
+    margin-bottom: .9em;
+
+    @include media($medium-screen) {
+      font-size: 1.4em;
+    }
+  }
+
+  h3 {
+    font-family: $sans-serif-article-2;
+    font-size: 1.2em;
+    font-weight: 400;
+    line-height: 1.3em;
+    margin-bottom: .4em;
+  }
+
+  p.date {
+    color: transparentize($base-font-color, .6);
+    font-family: $sans-serif-article;
+    font-size: .9em;
+    margin-bottom: .5em;
+    margin-top: .3em;
+  }
+
+  p {
+    font-family: $sans-serif-article;
+    line-height: 1.4em;
+    font-size: 1.05em;
+    font-weight: 300;
+    margin-bottom: 1em;
+
+    span {
+      font-family: $sans-serif-article-2;
+      text-transform: uppercase;
+      font-size: 0.8em;
+    }
+  }
+
+  p.author {
+    font-family: $sans-serif-article;
+  }
+
+  ul {
+    margin: 1em 0;
+    list-style: disc;
+  }
+  
+  pre code {
+    border: none;
+    font-size: 100%;
+  }
+
+  code {
+    border: 1px solid #ddd;
+    background-color: #eef;
+    font-size: 85%;
+    padding: 0 .3em;
+  }
+}
+

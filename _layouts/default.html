@@ -9,34 +9,39 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Matt Swanson - {{ page.title }}</title>
   <meta name="author" content="Matt Swanson" />
-  <meta name="description" content="blog posts, talks, book writeups and projects by a software engineer in Indiana" />
+  <meta name="description" content="blog posts, talks, book writeups and projects by a software engineer from Indiana" />
   <link rel="canonical" href="http://mdswanson.com{{ page.url | replace:'index.html','' }}" />
 
-  <link href="//fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800" rel="stylesheet" type="text/css">
+  <link href="//fonts.googleapis.com/css?family=Nunito:400,700,300" rel="stylesheet" type="text/css">
+  <link href="//fonts.googleapis.com/css?family=Varela+Round" rel="stylesheet" type="text/css">
   <link rel="shortcut icon" href="/static/favicon.png">
   <link rel="alternate" type="application/rss+xml" title="Matt Swanson" href="{{site.baseurl}}/atom.xml" />
 
   {% if site.github %}
-    <link rel="stylesheet" href="/css/all.css?sha={{ site.github.build_revision }}">
+    <link rel="stylesheet" href="/css/site.css?sha={{ site.github.build_revision }}">
   {% else %}
-    <link rel="stylesheet" href="/css/all.css">
+    <link rel="stylesheet" href="/css/site.css">
   {% endif %}
 </head>
 <body>
-  <div class="container">
-    <div class="four columns sidebar">
+  <!--<section>
+    <aside>
       {% include sidebar.html %}
-    </div>
+    </aside>
 
-    <div class="eleven columns content">
+    <article> -->
+    <section>
       {{ content }}
+    </section>
+   <!-- </article>
+  </section>
 
-      <div class="footer">
-        {% include footer.html %}
-      </div>
-    </div>
-  </div>
+  <footer>
+    {% include footer.html %}
+  </footer> -->
 
-{% include analytics.html %}
+  {% if site.github %}
+    {% include analytics.html %}
+  {% endif %}
 </body>
 </html>

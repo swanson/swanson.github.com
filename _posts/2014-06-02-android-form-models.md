@@ -238,7 +238,7 @@ at home).
 Coming from other frameworks (and speaking with other developers), data binding is
 pretty lacking on Android. Something still seems a bit off with this design because we
 are coupled tightly to Android classes and there is dependency on knowing the order of
-methods to call (e.g.`initialize()` should be called before `validate()`) &mdash; however
+methods to call (e.g. `initialize()` should be called before `validate()`) &mdash; however
 I think it is an improvement over the "giant mud ball Activity".
 
 As your form models get more and more complex, you may want to think about extracting
