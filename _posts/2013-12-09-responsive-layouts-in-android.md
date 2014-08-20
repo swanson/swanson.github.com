@@ -4,6 +4,8 @@ title: "Responsive Layouts in Android without Copy/Paste"
 categories:
 - blog
 date: 2013-12-11
+tags:
+- android
 ---
 
 I'm working on an Android app that targets both phones and tablets so I've been

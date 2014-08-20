@@ -1,8 +1,10 @@
 ---
 layout: post
-title: "Step-by-Step UX Improvement"
+title: "Step-by-Step UX Improvement: Project Screenshots"
 categories:
 - blog
+tags:
+- work_log
 ---
 
 I've been playing the role of UX fairy on my current project at work

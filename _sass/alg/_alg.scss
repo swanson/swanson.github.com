@@ -2,7 +2,7 @@
 @import 'syntax';
 
 body {
-  border-top: 7px solid $accent-color;
+  border-top: 7px solid $accent-secondary;
 }
 
 header {
@@ -67,10 +67,10 @@ article {
 
   h1 {
     font-family: $sans-serif-article-2;
-    font-size: 1.3em;
+    font-size: 1.4em;
 
     @include media($medium-screen) {
-      font-size: 1.8em;
+      font-size: 1.9em;
     }
   }
 
@@ -94,12 +94,16 @@ article {
     margin-bottom: .4em;
   }
 
-  p.date {
+  p.subtitle {
     color: transparentize($base-font-color, .6);
     font-family: $sans-serif-article;
     font-size: .9em;
     margin-bottom: .5em;
     margin-top: .3em;
+
+    .date {
+      float: right;
+    }
   }
 
   p {
@@ -135,6 +139,132 @@ article {
     background-color: #eef;
     font-size: 85%;
     padding: 0 .3em;
+  }
+
+  hr {
+    width: 40%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  hr.fin {
+    width: 100%;
+    margin-left: 0;
+    margin-bottom: 15px;
+  }
+
+  blockquote {
+    font-size: 1.2em;
+    border-color: $accent-secondary;
+    font-style: italic;
+  }
+}
+
+footer {
+  @include outer-container;
+  padding-bottom: 30px;
+  font-size: .9em;
+  margin-top: 5px;
+
+  #bio {
+    @include span-columns(8);
+    display: table;
+  }
+
+  aside {
+    @include span-columns(4);
+    text-align: right;
+
+    p {
+      margin-bottom: 1em;
+    }
+  }
+
+  #bio-image img {
+    height: auto;
+    width: 100px;
+    max-width: none;
+    display: block;
+  }
+
+  #bio-image {
+    padding-right: .8em;
+  }
+
+  #bio-image, #bio-text {
+    display: table-cell;
+    vertical-align: top;
+  }
+
+  #bio-text {
+    p {
+      margin-bottom: 0.5em;
+    }
+  }
+
+  #bio-social {
+    margin-top: -12px;
+
+    a {
+      color: $accent-secondary;
+      font-size: 1.8em;
+    }
+
+    #social-links {
+      display: inline-block;
+      position: relative;
+      top: 4px;
+      left: 4px;
+    }
+  }
+
+  h3 {
+    font-size: 1em;
+  }
+}
+
+#writeup {
+  img {
+    padding: 5px;
+    border: 1px solid #AAA;
+    border-radius: 3px;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.055);
+  }
+}
+
+#post {
+  img {
+    margin: 0 auto;
+    display: block;
+  }
+}
+
+#fine-print {
+  text-align: center;
+  font-size: 11px;
+  color: #666;
+}
+
+#series {
+  h3 {
+    clear: both;
+    padding-top: 20px;
+  }
+
+  li {
+    text-align: center;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+
+    @include media($medium-screen) {
+      width: 50%;
+      float: left;
+    }
+  }
+
+  .favorite {
+    font-weight: bold;
   }
 }
 

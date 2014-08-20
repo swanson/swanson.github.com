@@ -3,6 +3,9 @@ layout: post
 title: "Reliable API testing for Android with Retrofit and Mockito"
 categories:
 - blog
+tags:
+- android
+favorite: true
 ---
 
 Testing HTTP calls that interact with an API have always been a tricky beast.

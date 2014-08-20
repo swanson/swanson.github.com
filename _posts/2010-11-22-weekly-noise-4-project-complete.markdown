@@ -3,6 +3,8 @@ layout: post
 title: Weekly Noise 4 Recap - Glorified Screensaver - Post Mortem
 categories:
 - blog
+tags:
+- worklog
 ---
 
 I was just about to give up on my 

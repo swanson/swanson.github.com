@@ -3,6 +3,8 @@ layout: post
 title: "How to Not Quit"
 categories:
 - blog
+tags:
+- growth
 ---
 
 > 1. Make friends with others who make software, and share your in-progress work with each other frequently.

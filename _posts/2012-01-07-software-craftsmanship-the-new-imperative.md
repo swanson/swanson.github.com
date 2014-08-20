@@ -1,5 +1,5 @@
 ---
-layout: writeup
+layout: post
 title: "Software Craftsmanship: The New Imperative"
 categories:
 - writeup

@@ -3,6 +3,8 @@ layout: post
 title: Weekly Noise 3 - "So it's like a screensaver..." (Part II)
 categories:
 - blog
+tags:
+- worklog
 ---
 I got a lot done [last week](http://mdswanson.com/blog/2010/11/07/weekly-noise-2-recap.html) 
 and I am really liking the **Weekly Noise** format.  I've even got a new idea 

@@ -3,6 +3,8 @@ layout: post
 title: "Too Much Information"
 categories:
 - blog
+tags:
+- growth
 ---
 
 *"So how long will this task take?"* An innocent question from the client at a 

@@ -1,5 +1,5 @@
 ---
-layout: writeup
+layout: post
 title: "Are Your Lights On?"
 categories:
 - writeup

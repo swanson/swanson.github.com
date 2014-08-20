@@ -3,6 +3,8 @@ layout: post
 title: What's on your Learning List?
 categories:
 - blog
+tags:
+- growth
 ---
 
 How do you track and decide what topics you want to spend time learning?

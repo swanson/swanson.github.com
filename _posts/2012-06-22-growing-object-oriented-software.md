@@ -1,5 +1,5 @@
 ---
-layout: writeup
+layout: post
 title: "Growing Object Oriented Software, Guided By Tests"
 categories:
 - writeup

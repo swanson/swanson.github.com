@@ -1,0 +1,43 @@
+- name: Growth
+  desc: |
+    A series about the journey from junior developer towards 
+    senior engineer, with an emphasis on soft skills and 
+    professional growth
+  tag_name: growth
+
+- name: Delightful Products
+  desc: |
+    A series exploring my thoughts on building simple products 
+    that people love
+  tag_name: delightful_products
+
+- name: Practices
+  desc: |
+    A series on my real-world experiences with agile practices 
+    and techniques, with an emphasis on challenging dogmatic 
+    practices
+  tag_name: practices
+
+- name: Reflections
+  desc: |
+    A deeply personal series focused on looking back and 
+    critically evaluating myself, in the context of both 
+    personal and professional life
+  tag_name: reflections
+
+- name: Tangential
+  desc: |
+    A series on the intersection of software and other 
+    crafts/professions
+  tag_name: tangential
+
+- name: Story Time
+  desc: |
+    Because who doesn't love a good story?
+  tag_name: story
+
+- name: Engineering Android
+  desc: |
+    A series on applying known good practices and structure to 
+    the wild world of mobile development
+  tag_name: android

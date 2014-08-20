@@ -3,6 +3,9 @@ layout: post
 title: "Myers-Briggs for Programming Styles"
 categories:
 - blog
+tags:
+- tangential
+favorite: true
 ---
 
 The [Myers-Briggs Type Indicator][mbti] assessment is a well-known test that is 

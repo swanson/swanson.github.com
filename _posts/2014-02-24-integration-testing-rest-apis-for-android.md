@@ -3,6 +3,8 @@ layout: post
 title: "Integration Testing against REST APIs in Android"
 categories:
 - blog
+tags:
+- android
 ---
 
 In my last post on Android testing, I talked about how to [reliably test API

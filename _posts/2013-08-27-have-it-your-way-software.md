@@ -3,6 +3,8 @@ layout: post
 title: "\"Have It Your Way\" Software"
 categories:
 - blog
+tags:
+- delightful_products
 ---
 
 [Have It Your Way][ad] is an iconic slogan from Burger King.

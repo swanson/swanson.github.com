@@ -1,5 +1,5 @@
 ---
-layout: writeup
+layout: post
 title: "The Five Dysfunctions of a Team"
 categories:
 - writeup

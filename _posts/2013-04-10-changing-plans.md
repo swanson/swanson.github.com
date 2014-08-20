@@ -3,6 +3,8 @@ layout: post
 title: "Changing Plans"
 categories:
 - blog
+tags:
+- practices
 ---
 
 There is some friction between agile methodologies and the desire for

@@ -3,6 +3,8 @@ layout: post
 title: "How to make writing tests less painful"
 categories:
 - blog
+tags:
+- practices
 ---
 
 I've been hacking on a few new projects recently, both at work and on my own 

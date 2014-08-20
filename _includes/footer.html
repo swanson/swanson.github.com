@@ -1,4 +1,33 @@
-<div class="disclaimer">
-  <p>The postings on this site are my own and don't necessarily represent my 
-  employer’s positions, strategies or opinions.</p>
+<footer>
+  <div id="bio">
+    <div id="bio-image">
+      <img src="/static/mugshot.jpg" alt="Matt Swanson">
+    </div>
+    
+    <div id="bio-text">
+      <p>Hi. I'm <b>Matt Swanson</b>.</p>
+      <p>I do things and sometimes write about it here. I'm a Software Engineer from Indiana and I ship code at <a href="http://www.sep.com/">SEP</a>.</p>
+      
+      <div id="bio-social">
+        {% include social.html %}
+      </div>
+    </div>
+  </div>
+
+  {% unless page.skip_related %}
+  <aside>
+    <h3>Further reading</h3>
+    <ul class="posts">
+      {% for post in site.related_posts limit:3 %}
+        <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+      {% endfor %}
+    </ul>
+  </aside>
+  {% endunless %}
+</footer>
+
+<div id="fine-print">
+  <p>
+    built with <a href="#">&hearts;</a>, <a href="http://jekyllrb.com/">Jekyll</a>, and <a href="https://github.com/swanson/swanson.github.com">GitHub Pages</a> &mdash; read the <a href="/legal">fine print</a>
+  </p>
 </div>

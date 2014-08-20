@@ -1,8 +1,10 @@
 ---
-layout: writeup
+layout: post
 title: "Complications"
 categories:
 - writeup
+tags:
+- tangential
 ---
 
 ![](/static/complications.jpg)  

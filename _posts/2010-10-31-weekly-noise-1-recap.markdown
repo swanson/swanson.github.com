@@ -3,6 +3,8 @@ layout: post
 title: Weekly Noise - Week 1 Recap
 categories:
 - blog
+tags:
+- worklog
 ---
 
 Its been a week since I started my first [Weekly Noise](http://mdswanson.com/blog/2010/10/24/weekly-noise.html)

@@ -3,6 +3,8 @@ layout: post
 title: Digging around the Github v3 API
 categories:
 - blog
+tags:
+- worklog
 ---
 
 I've had a little project idea brewing for a while that would require

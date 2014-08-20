@@ -3,6 +3,8 @@ layout: post
 title: How HackerNews ruined my morning
 categories:
 - blog
+tags:
+- reflections
 ---
 
 Derek Sivers once wrote that ["ideas are just a multiplier of execution"](http://sivers.org/multiply). 

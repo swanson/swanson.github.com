@@ -3,6 +3,8 @@ layout: post
 title: "Repeating Background Textures in Android"
 categories:
 - blog
+tags:
+- android
 ---
 
 * Pick something from [Subtle Patterns][sp], e.g. `irongrip.png` and

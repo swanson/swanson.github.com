@@ -4,6 +4,8 @@ title: "My Year in Review: 2013"
 categories:
 - blog
 date: 2014-02-10
+tags:
+- reflections
 ---
 
 I've done a yearly writeup for the past two years. I always struggle to

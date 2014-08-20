@@ -1,5 +1,5 @@
 ---
-layout: writeup
+layout: post
 title: "So Good They Can't Ignore You"
 categories:
 - writeup

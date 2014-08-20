@@ -3,6 +3,8 @@ layout: post
 title: "Getting Traction for your Open Source Project"
 categories:
 - blog
+tags:
+- practices
 ---
 
 I released an open source RSS reader &mdash; [Stringer][s] &mdash; a few 

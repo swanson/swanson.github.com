@@ -1,8 +1,10 @@
 ---
-layout: writeup
+layout: post
 title: "Think Like a Chef"
 categories:
 - writeup
+tags:
+- tangential
 ---
 
 ![]({{site.baseurl}}/static/think-like-a-chef.jpg)  

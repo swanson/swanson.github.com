@@ -3,6 +3,8 @@ layout: post
 title: One Day Further
 categories:
 - blog
+tags:
+- growth
 ---
 
 > I can't blog|share|talk about that, I'm not an expert!

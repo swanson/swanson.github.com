@@ -3,6 +3,8 @@ layout: post
 title: Making a commit with the Github API
 categories:
 - blog
+tags:
+- worklog
 ---
 
 The [last time I was playing around with the Github API][1] I was able to pull

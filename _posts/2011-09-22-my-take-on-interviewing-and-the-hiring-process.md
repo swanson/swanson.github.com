@@ -3,6 +3,8 @@ layout: post
 title: My take on interviewing and the hiring process
 categories:
 - blog
+tags:
+- practices
 ---
 
 There seem to be few topics that illicit a stronger reaction from developers than

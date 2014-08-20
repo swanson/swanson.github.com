@@ -1,5 +1,5 @@
 ---
-layout: writeup
+layout: post
 title: "The Personal MBA"
 categories:
 - writeup

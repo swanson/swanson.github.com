@@ -3,6 +3,8 @@ layout: post
 title: "Interview to Implementation: Horizon Report"
 categories:
 - blog
+tags:
+- worklog
 ---
 
 We recently added a new report to my current project at work. I am very

@@ -3,6 +3,9 @@ layout: post
 title: "Personal Meditations on Software"
 categories:
 - blog
+tags:
+- reflections
+favorite: true
 ---
 
 I've been reading [Marcus Aurelius' *Meditations*][med]. I haven't gotten far,

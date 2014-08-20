@@ -1,5 +1,5 @@
 ---
-layout: writeup
+layout: post
 title: "Objects on Rails"
 categories:
 - writeup

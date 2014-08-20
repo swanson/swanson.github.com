@@ -4,6 +4,9 @@ title: "New Coke User Experience"
 categories:
 - blog
 date: 2012-09-25
+tags:
+- tangential
+favorite: true
 ---
 
 If you've been to any fast food restaurant lately, you may have noticed the fancy, new

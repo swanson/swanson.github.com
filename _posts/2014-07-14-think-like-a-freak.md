@@ -1,5 +1,5 @@
 ---
-layout: writeup
+layout: post
 title: "Think Like A Freak"
 categories:
 - writeup

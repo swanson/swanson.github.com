@@ -3,6 +3,8 @@ layout: post
 title: "I Don't Have Time"
 categories:
 - blog
+tags:
+- growth
 ---
 
 Is there something you'd like to create? A project you want to build? A goal you want to

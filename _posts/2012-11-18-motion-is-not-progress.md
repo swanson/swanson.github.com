@@ -3,6 +3,8 @@ layout: post
 title: "Motion is not Progress"
 categories:
 - blog
+tags:
+- reflections
 ---
 
 I've put about 40 hours of my free time into writing a technical book.

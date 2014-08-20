@@ -3,6 +3,8 @@ layout: post
 title: "Expanding and Contracting"
 categories:
 - blog
+tags:
+- reflections
 ---
 
 I've been thinking about the concept of expansion and contraction lately.

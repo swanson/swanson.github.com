@@ -3,6 +3,8 @@ layout: post
 title: Weekly Noise 2 - "So it's like a screensaver..."
 categories:
 - blog
+tags:
+- worklog
 ---
 
 I will be moving offices in January and as part of the new design, the office 

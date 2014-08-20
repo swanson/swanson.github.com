@@ -3,6 +3,9 @@ layout: post
 title: "Personal Time Capsule"
 categories:
 - blog
+tags:
+- reflections
+favorite: true
 ---
 
 In the spring of 2008 &mdash; nearly 5 years ago &mdash; I wrote my first piece of useful software; it

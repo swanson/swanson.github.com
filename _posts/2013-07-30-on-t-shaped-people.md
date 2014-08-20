@@ -3,6 +3,8 @@ layout: post
 title: "On Becoming T-Shaped"
 categories:
 - blog
+tags:
+- growth
 ---
 
 [T-shaped people][t] are all the rage right now in knowledge-work pop-culture.

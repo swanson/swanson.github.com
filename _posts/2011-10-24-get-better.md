@@ -3,6 +3,9 @@ layout: post
 title: Get Better
 categories:
 - blog
+tags:
+- growth
+favorite: true
 ---
 
 <blockquote>

@@ -4,6 +4,8 @@ title: "A Dangerous Obsession with Primitives"
 categories:
 - blog
 date: 2012-05-31
+tags:
+- story
 ---
 
 I recently came across a code smell called **Primitive Obsession** in James Shore's 

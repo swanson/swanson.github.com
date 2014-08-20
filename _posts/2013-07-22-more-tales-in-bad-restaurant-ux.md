@@ -3,6 +3,8 @@ layout: post
 title: "More Tales in Bad Restaurant UX"
 categories:
 - blog
+tags:
+- tangential
 ---
 
 I've been trying to hold back my rants on restaurant UX after

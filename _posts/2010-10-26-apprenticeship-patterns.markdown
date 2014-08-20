@@ -1,5 +1,5 @@
 ---
-layout: writeup
+layout: post
 title: Apprenticeship Patterns
 categories:
 - writeup

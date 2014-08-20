@@ -3,6 +3,9 @@ layout: post
 title: "Code Reviews: Good idea, bad idea?"
 categories:
 - blog
+tags:
+- practices
+favorite: true
 ---
 
 Code reviews seem to be a relatively docile topic in software development.

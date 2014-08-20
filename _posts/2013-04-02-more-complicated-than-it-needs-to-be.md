@@ -3,6 +3,8 @@ layout: post
 title: "More Complicated Than It Needs To Be"
 categories:
 - blog
+tags:
+- delightful_products
 ---
 
 > Once you’ve hit the point where a simpler pattern isn’t working for you anymore and you

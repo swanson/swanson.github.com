@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Legal
----
-
+title: The Fine Print (Legal)
+subtitle: "Updated August 2014"
+skip_footer: true
 ---
 
 **ÄLG Logo** adapted from Tavern Sign designed by [Andrew Hainen][ah] from the [Noun Project][noun].

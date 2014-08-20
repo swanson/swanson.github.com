@@ -1,5 +1,5 @@
 ---
-layout: writeup
+layout: post
 title: "Learned Optimism"
 categories:
 - writeup

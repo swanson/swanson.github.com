@@ -1,5 +1,5 @@
 ---
-layout: writeup
+layout: post
 title: "A Short History of Nearly Everything"
 categories:
 - writeup

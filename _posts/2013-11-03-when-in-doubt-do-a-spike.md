@@ -4,6 +4,8 @@ title: "When in doubt, do a Spike"
 categories:
 - blog
 from_newsletter: true
+tags:
+- practices
 ---
 
 I've been kicking off a new project at work in the past week. We are in the

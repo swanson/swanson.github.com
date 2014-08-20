@@ -1,5 +1,5 @@
 ---
-layout: writeup
+layout: post
 title: Getting Real
 categories:
 - writeup

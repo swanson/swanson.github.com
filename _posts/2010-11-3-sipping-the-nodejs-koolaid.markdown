@@ -3,6 +3,8 @@ layout: post
 title: Building a Javascript web app, or sipping the node.js koolaid
 categories:
 - blog
+tags:
+- worklog
 ---
 
 I've been toying around with the idea of building a 

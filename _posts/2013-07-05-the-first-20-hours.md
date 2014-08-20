@@ -1,5 +1,5 @@
 ---
-layout: writeup
+layout: post
 title: "The First 20 Hours"
 categories:
 - writeup

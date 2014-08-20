@@ -5,29 +5,42 @@ layout: default
 {% include header.html %}
 
 <article>
-<h1 class="title">{{ page.title }}</h1>
+  <h1 class="title">
+    {% if page.categories contains "writeup" %}
+      "{{ page.title }}" Book Writeup
+    {% else %}
+      {{ page.title }}
+    {% endif %}
+  </h1>
 
-<p class="date">
-  {{ page.date | date: "%B %d, %Y" }}
-</p>
+  <p class="subtitle">
+    {% if page.subtitle %}
+      <span>{{ page.subtitle }}</span>
+    {% else %}
+      <span>
+        {% if page.tags %}
+          Series: {{ page.tags | join: ", " | replace: "_", " "}}
+        {% endif %}
+      </span>
 
-<div id="post">
-  {{ content }}
-</div>
+      <span class="date">
+        {{ page.date | date: "%B %d, %Y" }}
+      </span>
+    {% endif %}
+  </p>
 
-<div id="related">
-  <h3>Related Posts</h3>
-  <ul class="posts">
-    {% for post in site.related_posts limit:3 %}
-    <li><span>{{ post.date | date_to_string }} &raquo;</span> <a href="{{ post.url }}">{{ post.title }}</a></li>
-    {% endfor %}
-  </ul>
-</div>
+  {% if page.categories contains "writeup" %}
+    <div id="writeup">{{ content }}</div>
+  {% else %}
+    <div id="post">{{ content }}</div>
+  {% endif %}
+      
 
-{% if page.disclaimer %}
-<div class="disclaimer">
-  <p style="text-align: left; color: #666;">Disclaimer: Matt Swanson is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to amazon.com</p>
-</div>
-{% endif %}
-
+  {% unless page.skip_footer %}
+    <hr class="fin"/>
+  {% endunless %}
 </article>
+
+{% unless page.skip_footer %}
+  {% include footer.html %}
+{% endunless %}

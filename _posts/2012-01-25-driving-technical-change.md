@@ -1,5 +1,5 @@
 ---
-layout: writeup
+layout: post
 title: Driving Technical Change
 categories:
 - writeup

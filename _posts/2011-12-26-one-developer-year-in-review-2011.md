@@ -1,8 +1,10 @@
 ---
 layout: post
-title: "One Developer-Year in Review: 2011"
+title: "My Year in Review: 2011"
 categories:
 - blog
+tags:
+- reflections
 ---
 
 This post is mainly for my own benefit -- I am repeatedly surprised by the phenomenon

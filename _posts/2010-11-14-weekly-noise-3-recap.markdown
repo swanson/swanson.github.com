@@ -3,6 +3,8 @@ layout: post
 title: Weekly Noise 3 Recap/Weekly Noise 4 - Hitting a roadblock
 categories:
 - blog
+tags:
+- worklog
 ---
 
 I ran into some issues this week.  The first task that I tried to tackle was

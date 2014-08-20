@@ -3,6 +3,8 @@ layout: post
 title: Overcoming Momentum
 categories:
 - blog
+tags:
+- practices
 ---
 
 4:47 pm on a Friday. You've spent all week fighting with your code. But, finally, you 

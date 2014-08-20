@@ -3,6 +3,9 @@ layout: post
 title: "Move your feet"
 categories:
 - blog
+tags:
+- growth
+favorite: true
 ---
 
 * Four books. 28 hours of screencasts. Two online courses.    
@@ -50,5 +53,5 @@ pairs of wicking socks I would need, etc &mdash; when the trainer looked over an
 comment that really resonated with me:
 
 <blockquote>
-<p style="font-size: 18px;">Wanna know the secret to improving your running? <strong>Move your feet.</strong></p>
+<p>Wanna know the secret to improving your running? <strong>Move your feet.</strong></p>
 </blockquote>

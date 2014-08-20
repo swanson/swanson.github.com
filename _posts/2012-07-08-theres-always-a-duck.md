@@ -1,5 +1,5 @@
 ---
-layout: writeup
+layout: post
 title: "There's Always a Duck"
 categories:
 - writeup

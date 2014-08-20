@@ -1,8 +1,10 @@
 ---
 layout: post
-title: "Engineering - Over/Under: I'm a Serial Over Committer"
+title: "Over/Under: I'm a Serial Over Committer"
 categories:
 - blog
+tags:
+- reflections
 ---
 
 Over committing - taking on too many things at once - is a pretty established anti-pattern.

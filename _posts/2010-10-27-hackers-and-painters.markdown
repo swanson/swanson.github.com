@@ -1,5 +1,5 @@
 ---
-layout: writeup
+layout: post
 title: Hackers &amp; Painters
 categories:
 - writeup

@@ -3,6 +3,8 @@ layout: post
 title: "Don't Email Me at 2am"
 categories:
 - blog
+tags:
+- delightful_products
 ---
 
 Almost every web app these days sends emails. You've got your 

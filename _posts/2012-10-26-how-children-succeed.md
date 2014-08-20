@@ -1,5 +1,5 @@
 ---
-layout: writeup
+layout: post
 title: "How Children Succeed"
 categories:
 - writeup

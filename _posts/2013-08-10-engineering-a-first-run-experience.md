@@ -3,6 +3,8 @@ layout: post
 title: "Engineering a First Run Experience"
 categories:
 - blog
+tags:
+- delightful_products
 ---
 
 First impressions are important. I spent a lot of time thinking about the first 

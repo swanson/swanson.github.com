@@ -5,6 +5,9 @@ categories:
 - blog
 published: true
 date: 2014-04-07
+tags:
+- android
+favorite: true
 ---
 
 For something as common as interfacing with a REST API, one would think that

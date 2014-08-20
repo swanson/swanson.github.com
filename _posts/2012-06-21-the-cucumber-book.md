@@ -1,5 +1,5 @@
 ---
-layout: writeup
+layout: post
 title: "The Cucumber Book"
 categories:
 - writeup

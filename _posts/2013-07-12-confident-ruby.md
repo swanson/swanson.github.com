@@ -1,5 +1,5 @@
 ---
-layout: writeup
+layout: post
 title: "Confident Ruby"
 categories:
 - writeup

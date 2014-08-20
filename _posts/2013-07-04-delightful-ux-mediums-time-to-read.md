@@ -3,6 +3,9 @@ layout: post
 title: "Delightful UX: Medium's Time to Read"
 categories:
 - blog
+tags:
+- delightful_products
+favorite: true
 ---
 
 [Medium][m] recently implemented a simple feature that I think is 

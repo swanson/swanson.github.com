@@ -1,5 +1,5 @@
 ---
-layout: writeup
+layout: post
 title: "What I've Learned From Failure"
 categories:
 - writeup

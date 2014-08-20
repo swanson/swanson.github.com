@@ -3,6 +3,8 @@ layout: post
 title: "Step-by-Step UX Improvement: Screenshot Upload"
 categories:
 - blog
+tags:
+- worklog
 ---
 
 My last post [detailing the step-by-step process][lp] I use to 

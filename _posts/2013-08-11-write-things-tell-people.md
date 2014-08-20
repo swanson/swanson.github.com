@@ -3,6 +3,9 @@ layout: post
 title: "Do things, write about it"
 categories:
 - blog
+tags:
+- growth
+favorite: true
 ---
 
 One of my favorite phrases is "Do things, tell people". I came across it in

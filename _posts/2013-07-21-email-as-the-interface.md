@@ -3,6 +3,9 @@ layout: post
 title: "Email as the Interface"
 categories:
 - blog
+tags:
+- delightful_products
+favorite: true
 ---
 
 I think using Email as the Interface is a really interesting concept for building new

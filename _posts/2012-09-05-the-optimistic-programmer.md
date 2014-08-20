@@ -4,6 +4,8 @@ title: "The Optimistic Programmer"
 categories:
 - blog
 date: 06-11-2012
+tags:
+- tangential
 ---
 
 Imagine two developers &mdash; Alice and Bob &mdash; both fresh out of school and ready to

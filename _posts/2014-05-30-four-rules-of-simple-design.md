@@ -1,5 +1,5 @@
 ---
-layout: writeup
+layout: post
 title: "Understanding the Four Rules of Simple Design"
 categories:
 - writeup

@@ -3,7 +3,10 @@ layout: post
 title: Weekly Noise 2 Recap - alert("It's working!");
 categories:
 - blog
+tags:
+- worklog
 ---
+
 The past week I have been working on a 
 [web-based "announcement board"](http://mdswanson.com/blog/2010/10/31/weekly-noise-2-so-its-like-a-screensaver.html) 
 using a [slew of Javascript libraries](http://mdswanson.com/blog/2010/11/03/sipping-the-nodejs-koolaid.html).

@@ -1,8 +1,10 @@
 ---
-layout: writeup
+layout: post
 title: "The Making of a Chef"
 categories:
 - writeup
+tags:
+- tangential
 ---
 
 ![]({{site.baseurl}}/static/making-chef.jpg)  

@@ -3,6 +3,8 @@ layout: post
 title: The Applebee's of Software Development
 categories:
 - blog
+tags:
+- tangential
 ---
 
 >"The Applebee's of Software Development" is the first week's prompt for the 

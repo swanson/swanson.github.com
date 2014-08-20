@@ -3,6 +3,8 @@ layout: post
 title: Update on Lanyon + Cross-domain AJAX POSTs with CORS
 categories:
 - blog
+tags:
+- worklog
 ---
 
 An update is long past due on [Lanyon][lanyon-repo] (my Jeykll WYSIWYG editor project) so here

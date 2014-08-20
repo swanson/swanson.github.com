@@ -1,5 +1,5 @@
 ---
-layout: writeup
+layout: post
 title: "Everything is Bullshit"
 categories:
 - writeup

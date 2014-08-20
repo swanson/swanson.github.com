@@ -1,5 +1,5 @@
 ---
-layout: writeup
+layout: post
 title: "The Senior Software Engineer"
 categories:
 - writeup

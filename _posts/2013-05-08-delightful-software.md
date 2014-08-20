@@ -3,6 +3,8 @@ layout: post
 title: "You (yes you!) can make delightful products"
 categories:
 - blog
+tags:
+- delightful_products
 ---
 
 You've probably heard about [delighting your customers][delight].

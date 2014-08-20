@@ -1,5 +1,5 @@
 ---
-layout: writeup
+layout: post
 title: "The Wisdom of Crowds"
 categories:
 - writeup

@@ -3,6 +3,9 @@ layout: post
 title: "The 30 Second Standup"
 categories:
 - blog
+tags:
+- practices
+favorite: true
 ---
 
 The Three Pillars of Standup Meetings:

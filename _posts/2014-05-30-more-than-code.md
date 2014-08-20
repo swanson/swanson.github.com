@@ -3,6 +3,8 @@ layout: post
 title: "There is more to it than code"
 categories:
 - blog
+tags:
+- growth
 ---
 
 There are activities &mdash; other than programming on client work &mdash; that are key parts of

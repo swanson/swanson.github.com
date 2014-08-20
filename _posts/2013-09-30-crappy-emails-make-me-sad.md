@@ -4,6 +4,8 @@ title: "Crappy emails make me sad"
 categories:
 - blog
 from_newsletter: true
+tags:
+- delightful_products
 ---
 
 Email is a really powerful tool for delighting your users, but I find that

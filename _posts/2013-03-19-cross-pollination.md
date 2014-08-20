@@ -3,6 +3,8 @@ layout: post
 title: "Cross-Pollinate"
 categories:
 - blog
+tags:
+- growth
 ---
 
 I learned an RSpec naming convention while pairing with a [developer][vam] at 

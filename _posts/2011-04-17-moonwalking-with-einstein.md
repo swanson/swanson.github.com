@@ -1,5 +1,5 @@
 ---
-layout: writeup
+layout: post
 title: Moonwalking with Einstein
 categories:
 - writeup

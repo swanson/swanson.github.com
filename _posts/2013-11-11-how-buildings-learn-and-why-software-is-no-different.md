@@ -4,6 +4,9 @@ title: "How Buildings Learn (and why software is no different)"
 categories:
 - blog
 from_newsletter: true
+tags:
+- tangential
+favorite: true
 ---
 
 I like to read material from outside of software; I find thinking about how I can apply some lessons

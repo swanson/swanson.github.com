@@ -3,6 +3,8 @@ layout: post
 title: "Evaluating Technical Arguments"
 categories:
 - blog
+tags:
+- growth
 ---
 
 Every day Hacker News, Reddit, and Twitter ebb and flow with dozens of new articles about

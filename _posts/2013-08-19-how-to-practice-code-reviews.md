@@ -3,6 +3,9 @@ layout: post
 title: "How to Practice Code Reviews"
 categories:
 - blog
+tags:
+- practices
+favorite: true
 ---
 
 I've become addicted to a simple new app by [Katrina Owen][k].

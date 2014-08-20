@@ -3,6 +3,8 @@ layout: post
 title: "Intrapreneurship: Applying the Lean Startup to building internal tools"
 categories:
 - blog
+tags:
+- practices
 ---
 
 I recently finished reading Eric Ries' ["The Lean Startup"][ls] and one section really

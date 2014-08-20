@@ -3,6 +3,9 @@ layout: post
 title: "Worst. Bug. Ever."
 categories:
 - blog
+tags:
+- story
+favorite: true
 ---
 
 Some bugs are the worst because they [cost money][money]. Some because they [cost lives][lives].

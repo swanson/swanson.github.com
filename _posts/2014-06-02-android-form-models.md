@@ -3,6 +3,8 @@ layout: post
 title: "Extracting Form Models in Android"
 categories:
 - blog
+tags:
+- android
 ---
 
 In my continuing [quest to get code out of Android Activities][quest], I've implemented

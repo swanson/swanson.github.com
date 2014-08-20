@@ -4,6 +4,9 @@ title: "How not to validate email addresses"
 categories:
 - blog
 from_newsletter: true
+tags:
+- delightful_products
+favorite: true
 ---
 
 

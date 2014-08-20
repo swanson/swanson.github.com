@@ -3,6 +3,8 @@ layout: post
 title: "Test First as System 2 Thinking"
 categories:
 - blog
+tags:
+- tangential
 ---
 
 I've been reading Daniel Kahneman's excellent [*Thinking, Fast and Slow*][tfs] lately; the book introduces two types of thinking: System 1 and System 2.
