@@ -3,6 +3,7 @@ layout: post
 title: "So Good They Can't Ignore You"
 categories:
 - writeup
+favorite: true
 ---
 
 ![](/static/so-good.jpg)  

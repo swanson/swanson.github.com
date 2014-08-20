@@ -3,6 +3,7 @@ layout: post
 title: "How to Fail at Almost Everything and Still Win Big"
 categories:
 - writeup
+favorite: true
 ---
 
 ![](/static/scott-adams.jpg)  

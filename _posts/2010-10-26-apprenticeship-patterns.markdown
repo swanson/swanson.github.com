@@ -3,6 +3,7 @@ layout: post
 title: Apprenticeship Patterns
 categories:
 - writeup
+favorite: true
 ---
 ![](/static/apprenticeship-patterns.png)  
 [Apprenticeship Patterns: Guidance for Aspiring Software Craftsman](http://www.amazon.com/exec/obidos/ASIN/0596518382/ref=nosim&tag=bookreview0a1-20)  

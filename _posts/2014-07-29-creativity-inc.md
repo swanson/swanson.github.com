@@ -3,6 +3,7 @@ layout: post
 title: "Creativity, Inc."
 categories:
 - writeup
+favorite: true
 ---
 
 

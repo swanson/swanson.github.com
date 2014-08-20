@@ -3,6 +3,7 @@ layout: post
 title: Driving Technical Change
 categories:
 - writeup
+favorite: true
 ---
 
 ![](/static/driving-technical-change.jpeg)  

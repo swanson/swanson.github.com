@@ -3,6 +3,7 @@ layout: post
 title: "The Senior Software Engineer"
 categories:
 - writeup
+favorite: true
 ---
 
 

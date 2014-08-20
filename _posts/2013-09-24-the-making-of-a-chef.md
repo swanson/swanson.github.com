@@ -5,6 +5,7 @@ categories:
 - writeup
 tags:
 - tangential
+favorite: true
 ---
 
 ![]({{site.baseurl}}/static/making-chef.jpg)  

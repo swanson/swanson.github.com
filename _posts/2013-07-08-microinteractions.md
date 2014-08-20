@@ -3,6 +3,7 @@ layout: post
 title: "Microinteractions"
 categories:
 - writeup
+favorite: true
 ---
 
 ![](/static/microinteractions.jpg)  

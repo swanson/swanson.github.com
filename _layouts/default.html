@@ -9,11 +9,13 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Matt Swanson - {{ page.title }}</title>
   <meta name="author" content="Matt Swanson" />
-  <meta name="description" content="blog posts, talks, book writeups and projects by a software engineer from Indiana" />
+  <meta name="description" content="writing on software, book writeups and projects by a software engineer from Indiana" />
+  
   <link rel="canonical" href="http://mdswanson.com{{ page.url | replace:'index.html','' }}" />
 
   <link href="//fonts.googleapis.com/css?family=Nunito:400,700,300" rel="stylesheet" type="text/css">
   <link href="//fonts.googleapis.com/css?family=Varela+Round" rel="stylesheet" type="text/css">
+
   <link rel="shortcut icon" href="/static/favicon.png">
   <link rel="alternate" type="application/rss+xml" title="Matt Swanson" href="{{site.baseurl}}/atom.xml" />
 
@@ -24,21 +26,9 @@
   {% endif %}
 </head>
 <body>
-  <!--<section>
-    <aside>
-      {% include sidebar.html %}
-    </aside>
-
-    <article> -->
-    <section>
-      {{ content }}
-    </section>
-   <!-- </article>
+  <section>
+    {{ content }}
   </section>
-
-  <footer>
-    {% include footer.html %}
-  </footer> -->
 
   {% if site.github %}
     {% include analytics.html %}

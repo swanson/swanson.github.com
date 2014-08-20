@@ -3,6 +3,7 @@ layout: post
 title: "Growing Object Oriented Software, Guided By Tests"
 categories:
 - writeup
+favorite: true
 ---
 
 ![](/static/goos-gbt.jpg)  

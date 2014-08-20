@@ -3,6 +3,7 @@ layout: post
 title: Getting Real
 categories:
 - writeup
+favorite: true
 ---
 ![](/static/getting-real.png)  
 [Getting Real](http://www.amazon.com/exec/obidos/ASIN/0578012812/ref=nosim&tag=bookreview0a1-20)  

@@ -16,10 +16,13 @@ layout: default
   <p class="subtitle">
     {% if page.subtitle %}
       <span>{{ page.subtitle }}</span>
+    {% elsif page.categories contains "writeup" %}
+      <span>{{ page.date | date: "%B %d, %Y" }}</span>
     {% else %}
       <span>
         {% if page.tags %}
-          Series: {{ page.tags | join: ", " | replace: "_", " "}}
+          {% assign sn = page.tags | join: "" | replace: "_", " " %}
+          Series: <a href="/#{{ sn }}">{{ sn }}</a>
         {% endif %}
       </span>
 

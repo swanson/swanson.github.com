@@ -3,6 +3,7 @@ layout: post
 title: "The Personal MBA"
 categories:
 - writeup
+favorite: true
 ---
 
 ![](/static/personal-mba.jpg)  

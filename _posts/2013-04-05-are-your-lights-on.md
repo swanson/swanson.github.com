@@ -3,6 +3,7 @@ layout: post
 title: "Are Your Lights On?"
 categories:
 - writeup
+favorite: true
 ---
 
 ![](/static/lights-on.jpg)  

@@ -3,6 +3,7 @@ layout: post
 title: Agile Retrospectives
 categories:
 - writeup
+favorite: true
 ---
 
 ![](/static/agile-retrospectives.jpg)  
