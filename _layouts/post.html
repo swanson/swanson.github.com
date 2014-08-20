@@ -21,8 +21,8 @@ layout: default
     {% else %}
       <span>
         {% if page.tags %}
-          {% assign sn = page.tags | join: "" | replace: "_", " " %}
-          Series: <a href="/#{{ sn }}">{{ sn }}</a>
+          {% assign sn = page.tags | join: ""  %}
+          Series: <a href="/#{{ sn }}">{{ sn | replace: "_", " " }}</a>
         {% endif %}
       </span>
 

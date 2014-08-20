@@ -21,6 +21,7 @@ everything from getting the most out of your development tools to software desig
 development and how to work in a team environment.
 
 Sections to pay close attention to: 
+
 * __Communicate!__: a crash course in technical communications
 * __Tracer Bullets__: write a barebones, end-to-end skeleton
 * __Decoupling and the Law of Demeter__: smaller modules with minimal dependencies are good
@@ -47,6 +48,7 @@ a career in software. There is so much fantastic advice in this book that it des
 known.
 
 Sections to pay close attention to:
+
 * __The Long Road__: keep your focus on the long term, value growth over salary
 * __Find Mentors__: seek out and learn from those that are ahead of you
 * __Create Feedback Loops__: how to get useful feedback
@@ -73,6 +75,7 @@ Tell Don't Ask, role behavior, object composition &mdash; that doesn't feel over
 won't pick up and master every concept the first time, but it is good to get exposure as early as possible.
 
 Sections to pay close attention to:
+
 * __Deciding What Belongs in a Class__: introduction to SRP, code that is easy to change
 * __Writing Loosely Coupled Code__: managing dependencies and choosing dependency direction
 * __Creating Flexible Interfaces__: thinking about Messages

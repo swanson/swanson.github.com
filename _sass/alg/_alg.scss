@@ -60,8 +60,20 @@ section {
   @include outer-container;
 
   width: 720px;
-  margin: 0 auto;
+  margin: 10px auto;
   padding-top: 10px;
+
+  @include media(min-width 680px max-width 760px) {
+    width: 600px;
+  }
+
+  @include media(min-width 500px max-width 680px) {
+    width: 520px;
+  }
+
+  @include media(max-width 500px) {
+    width: 300px;
+  }
 }
 
 article {
@@ -70,8 +82,16 @@ article {
 
   h1 {
     font-family: $sans-serif-article-2;
-    font-size: 1.4em;
+    font-size: 1.2em;
     color: $accent-color;
+
+    @include media($medium-screen) {
+      font-size: 1.7em;
+    }
+  }
+
+  h1.title {
+    font-size: 1.4em;
 
     @include media($medium-screen) {
       font-size: 1.9em;
@@ -164,6 +184,10 @@ article {
 }
 
 footer {
+  @include media(max-width 760px) {
+    display: none;
+  }
+
   @include outer-container;
   padding-bottom: 30px;
   font-size: .9em;

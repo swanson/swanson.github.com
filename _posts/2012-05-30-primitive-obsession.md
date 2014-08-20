@@ -5,7 +5,7 @@ categories:
 - blog
 date: 2012-05-31
 tags:
-- story
+- growth
 ---
 
 I recently came across a code smell called **Primitive Obsession** in James Shore's 
