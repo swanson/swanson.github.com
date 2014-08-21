@@ -6,7 +6,7 @@ Spelling/grammar corrections are always welcome (and much appreciated :heart:) v
 
 ---
 ### Theme
-The theme is ÄLG (unreleased for now).
+Älg (unreleased for now).
 
 ![](https://raw.github.com/swanson/swanson.github.com/master/screenshots/home.png)
 ![](https://raw.github.com/swanson/swanson.github.com/master/screenshots/blog.png)
