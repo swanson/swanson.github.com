@@ -3,8 +3,6 @@ layout: post
 title: Lessons Learned from SEP's Internal Startup Weekend
 categories:
 - blog
-tags:
-- story
 ---
 
 This past weekend, [SEP](http://www.sep.com/) held its first internal 

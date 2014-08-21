@@ -4,7 +4,7 @@ title: "Two Lines of Code: An Open Source Tale"
 categories:
 - blog
 tags:
-- story
+- practices
 ---
 
 

@@ -4,8 +4,6 @@ title: Global Day of Code Retreat Recap
 categories:
 - blog
 date: 2011-12-05
-tags:
-- story
 ---
 
 Over the weekend, I took part in the Indy edition of the [Global Day of Code Retreat][cr].

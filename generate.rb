@@ -15,14 +15,13 @@ end
 
 options[:title] = ARGV.shift
 options[:category] = ARGV.shift || "blog"
-options[:layout] = options[:category] == "blog" ? :post : :writeup
 
 def slug(title)
   title.downcase.gsub(/[^\w]/, " ").strip.gsub(/\s+/, '-')
 end
 
 template = '''---
-layout: %{layout}
+layout: post
 title: "%{title}"
 categories:
 - %{category}

@@ -1,7 +1,7 @@
 - name: Growth
   desc: |
-    The journey from junior developer towards senior engineer, 
-    with an emphasis on soft skills &amp; professional growth
+    The journey towards senior engineer, with an emphasis on soft 
+    skills &amp; professional growth
   tag_name: growth
 
 - name: Delightful Products
@@ -26,11 +26,6 @@
     The intersection of software and other crafts &amp; 
     professions
   tag_name: tangential
-
-- name: Story Time
-  desc: |
-    Because who doesn't love a good story?
-  tag_name: story
 
 - name: Engineering in Android
   desc: |

@@ -11,7 +11,7 @@
         Monthly email newsletter for Indianapolis-area developers
 
     - name: Triplico
-      url: http://www.tripli.co
+      url: https://github.com/swanson/triplico
       blurb: >
         Share YouTube videos among 3 people
 
@@ -32,7 +32,7 @@
       blurb: Daily team mood tracking via email
 
     - name: QueueRunner
-      url: http://www.queuerunner.com
+      url: https://github.com/swanson/queue-runner
       blurb: Track your TV shows
 
     - name: ferrara
@@ -63,7 +63,7 @@
 - year: 2011
   projects:
     - name: abe
-      url: http://abe.heroku.com
+      url: http://abe.herokuapp.com
       blurb: >
         Abraham Lincoln? Isn't he the President who...
 
