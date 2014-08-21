@@ -20,4 +20,4 @@ The following directories and their contents are Copyright Matt Swanson. You may
 * talks/
 * static/
 
-All other directories and files are MIT Licensed. Font Awesome (font/) is licensed under SIL OFL 1.1 and MIT Licences and I claim no ownership.
+All other directories and files are MIT Licensed.
