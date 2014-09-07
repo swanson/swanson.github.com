@@ -250,7 +250,7 @@ So back to our original goal, is this approach more durable?
 
 Configuration changes (rotation, phone call, etc) will not crash the app. We
 don't have a bunch of defensive programming or null checks sprinkled every
-where. We can even swap our the data source without making changes to our
+where. We can even swap out the data source without making changes to our
 activity. If we want to retrieve data from a database instead, we just need to
 make sure to post the `StoriesLoadedEvent` event once we retrieve the data. We
 even have a more testable and less coupled design in the process!
