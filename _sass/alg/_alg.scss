@@ -84,6 +84,7 @@ article {
     font-family: $sans-serif-article-2;
     font-size: 1.2em;
     color: $accent-color;
+    margin-bottom: .4em;
 
     @include media($medium-screen) {
       font-size: 1.7em;
@@ -103,7 +104,7 @@ article {
     font-size: 1.2em;
     font-weight: 400;
     line-height: 1.4em;
-    margin-bottom: .9em;
+    margin-bottom: .3em;
 
     @include media($medium-screen) {
       font-size: 1.4em;
@@ -115,7 +116,7 @@ article {
     font-size: 1.2em;
     font-weight: 400;
     line-height: 1.3em;
-    margin-bottom: .4em;
+    margin-bottom: .3em;
   }
 
   p.subtitle {

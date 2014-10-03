@@ -13,16 +13,19 @@ layout: default
     {% endif %}
   </h1>
 
+  {% assign tag_count = page.tags | size %}
   <p class="subtitle">
     {% if page.subtitle %}
       <span>{{ page.subtitle }}</span>
-    {% elsif page.categories contains "writeup" %}
+    {% elsif page.categories contains "writeup" or tag_count == 0 %}
       <span>{{ page.date | date: "%B %d, %Y" }}</span>
     {% else %}
       <span>
-        {% if page.tags %}
+        {% if tag_count > 0 %}
           {% assign sn = page.tags | join: ""  %}
           Series: <a href="/#{{ sn }}">{{ sn | replace: "_", " " }}</a>
+        {% else %}
+          &nbsp;
         {% endif %}
       </span>
 
