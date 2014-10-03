@@ -57,7 +57,7 @@ This one is easy. I simply look at the [IndyHackers job board][ihj] and copy ove
 
 Our list has grown 35% this year and we continue to have high engagement (70% open rate, 30% click-through). I'd love to be more intentional about finding new readers in 2015 and promoting the newsletter at meetups.
 
-If you run an Indianapolis meetup and want to encourage memebers to subscribe, that would be awesome. We are always looking for cool projects, news, or events so don't be shy &mdash; even if it's self-promotion, we love sharing all the neat stuff people are working on.
+If you run an Indianapolis meetup and want to encourage members to subscribe, that would be awesome. We are always looking for cool projects, news, or events so don't be shy &mdash; even if it's self-promotion, we love sharing all the neat stuff people are working on.
 
 [subscribe]: http://indyhackers.us6.list-manage.com/subscribe?u=244b5370d41b5cf4146ec517c&id=b51f983563
 [msz]: https://twitter.com/mileszs
