@@ -6,7 +6,7 @@ categories:
 skip_related: true
 ---
 
-For almost two years now I've written a [monthly newsletter for IndyHackers][subscribe]. With the help of [Miles Sterret][msz], we find a bunch of cool projects, events, and blog posts that happened in Indianapolis (or surrounding areas) over the past month. People seem to like it and we get to promote awesome local developers doing awesome stuff.
+For almost two years now I've written a [monthly newsletter for IndyHackers][subscribe]. With the help of [Miles Sterrett][msz], we find a bunch of cool projects, events, and blog posts that happened in Indianapolis (or surrounding areas) over the past month. People seem to like it and we get to promote awesome local developers doing awesome stuff.
 
 There are four basic sections in the [newsletter][archive]:
 
