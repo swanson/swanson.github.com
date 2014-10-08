@@ -33,5 +33,4 @@ stage in their career.  The parts about making your own career roadmap are very 
  (under 200 pages) so you could easily tackle it in a weekend.
 
 ---
-Notes: I read this entirely on my Kindle and there were no issues.  This book is also available online on the 
-[O'Reilley Open Feedback Publishing System](http://apprenticeship-patterns.labs.oreilly.com/).
+Notes: I read this entirely on my Kindle and there were no issues.  This book is also available online on [O'Reilly Chimera Labs](http://chimera.labs.oreilly.com/books/1234000001813/index.html).
