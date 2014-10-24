@@ -6,7 +6,7 @@ skip_related: true
 
 Hi. I'm Matt Swanson.
 
-I'm a software engineer who values light-weight agile processes, TDD, and good design. But above all: shipping.
+I'm a software engineer who values lightweight agile processes, TDD, and good design. But above all: shipping.
 
 I enjoy building simple apps that people love using.
 
