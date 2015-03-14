@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Fine Print (Legal)
-subtitle: "Updated August 2014"
+subtitle: "Updated March 2015"
 skip_footer: true
 ---
 
@@ -15,4 +15,4 @@ Disclaimer: Matt Swanson is a participant in the Amazon Services LLC Associates 
 The postings on this site are my own and don't necessarily represent my 
   employer’s positions, strategies or opinions.
 
-&copy; 2010&ndash;2014, Matt Swanson
+&copy; 2010&ndash;2015, Matt Swanson
