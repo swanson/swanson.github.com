@@ -31,7 +31,7 @@ each section is digestible and focused on practical actions you can take.
 My biggest mental shift came from the first chapter, which emphasizes a laser-focus on 
 delivering results. Most of us think we are "result-oriented" but upon closer inspection, 
 we often lack a true focus on delivering value. An email promising you'll "look into it" 
-doesn't provide value and is an implicit promise that you may not be able to upheld.
+doesn't provide value and is an implicit promise that you may not be able to uphold.
 
 When providing technical recommendations, remember to consider the priorities of the other
 parties. Something that is important to you (as a developer) might be near the bottom of
