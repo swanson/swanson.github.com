@@ -152,7 +152,7 @@ will pay off in the end.
 [jw]: https://twitter.com/JakeWharton
 [mb]: https://twitter.com/yogurtearl
 [rf]: https://github.com/square/retrofit
-[mi]: https://github.com/square/retrofit/blob/master/retrofit-samples/mock-github-client/src/main/java/com/example/retrofit/GitHubClient.java
+[mi]: https://github.com/square/retrofit/blob/master/samples/mock-github-client/src/main/java/com/example/retrofit/GitHubClient.java
 [par]: http://en.wikipedia.org/wiki/Pareto_principle
 [wm]: http://wiremock.org/
 [ljc]: https://gist.github.com/swanson/7dee3f3474e30fe8f15c
