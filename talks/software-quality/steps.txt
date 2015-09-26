@@ -1,0 +1,38 @@
+Rename variable
+* better variable names for d,s,t
+
+Rename method
+* calculate -> computeFares
+* GeoUtils.calcute -> findDistance -> findDrivingDistance
+
+Extract method
+* calculate price
+
+Move Method
+* move get type to Car
+
+Extract class
+* PriceCalculator
+
+Replace magic number with symbolic constant
+* tax
+* cost per mile
+
+Convert comment to descriptive method
+* Surge pricing comment -> methods
+
+
+Consolidate Conditional
+* make duringSurgePricing
+
+Feature Envy - move method
+* move geo calculate to ride
+
+Introduce parameter object
+* startLat/lon -> Address object
+
+Primitive Obsession - Replace Data Value with Object
+* create ServiceLevel
+
+Switch statements - Replace Conditional with Polymorphism
+* car type base rates (maybe this isn't much better)
