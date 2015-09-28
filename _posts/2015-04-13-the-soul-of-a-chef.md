@@ -7,7 +7,7 @@ favorite: true
 ---
 
 
-![]({{site.baseurl}}/static/soul-of-a-chef.jpg)  
+![]({{site.url}}/static/soul-of-a-chef.jpg)  
 [The Soul of a Chef: The Journey Toward Perfection][link]   
 Michael Ruhlman  
 ISBN: 0141001895  

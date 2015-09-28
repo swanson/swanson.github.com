@@ -8,7 +8,7 @@ tags:
 favorite: true
 ---
 
-![]({{site.baseurl}}/static/making-chef.jpg)  
+![]({{site.url}}/static/making-chef.jpg)  
 [The Making of a Chef: Mastering Heat at the Culinary Institute of America][link]   
 Michael Ruhlman    
 ISBN: 080508939X    

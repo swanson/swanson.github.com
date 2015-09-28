@@ -7,7 +7,7 @@ favorite: true
 ---
 
 
-![]({{site.baseurl}}/static/creativity-inc.jpg)  
+![]({{site.url}}/static/creativity-inc.jpg)  
 [Creativity, Inc.: Overcoming the Unseen Forces That Stand in the Way of True Inspiration][link]   
 Ed Catmull, Amy Wallace  
 ISBN: 0812993012  

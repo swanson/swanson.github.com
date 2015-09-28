@@ -7,7 +7,7 @@ favorite: true
 ---
 
 
-![]({{site.baseurl}}/static/sse.png)  
+![]({{site.url}}/static/sse.png)  
 [The Senior Software Engineer: A guide for making the most of your career][link]   
 David Copland   
     

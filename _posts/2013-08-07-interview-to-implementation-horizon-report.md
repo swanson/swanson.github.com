@@ -55,7 +55,7 @@ doing full blown mockups at this time, because people get too bogged down
 in the details at this stage. No reason to spend 15 minutes deciding on
 which columns to display or what the button text says right now.
 
-!["Shorthand Notes"]({{site.baseurl}}/static/chops-horizon-notes-big.png)
+!["Shorthand Notes"]({{site.url}}/static/chops-horizon-notes-big.png)
 
 
 ## Mockup: What the heck did I write?!
@@ -64,7 +64,7 @@ When I got back to my desk &mdash; with the interview still fresh in my
 mind &mdash; I did a quick mockup. It is a good thing mockups are supposed
 to be "rough looking" because I'm not great at drawing!
 
-!["Quick Mockup"]({{site.baseurl}}/static/chops-horizon-mockup.png)
+!["Quick Mockup"]({{site.url}}/static/chops-horizon-mockup.png)
 
 My main goal was to make sure I captured the key features from the
 interview and translated them from my shorthand into something I could
@@ -92,7 +92,7 @@ and "External Project" sections, show Top 21 vs Top 20 so it would fill the
 three-column grid evenly), but overall, the report is pretty close to the
 mockup.
 
-[![]({{site.baseurl}}/static/chops-horizon-pixels-thumb.png)]({{site.baseurl}}/static/chops-horizon-pixels.png) 
+[![]({{site.url}}/static/chops-horizon-pixels-thumb.png)]({{site.url}}/static/chops-horizon-pixels.png) 
 
 <div class="caption">Dummy data, click for larger image</div>
 

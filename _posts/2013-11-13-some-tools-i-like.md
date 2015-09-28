@@ -12,7 +12,7 @@ am about to blow your mind.
 
 Just use the [`cal`][cal] UNIX command!
 
-![cal UNIX command]({{site.baseurl}}/static/cal.png)
+![cal UNIX command]({{site.url}}/static/cal.png)
 
 ## Why is my blog loading so slow?
 
@@ -23,7 +23,7 @@ your image sizes are reduced by 25-75%.
 
 (Warning: your MacBook might sound like a jet engine while this runs...)
 
-![ImageOptim screenshot]({{site.baseurl}}/static/imageoptim.png)
+![ImageOptim screenshot]({{site.url}}/static/imageoptim.png)
 
 ## I need to make a quick web page. Should I install WordPress?
 

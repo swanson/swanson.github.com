@@ -7,7 +7,7 @@ tags:
 - tangential
 ---
 
-![]({{site.baseurl}}/static/think-like-a-chef.jpg)  
+![]({{site.url}}/static/think-like-a-chef.jpg)  
 [Think Like a Chef][link]   
 Tom Colicchio  
 ISBN: 0307406954   

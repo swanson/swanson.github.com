@@ -53,7 +53,7 @@ knowledge of anything.
 Near the phase transitions, tension occurs.
 
 <div class="pic">
-  <img alt="Expansion / Contraction Cycle" src="{{site.baseurl}}/static/cycle.png">
+  <img alt="Expansion / Contraction Cycle" src="{{site.url}}/static/cycle.png">
 </div>
 
 Ever feel like you are just jumping between tools and concepts and can hardly keep up? Maybe you aren't

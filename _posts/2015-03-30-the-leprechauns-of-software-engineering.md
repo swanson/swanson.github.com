@@ -6,7 +6,7 @@ categories:
 favorite: true
 ---
 
-![]({{site.baseurl}}/static/leprechauns.png)  
+![]({{site.url}}/static/leprechauns.png)  
 [The Leprechauns of Software Engineering: How folklore turns into fact and what to do about it][link]   
 Laurent Bossavit  
     
@@ -22,7 +22,7 @@ The authors provides examples of how some "common wisdom" that is often cited as
 
 Take one example: the [cost of change curve][coc]. Traditional, this is presented as a graph that plots the "cost of change" over the stages of a project (requirements, design, coding, production, etc). The graph depicts a smoothly-sloping, exponential relationship &mdash; intended to highlight that the further along the development process, the more costly a change will be to make.
 
-![]({{site.baseurl}}/static/cost-of-change-graph.gif)
+![]({{site.url}}/static/cost-of-change-graph.gif)
 
 This graph looks very scientific and official. It is cited in early and well-known Agile software literature. But once you dig deeper, there are numerous problems with taking this graph at face value. 
 

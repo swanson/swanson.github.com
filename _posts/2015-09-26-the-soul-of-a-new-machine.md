@@ -5,7 +5,7 @@ categories:
 - writeup
 ---
 
-![]({{site.baseurl}}/static/soul-of-a-new-machine.jpg)  
+![]({{site.url}}/static/soul-of-a-new-machine.jpg)  
 [The Soul of a New Machine][link]   
 Tracy Kidder  
 ISBN: 0316491977  

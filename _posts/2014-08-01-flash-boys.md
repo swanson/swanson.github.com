@@ -5,7 +5,7 @@ categories:
 - writeup
 ---
 
-![]({{site.baseurl}}/static/flash-boys.jpg)  
+![]({{site.url}}/static/flash-boys.jpg)  
 [Flash Boys: A Wall Street Revolt][link]   
 Michael Lewis  
 ISBN: 0393244660   

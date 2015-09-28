@@ -5,7 +5,7 @@ categories:
 - writeup
 ---
 
-![]({{site.baseurl}}/static/bullshit.jpg)  
+![]({{site.url}}/static/bullshit.jpg)  
 [Everything Is Bullshit: The greatest scams on Earth revealed][link]   
 Priceonomics  
 ISBN: 0692224963  
