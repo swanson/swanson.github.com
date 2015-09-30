@@ -3,6 +3,7 @@ layout: post
 title: "Juking the Stats"
 categories:
 - blog
+tags:
 - practices
 date: 2015-09-30
 ---
