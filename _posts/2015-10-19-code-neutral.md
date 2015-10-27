@@ -62,9 +62,9 @@ We accidentally left behind a whole package (10+ classes) of boilerplate helper 
 
 ---
 
-I'm not sure how reasonable it is for everyone to remove more lines than they've added, especially on a project that is still under active development. While we can strive to build features with the minimal amount of code, creating new functionality is usually a net-addition of code. But it was fun to try to get closer to neutral, even if getting all the way to zero might not always be feasible.
+I'm not sure how reasonable it is for everyone to remove more lines than they've added, especially on a project that is still under active development. While we can strive to build features with the minimal amount of code, creating new functionality is usually a net-addition of code. But it was fun to try to get closer to neutral, even if getting all the way to zero isn't always feasible.
 
-It might seem a little silly to care so much about this number. But I think it was actually a productive use of my downtime as I wound down on the project. In the end, it was really satisfying to have removed more than I added to the codebase (while adding a year's worth of new functionality). The codebase will be a little nicer and a little smaller for those that will continue working on it.
+It might seem silly to care so much about this number. But I think it was actually a productive use of my time as I wound down on the project. In the end, it was really satisfying to have removed more than I added to the codebase (while adding a year's worth of new functionality). The codebase will be a little nicer and a little smaller for those that will continue working on it.
 
 [carbon]: https://en.wikipedia.org/wiki/Carbon_neutrality
 [bs]: http://bikeshed.fm/18
