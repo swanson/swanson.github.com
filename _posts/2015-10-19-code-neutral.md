@@ -24,7 +24,7 @@ I mentioned my "quest" to delete code to a co-worker and we talked about some of
 
 Cleaning up a bunch of unused code is like cleaning your desk. If you don't do it periodically, it just [breeds a larger mess][bw]. We don't want people to start thinking it's okay to leave big chunks of unused code in the project.
 
-(Note: I am not interested in "cheating" by removing whitespace or re-formatting code to artificially inflate my stats. Only legitimately removals were allowed!)
+(Note: I am not interested in "cheating" by removing whitespace or re-formatting code to artificially inflate my stats. Only legitimate removals were allowed!)
 
 Over a couple of weeks, I would actively try to remove code from the project. I noticed a few themes and identified some hot-spots that seem generally applicable.
 
