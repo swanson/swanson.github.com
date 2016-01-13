@@ -24,7 +24,7 @@ I mentioned my "quest" to delete code to a co-worker and we talked about some of
 
 Cleaning up a bunch of unused code is like cleaning your desk. If you don't do it periodically, it just [breeds a larger mess][bw]. We don't want people to start thinking it's okay to leave big chunks of unused code in the project.
 
-(Note: I am not interested in "cheating" by removing whitespace or re-formatting code to artificially inflate my stats. Only legitimately removals were allowed!)
+(Note: I am not interested in "cheating" by removing whitespace or re-formatting code to artificially inflate my stats. Only legitimate removals were allowed!)
 
 Over a couple of weeks, I would actively try to remove code from the project. I noticed a few themes and identified some hot-spots that seem generally applicable.
 
@@ -62,9 +62,9 @@ We accidentally left behind a whole package (10+ classes) of boilerplate helper 
 
 ---
 
-I'm not sure how reasonable it is for everyone to remove more lines than they've added, especially on a project that is still under active development. While we can strive to build features with the minimal amount of code, creating new functionality is usually a net-addition of code. But it was fun to try to get closer to neutral, even if getting all the way to zero might not always be feasible.
+I'm not sure how reasonable it is for everyone to remove more lines than they've added, especially on a project that is still under active development. While we can strive to build features with the minimal amount of code, creating new functionality is usually a net-addition of code. But it was fun to try to get closer to neutral, even if getting all the way to zero isn't always feasible.
 
-It might seem a little silly to care so much about this number. But I think it was actually a productive use of my downtime as I wound down on the project. In the end, it was really satisfying to have removed more than I added to the codebase (while adding a year's worth of new functionality). The codebase will be a little nicer and a little smaller for those that will continue working on it.
+It might seem silly to care so much about this number. But I think it was actually a productive use of my time as I wound down on the project. In the end, it was really satisfying to have removed more than I added to the codebase (while adding a year's worth of new functionality). The codebase will be a little nicer and a little smaller for those that will continue working on it.
 
 [carbon]: https://en.wikipedia.org/wiki/Carbon_neutrality
 [bs]: http://bikeshed.fm/18
