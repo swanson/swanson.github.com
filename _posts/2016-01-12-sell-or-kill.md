@@ -27,7 +27,7 @@ If Yes: Often, this is where we stop. We need it, it has value, we have people "
 
 ## Do other companies (that are similar to us) need this tool?
 
-If No: It's time to take a deep look at our perceived need. There are certainly exceptions, we are not usually special snowflakes. Why don't other companies have this need? What do they do instead? Why isn't this a nagging problem for them like it (allegedly) is for us?
+If No: It's time to take a deep look at our perceived need. There are certainly exceptions, but we are not usually special snowflakes. Why don't other companies have this need? What do they do instead? Why isn't this a nagging problem for them like it (allegedly) is for us?
 
 The solution might be that we need to look at the problem a different way. 
 
