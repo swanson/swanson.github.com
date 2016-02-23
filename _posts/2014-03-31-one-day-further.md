@@ -7,7 +7,7 @@ tags:
 - growth
 ---
 
-> I can't blog|share|talk about that, I'm not an expert!
+> I can't blog/share/talk about that, I'm not an expert!
 
 I hear comments along this line regularly. Sometimes from new developers,
 but also, surprisingly, from seasoned veterans.
