@@ -152,6 +152,11 @@ article {
     margin: 1em 0;
     list-style: disc;
   }
+
+  ol {
+    margin: 1em 0;
+    list-style: decimal-leading-zero;
+  }
   
   pre code {
     border: none;
