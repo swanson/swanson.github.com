@@ -42,7 +42,7 @@ you depend on as arguments.
 
 Change from this:
 
-{% highlight csharp %}
+```csharp
 public class Appraisal {
   private ComicBook comicBook { get; set; }
 
@@ -55,11 +55,11 @@ public class Appraisal {
     return comicBook.ListPrice * percentageModifier;
   }
 }
-{% endhighlight %}
+```
 
 to this:
 
-{% highlight csharp %}
+```csharp
 public class Appraisal {
   private ICollectible collectible { get; set; }
   private IGrader collectableGrader { get; set; }
@@ -74,7 +74,7 @@ public class Appraisal {
     return collectible.ListPrice * percentageModifier;
   }
 }
-{% endhighlight %}
+```
 
 Did I have to define a Registry in an XML file? Is there some DI Container
 framework I have to setup? Nope, just a constructor argument.
@@ -108,13 +108,13 @@ interrogating. For each public method, ask the object in the form of a question:
 
 [poodr]: http://www.poodr.info/
 
-{% highlight csharp %}
+```csharp
 public class QuarterlySalesReport {
   public FiscalQuarter SalesQuarter() { ... }
   public IEnumerable<Sales> AllSales() { ... }
   public Product MostProfitableProduct() { ... }
 }
-{% endhighlight %}
+```
 
 "Mr. `QuarterlySalesReport`, what sale quarter are you for?"
 

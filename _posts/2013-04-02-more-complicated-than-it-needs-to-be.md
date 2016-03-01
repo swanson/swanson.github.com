@@ -7,16 +7,12 @@ tags:
 - delightful_products
 ---
 
-> Once you’ve hit the point where a simpler pattern isn’t working for you anymore and you
-> have to start using the more complicated one, \[there’s a natural tendency\] to then 
-> always reach for the complicated one in other situations where the simple one would 
-> be just fine.
-> <cite style="float: right;"><a href="http://rubyrogues.com/097-rr-book-club-patterns-of-enterprise-architecture-with-martin-fowler/">Martin Fowler</a></cite>
+> Once you’ve hit the point where a simpler pattern isn’t working for you anymore and you have to start using the more complicated one, \[there’s a natural tendency\] to then always reach for the complicated one in other situations where the simple one would be just fine. <cite style="float: right;"><a href="http://rubyrogues.com/097-rr-book-club-patterns-of-enterprise-architecture-with-martin-fowler/">Martin Fowler</a></cite>
 
 The Boss needs an app to capture employee suggestions --- we can't use a cardboard box with 
 a cut-out slot, we are a software company!
 
-{% highlight ruby %}
+```ruby
 class SuggestionsController < ApplicationController::Base
   before_filter :authenticate!
   before_filter :boss_only, except: [:new, :create]
@@ -59,12 +55,12 @@ class SuggestionsController < ApplicationController::Base
     end
   end
 end
-{% endhighlight %}
+```
 
 
 Sometimes simple is better.
 
-{% highlight ruby %}
+```ruby
 class SuggestionBox < Sinatra::Base
   get "/" do
     erb :form
@@ -80,4 +76,4 @@ class SuggestionBox < Sinatra::Base
     redirect to("/")
   end
 end
-{% endhighlight %}
+```

@@ -21,7 +21,7 @@ of roles or actions and then inject this new behavior into objects.
 
 The canonical example, instead of this:
 
-{% highlight ruby %}
+```ruby
 class User < ActiveRecord::Base
   attr_accessible :email, :name
 
@@ -36,11 +36,11 @@ class User < ActiveRecord::Base
 end
 
 user.approve(request)
-{% endhighlight %}
+```
 
 Do something like this:
 
-{% highlight ruby %}
+```ruby
 class User < ActiveRecord::Base
   ... only user model stuff ...
 end
@@ -54,7 +54,7 @@ end
 
 user.extend(Approver)
 user.approve(request)
-{% endhighlight %}
+```
 
 It is now easier to test the `Approver` behavior in isolation, `User` becomes less of a junk
 drawer, it sort of makes more sense from a real-world sense since a user will be acting as 
@@ -80,7 +80,7 @@ Some examples from my [RSS reader][stringer] (small Sinatra app):
 
 [stringer]: https://github.com/swanson/stringer
 
-{% highlight ruby %}
+```ruby
 class MarkAsRead
   def initialize(story_id, repository = StoryRepository)
     @story_id = story_id
@@ -97,9 +97,9 @@ post "/stories/mark_all_as_read" do
   
   redirect to("/news")
 end
-{% endhighlight %}
+```
 
-{% highlight ruby %}
+```ruby
 class ImportFromOpml
   ONE_DAY = 24 * 60 * 60
 
@@ -119,7 +119,7 @@ post "/feeds/import" do
 
   redirect to("/setup/tutorial")
 end
-{% endhighlight %}
+```
 
 I combined these command/use-case things with Repositories and wrote most of the
 test as isolated unit tests &mdash; super fast to run because I mock out the database...well,
@@ -134,14 +134,14 @@ as a group of Query objects with a common theme (usually the underlying model).
 
 The code looks like:
 
-{% highlight ruby %}
+```ruby
 class StoryRepository
   def self.read(page = 1)
     Story.where(is_read: true).includes(:feed)
       .order("published desc").page(page).per_page(20)
   end
 end
-{% endhighlight %}
+```
 
 Instead of using a `scope` or putting more methods on `Story`, we just do the querying behind
 a clean `StoryRepository#read` interface. This is definitely not common in the Rails apps I've
@@ -167,13 +167,13 @@ Repository methods to return `OpenStruct`-like objects built in test factories.
 DI is so easy in Ruby and really helps with testing. I don't think I would ever go without it
 anymore. I also like how glaringly obvious your dependencies become when you use injection.
 
-{% highlight ruby %}
+```ruby
 class FeedDiscovery
   def discover(url, finder = Feedbag, parser = Feedzirra::Feed)
     ...
   end
 end
-{% endhighlight %}
+```
 
 I could lie and say that this pattern is handy if I ever need to swap out gems, but who am I 
 kidding? That never actually happens. Since Ruby allows for default arguments there is really 
@@ -189,7 +189,7 @@ result objects or some kind of callbacks on the controller.
 Result objects seem like the more tame path. Define some convention for status, probably a hash
 with keys like `:status`, `:errors`, and `:model` and then handle that in the controller.
 
-{% highlight ruby %}
+```ruby
 def create
   result = AddFeedSubscription.subscribe(params[:feed])
 
@@ -201,14 +201,14 @@ def create
     render "new"
   end
 end
-{% endhighlight %}
+```
 
 I don't think this is a bad approach and probably what I would do with a team larger than 2.
 
 The other approach, which I first saw in Hexagonal Rails, is to pass the controller as an 
 argument and call methods on it.
 
-{% highlight ruby %}
+```ruby
 def create
   result = AddFeedSubscription.new(self, params[:feed]).subscribe
 end
@@ -237,7 +237,7 @@ class AddFeedSubscription
     @callback.subscription_succeeded(subscription)
   end
 end
-{% endhighlight %}
+```
 
 This seems kind of inside-out, but something feels right about it to me. If you are going to have
 more than a if/else branch in the controller action, then the callbacks seem like they might be a
