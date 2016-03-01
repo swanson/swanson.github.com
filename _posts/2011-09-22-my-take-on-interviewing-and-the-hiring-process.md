@@ -57,13 +57,12 @@ one "right way" to being a developer, each person has their [own path][path].
 [path]: http://ofps.oreilly.com/titles/9780596518387/walking_the_long_road.html
 
 Contrarian Carl says:
->In my past job I worked on a proprietary, closed source project and I signed a NDA! I can't show
->you any of it.
+
+>In my past job I worked on a proprietary, closed source project and I signed a NDA! I can't show you any of it.
 
 or...
 
->I'm not a single 20-something that programs in my free time. I have a family and other hobbies,
->and I want to decompress and relax in the evening, not write more code.
+>I'm not a single 20-something that programs in my free time. I have a family and other hobbies, and I want to decompress and relax in the evening, not write more code.
 
 No problem, those are completely valid reasons. Move on to the next option.
 
@@ -121,13 +120,12 @@ the job. If the candidate is struggling with this task and can't demonstrate com
 in another way, it should be a huge red flag.
 
 Contrarian Carl says:
->I'm no good under pressure. I like to think through code before I write it; it takes me
->a few hours/days to get productive in a new code base.
+
+>I'm no good under pressure. I like to think through code before I write it; it takes me a few hours/days to get productive in a new code base.
 
 or...
 
->That sounds like it's going to take half a day. You expect me to take paid time off from
->my current job to drive/fly to your office just for an interview?
+>That sounds like it's going to take half a day. You expect me to take paid time off from my current job to drive/fly to your office just for an interview?
 
 Again, those are reasonable points - though I personally have a bit of the issue with
 the second one. Next option.
@@ -151,14 +149,12 @@ more difficulty to the task should help cut down on this - but keep in mind that
 unrealistic expectations, you will turn off many candidates.
 
 Contrarian Carl says:
+
 >You expect me to spend two evenings working on some stupid toy project?
 
 or...
 
->That's so many hoops to jump through. I've got to do this whole project that I don't even
->care about with the chance I won't even get the job. And then figure out a way for you
->to run in on your machine. And you'll probably tell me that it's not exactly what you 
->wanted.
+>That's so many hoops to jump through. I've got to do this whole project that I don't even care about with the chance I won't even get the job. And then figure out a way for you to run in on your machine. And you'll probably tell me that it's not exactly what you wanted.
 
 If you get to this stage, you have given a candidate three options to demonstrate the core
 ability required for the job they are seeking. 
