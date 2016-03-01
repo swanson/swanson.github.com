@@ -30,7 +30,7 @@ How can we effectively evaluate these technical arguments?
 
 ---
 
-##Do I even have this problem?
+## Do I even have this problem?
 How do you best design an API? Should you build a [hypermedia API][yes]? Or [not][no]? 
 Is [REST or HATEOAS][rorh] the way to go? Should it speak [XML][xml]? [JSON][json]? 
 [Siren][siren]? [HAL][hal]? [Protocol buffers][pb]?
@@ -56,7 +56,7 @@ run into than right now, so delay any decisions as long as possible.
 [hal]: http://stateless.co/hal_specification.html
 [pb]: https://developers.google.com/protocol-buffers/docs/overview
 
-##Where's the code?
+## Where's the code?
 Writing, especially persuasive writing, is a messy thing. We are unable to separate emotion 
 from logic in the heat of an argument. 
 
@@ -87,7 +87,7 @@ went down without using any supporting data. It seems absurd in other fields, wh
 [3]: http://saturnflyer.com/blog/jim/2012/12/18/chubby-models-are-still-fat-with-concerns-dci-focuses-on-how-things-work-together/
 [4]: http://andrzejonsoftware.blogspot.com/2012/01/dci-and-rails-lessons-learnt.html
 
-##Where is the author coming from?
+## Where is the author coming from?
 Does the author work at a 5 person startup or a 50 person consulting shop or a 500 person 
 corporation? Where do you work?
 

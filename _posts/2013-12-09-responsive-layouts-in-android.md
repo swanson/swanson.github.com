@@ -34,7 +34,7 @@ make the `.container` have 100% width (with no margins).
 
 We can take the same approach using Android styles. First, setup a base style.
 
-{% highlight xml %}
+```xml
 res/values/styles.xml
 <style name="Container">
     <item name="android:layout_margin">0dp</item>
@@ -44,13 +44,13 @@ res/values/styles.xml
     <item name="android:orientation">vertical</item>
     <item name="android:background">@drawable/container_background</item>
 </style>
-{% endhighlight %}
+```
 
 
 For tablets in portrait orientation, we add a bit more padding since the 
 screen is larger.
 
-{% highlight xml %}
+```xml
 res/values-sw600dp/styles.xml
 <style name="Container">
     <item name="android:layout_margin">0dp</item>
@@ -60,14 +60,14 @@ res/values-sw600dp/styles.xml
     <item name="android:orientation">vertical</item>
     <item name="android:background">@drawable/container_background</item>
 </style>
-{% endhighlight %}
+```
 
 The big change is on tablets in landscape orientation. We add layout margins
 so that the content doesn't stretch the full width of the screen. We can add
 a different background drawable to the parent view (like a [subtle pattern][sp])
 to fill the whitespace.
 
-{% highlight xml %}
+```xml
 res/values-sw600dp-land/styles.xml
 <style name="Container">
     <item name="android:layout_marginRight">130dp</item>
@@ -78,15 +78,15 @@ res/values-sw600dp-land/styles.xml
     <item name="android:orientation">vertical</item>
     <item name="android:background">@drawable/container_background</item>
 </style>
-{% endhighlight %}
+```
 
 Then on our various application screens, we use our style like so:
 
-{% highlight xml %}
+```xml
 <LinearLayout style="@style/Container">
   ... buttons, edit texts, text views, etc ...
 </LinearLayout>
-{% endhighlight %}
+```
 
 A single application layout for all screens that scales up (and down)
 gracefully.
@@ -106,7 +106,7 @@ Another handy feature of some CSS frameworks (like Bootstrap) are the helper
 classes like `.visible-phone`, `.hidden-phone`, `.visible-tablet`, etc. We
 can do the same with Android.
 
-{% highlight xml %}
+```xml
 <!-- Device Visibility -->
 <style name="PhoneOnly">
     <item name="android:visibility">gone</item>
@@ -123,12 +123,12 @@ can do the same with Android.
 <style name="TabletLandscapeOnly">
     <item name="android:visibility">visible</item>
 </style>
-{% endhighlight %}
+```
 
 Drop these styles in each of your configuration folders and toggle the
 visibilities on and off as appropriate.
 
-{% highlight xml %}
+```xml
 <LinearLayout android:id="@+id/column_one">
   ... some content ...
 </LinearLayout>
@@ -137,7 +137,7 @@ visibilities on and off as appropriate.
   style="@style/TabletLandscapeOnly">
   ... some extra content since we have space ...
 </LinearLayout>
-{% endhighlight %}
+```
 
 For a tablet in landscape, the style will cause the second column to be shown.
 For all other devices, the second column will be hidden.

@@ -26,11 +26,11 @@ As soon as I noticed this, I smiled.
 
 The implementation is probably trivially easy, something like:
 
-{% highlight ruby %}
+```ruby
 def minutes_to_read(post)
   (post.word_count / AVG_WORDS_PER_MIN).round
 end
-{% endhighlight %}
+```
 
 But what it shows is that Medium has a deep understanding of how people consume
 blog posts. 

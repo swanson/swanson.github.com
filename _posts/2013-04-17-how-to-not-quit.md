@@ -7,8 +7,9 @@ tags:
 - growth
 ---
 
-> 1. Make friends with others who make software, and share your in-progress work with each other frequently.
-> 2. Learn to think of \[1\] -- rather than the front page of HN/TechCrunch -- as the destination of your work. 
+> 1) Make friends with others who make software, and share your in-progress work with each other frequently.
+> 
+> 2) Learn to think of \[1\] -- rather than the front page of HN/TechCrunch -- as the destination of your work. 
 >
 > Look at it this way: if all goes well, they will eventually come to *you*.
 

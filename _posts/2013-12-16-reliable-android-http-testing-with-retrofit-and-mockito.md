@@ -33,7 +33,7 @@ run the callback, passing in the response data when the server responds.
 
 Let's say we have some code to query the [GitHub API][gha] for a user's repositories.
 
-{% highlight java %}
+```java
 getApi().repositories("swanson", new Callback<List<Repository>>() {
 
     @Override
@@ -50,7 +50,7 @@ getApi().repositories("swanson", new Callback<List<Repository>>() {
         displayErrorMessage();
     }
 });
-{% endhighlight %}
+```
 
 There are three cases we want to test: the happy path (we got some repos and
 pass them to our adapter), the error path (there was some server error, toast
@@ -67,7 +67,7 @@ full control of what data we send in.
 Let's look at testing the happy path (I am using [Robolectric][r] and you should
 be too!).
 
-{% highlight java %}
+```java
 Mockito.verify(mockApi).repositories(Mockito.anyString(), cb.capture());
         
 List<Repository> testRepos = new ArrayList<Repository>();
@@ -77,7 +77,7 @@ testRepos.add(new Repository("android", "java", new Owner("google")));
 cb.getValue().success(testRepos, null);
 
 assertThat(activity.getListAdapter()).hasCount(2);
-{% endhighlight %}
+```
 
 Our captor (`cb`) captures the callback and then, after calling `getValue()`, we
 can call the `success` method and pass it some dummy objects.
@@ -85,13 +85,13 @@ can call the `success` method and pass it some dummy objects.
 You might have an "Aha!" moment now, but if not, that's okay. Let's look at
 testing the error path.
 
-{% highlight java %}
+```java
 Mockito.verify(mockApi).repositories(Mockito.anyString(), cb.capture());
             
 cb.getValue().failure(null);
 
 assertThat(ShadowToast.getTextOfLatestToast()).contains("Failed");
-{% endhighlight %}
+```
 
 Same as before &mdash; we capture the callback. But this time we call the 
 `failure` method, which simulates an API error. If we need more discrete error
@@ -105,7 +105,7 @@ error conditions we want.
 
 For prosperity, let's test the special case.
 
-{% highlight java %}
+```java
 Mockito.verify(mockApi).repositories(Mockito.anyString(), cb.capture());
             
 List<Repository> noRepos = new ArrayList<Repository>();
@@ -114,7 +114,7 @@ cb.getValue().success(noRepos, null);
 
 assertThat(ShadowToast.getTextOfLatestToast()).contains("No repos :(");
 assertThat(activity.getListAdapter()).isEmpty();
-{% endhighlight %}
+```
 
 (You can find the full source of these examples and a full sample app on 
 [GitHub][gh]).
@@ -122,16 +122,16 @@ assertThat(activity.getListAdapter()).isEmpty();
 One special detail to note, if you use the Mockito annotation when declaring
 the captor,
 
-{% highlight java %}
+```java
 @Captor
 private ArgumentCaptor<Callback<List<Repository>>> cb;
-{% endhighlight %}
+```
 
 Make sure that somewhere in your setup, you do:
 
-{% highlight java %}
+```java
 MockitoAnnotations.initMocks(this);
-{% endhighlight %}
+```
 
 ---
 
