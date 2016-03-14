@@ -316,7 +316,12 @@ footer {
       float: left;
       display: inline;
     }
+
+    &.favorite {
+      font-weight: 700;
+    }
   }
+
 }
 
 #archive {
@@ -326,9 +331,11 @@ footer {
 
   ul {
     margin: 0 0 1em 0;
+    font-family: "Nunito", sans-serif;
+    font-weight: 300;
   }
-}
 
-.favorite {
-  font-weight: 700;
+  .favorite {
+    font-weight: 700;
+  }
 }
