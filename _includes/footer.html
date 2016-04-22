@@ -19,13 +19,17 @@
     <h3>Further reading</h3>
     <ul class="posts">
       {% if page.tags %}
-        {% assign sn = page.tags | join: "" %}
+        {% assign sn = page.tags.first %}
         {% for post in site.tags[sn] limit:3 %}
-          <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+          {% unless page.title == post.title %}
+            <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+          {% endunless %}
         {% endfor %}
       {% else %}
         {% for post in site.related_posts limit:3 %}
-          <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+          {% unless page.title == post.title %}
+            <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+          {% endunless %}
         {% endfor %}
       {% endif %}
     </ul>

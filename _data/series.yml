@@ -9,6 +9,11 @@
     Thoughts on building simple products that people love
   tag_name: delightful_products
 
+- name: Product Development
+  desc: |
+    Lessons and experiences in validating, building, and supporting software products
+  tag_name: product_dev
+
 - name: Practices
   desc: |
     Real-world experiences with agile techniques &amp; 
