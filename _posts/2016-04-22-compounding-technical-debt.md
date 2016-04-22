@@ -8,7 +8,7 @@ tags:
 - practices
 ---
 
-I like concept of technical debt; not the watered down version that people use when the code base is in a messy state, but the idea that we are making considered decisions that benefit the short-term, at the risk of long-term consequences.
+I like the concept of technical debt; not the watered down version that people use when the code base is in a messy state, but the idea that we are making considered decisions that benefit the short-term, at the risk of long-term consequences.
 
 Today, the long-term consequences surfaced. The following is a play-by-play of a day in my life coming back to a project that has started to 'default' on its debt:
 
