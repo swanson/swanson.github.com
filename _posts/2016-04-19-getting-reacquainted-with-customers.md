@@ -65,6 +65,8 @@ But everything worked out and responses started rolling in almost immediately! A
 
 I emailed 806 users, 265 opened the email (33%) and 106 responded to the survey (40% of people that opened). I think those numbers are great given that the email came out of the blue to folks that we haven't communicated with.
 
+*Update*: The final numbers after a week were 297 opens (37%) and 127 responses (43% of people that opened).
+
 From the results, I confirmed that most of our users are using the product to track team happiness for software projects (75%) and that a decent amount are also using Slack (30%).
 
 I also collected free-form snippets that I can use to re-work marketing copy to mirror the words and phrases that my customers are using.

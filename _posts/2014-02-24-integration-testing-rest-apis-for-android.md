@@ -124,10 +124,6 @@ Cons:
 want to introduce another dependency into your project. It doesn't cover every
 edge case &mdash; but for us it was an adequate solution.
 
-I think this approach can work if you have mainly static JSON responses and
-don't want to introduce another dependency into your project. It doesn't cover
-every edge case &mdash; but for us it was an adequate solution.
-
 For this particular project, we were interacting with a legacy API that had some
 quirks that required a fair amount of Gson customizations (multiple date
 formats, lots of `@SerializedName`, strange null vs empty behavior) so we felt
