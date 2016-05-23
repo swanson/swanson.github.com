@@ -263,6 +263,18 @@ footer {
     border: 1px solid #AAA;
     border-radius: 3px;
     box-shadow: 0 1px 3px rgba(0, 0, 0, 0.055);
+    display: block;
+    margin-bottom: 10px;
+  }
+
+  .book-summary {
+
+    a, span {
+      font-family: $sans-serif-article;
+      font-weight: 300;
+      font-size: 1.05em;
+      display: block;
+    }
   }
 }
 

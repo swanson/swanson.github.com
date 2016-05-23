@@ -1,15 +1,11 @@
 ---
-layout: post
+layout: writeup
 title: "The Soul of a New Machine"
+author: Tracy Kidder
+isbn: 0316491977
+image: soul-of-a-new-machine.jpg
 categories:
 - writeup
----
-
-![]({{site.url}}/static/soul-of-a-new-machine.jpg)  
-[The Soul of a New Machine][link]   
-Tracy Kidder  
-ISBN: 0316491977  
-    
 ---
 
 **What's the point?**  

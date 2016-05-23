@@ -1,0 +1,50 @@
+---
+layout: default
+---
+
+{% include header.html %}
+
+<article>
+  <h1 class="title">
+    "{{ page.title }}" Book Writeup
+  </h1>
+
+  <p class="subtitle">
+    <span>{{ page.date | date: "%B %d, %Y" }}</span>
+  </p>
+
+  <div id="writeup">
+    <div class="book-summary">
+      <img src="{{ site.url }}/static/{{ page.image }}" alt="{{page.title}} Book Cover" />
+
+      {% assign full_title = page.title %}
+      {% if page.full_title %}
+        {% assign full_title = page.full_title %}
+      {% endif %}
+
+      {% if page.link %}
+        <a href="{{ page.link }}">
+          {{ full_title }}
+        </a>
+      {% else %}
+        <a href="https://amzn.com/{{ page.isbn }}?tag=mdswanson-20">
+          {{ full_title }}
+        </a>
+      {% endif %}
+      
+      <span>{{ page.author }}</span>
+      
+      {% if page.isbn %}
+        <span>ISBN: {{ page.isbn }}</span>
+      {% endif %}
+    </div>
+    
+    <hr />
+    
+    {{ content }}
+  </div>
+      
+  <hr class="fin"/>
+</article>
+
+{% include footer.html %}
