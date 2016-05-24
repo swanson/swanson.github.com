@@ -1,17 +1,13 @@
 ---
-layout: post
+layout: writeup
 title: "Creativity, Inc."
+full_title: "Creativity, Inc.: Overcoming the Unseen Forces That Stand in the Way of True Inspiration"
+author: "Ed Catmull, Amy Wallace"
+isbn: 0812993012
+image: creativity-inc.jpg
 categories:
 - writeup
 favorite: true
----
-
-
-![]({{site.url}}/static/creativity-inc.jpg)  
-[Creativity, Inc.: Overcoming the Unseen Forces That Stand in the Way of True Inspiration][link]   
-Ed Catmull, Amy Wallace  
-ISBN: 0812993012  
-    
 ---
 
 **What's the point?**  
@@ -63,5 +59,4 @@ structure.
 Anyone working in a creative environment can take something away from this book. 
 Unfortunately, devote believers in [The Pixar Theory][pt] may be disappointed.
 
-[link]: http://www.amazon.com/exec/obidos/ASIN/0812993012/ref=nosim&tag=bookreview0a1-20
 [pt]: http://jonnegroni.com/2013/07/11/the-pixar-theory/

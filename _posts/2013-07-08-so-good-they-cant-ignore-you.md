@@ -1,16 +1,13 @@
 ---
-layout: post
+layout: writeup
 title: "So Good They Can't Ignore You"
+full_title: "So Good They Can't Ignore You: Why Skills Trump Passion in the Quest for Work You Love"
+author: Cal Newport
+isbn: 1455509124
+image: so-good.jpg
 categories:
 - writeup
 favorite: true
----
-
-![](/static/so-good.jpg)  
-[So Good They Can't Ignore You: Why Skills Trump Passion in the Quest for Work You Love][link]   
-Cal Newport    
-ISBN: 1455509124    
-
 ---
 
 **What's the point?**  
@@ -50,5 +47,3 @@ make you successful or fulfilled.
 **Who should read it?**  
 If you've ever daydreamed about how much better your life would be if you were
 only working at that cool company, you should seriously read this book.
-
-[link]: http://www.amazon.com/exec/obidos/ASIN/1455509124/ref=nosim&tag=bookreview0a1-20

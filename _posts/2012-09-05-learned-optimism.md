@@ -1,16 +1,13 @@
 ---
-layout: post
+layout: writeup
 title: "Learned Optimism"
+full_title: "Learned Optimism: How to Change Your Mind and Your Life"
+author: Martin Seligman
+isbn: 0671019112
+image: learned-optimism.jpg
 categories:
 - writeup
 date: 2012-09-20
----
-
-![](/static/learned-optimism.jpg)  
-[Learned Optimism: How to Change Your Mind and Your Life][link]   
-Martin Seligman    
-ISBN: 0671019112    
-
 ---
 
 **What's the point?**  
@@ -45,5 +42,3 @@ beyond your control.
 If you're into pop psychology books (like I am), then it's worth a read. There is some
 fascinating stuff about using optimism tests when hiring insurance salesmen that might
 also work for hiring developers.
-
-[link]: http://www.amazon.com/exec/obidos/ASIN/1400078393/ref=nosim&tag=bookreview0a1-20

@@ -1,15 +1,12 @@
 ---
-layout: post
+layout: writeup
 title: "The First 20 Hours"
+full_title: "The First 20 Hours: How to Learn Anything...Fast!"
+author: Josh Kaufman
+isbn: 1591845556
+image: first-20-hours.jpg
 categories:
 - writeup
----
-
-![](/static/first-20-hours.jpg)  
-[The First 20 Hours: How to Learn Anything...Fast!][link]   
-Josh Kaufman    
-ISBN: 1591845556    
-
 ---
 
 **What's the point?**  
@@ -44,6 +41,4 @@ the rest).
 If you are looking to become competent in a new skill, I think the book is worth
 a ready; just don't hope for a magic solution to that will help you master anything
 without putting in long hours.
-
-[link]: http://www.amazon.com/exec/obidos/ASIN/1591845556/ref=nosim&tag=bookreview0a1-20
 

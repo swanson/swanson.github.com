@@ -1,15 +1,12 @@
 ---
-layout: post
+layout: writeup
 title: Getting Real
+image: getting-real.png
+author: 37 Signals
+isbn: 0578012812
 categories:
 - writeup
 favorite: true
----
-![](/static/getting-real.png)  
-[Getting Real](http://www.amazon.com/exec/obidos/ASIN/0578012812/ref=nosim&tag=bookreview0a1-20)  
-37 Signals   
-ISBN: 0578012812
-
 ---
 
 **What's the point?**

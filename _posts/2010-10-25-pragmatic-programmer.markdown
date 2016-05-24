@@ -1,14 +1,12 @@
 ---
-layout: post
+layout: writeup
 title: Pragmatic Programmer
+full_title: "The Pragmatic Programmer: From Journeyman to Master"
+author: Andrew Hunt and David Thomas
+isbn: 020161622X
+image: pragmatic-programmer.jpg
 categories:
 - writeup
----
-![](/static/pragmatic-programmer.jpg)  
-[The Pragmatic Programmer: From Journeyman to Master](http://www.amazon.com/exec/obidos/ASIN/020161622X/ref=nosim&tag=bookreview0a1-20)  
-Andrew Hunt and David Thomas  
-ISBN: 020161622X
-
 ---
 
 **What's the point?**

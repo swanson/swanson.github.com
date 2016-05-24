@@ -1,16 +1,13 @@
 ---
-layout: post
+layout: writeup
 title: "The Personal MBA"
+full_title: "The Personal MBA: Master the Art of Business"
+author: Josh Kaufman
+isbn: 1591843529
+image: personal-mba.jpg
 categories:
 - writeup
 favorite: true
----
-
-![](/static/personal-mba.jpg)  
-[The Personal MBA: Master the Art of Business][link]   
-Josh Kaufman    
-ISBN: 1591843529    
-
 ---
 
 **What's the point?**  
@@ -30,5 +27,3 @@ and it was easy to digest the book a few sections at a time.
 I would recommend anyone interested in learning more about business or entrepreneurship
 to start by reading this book. Afterwards, you can pick a topic to dive deeper into 
 based on the author's other recommendations.
-
-[link]: http://www.amazon.com/exec/obidos/ASIN/1591845572/ref=nosim&tag=bookreview0a1-20

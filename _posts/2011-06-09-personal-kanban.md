@@ -1,15 +1,12 @@
 ---
-layout: post
+layout: writeup
 title: Personal Kanban
+full_title: "Personal Kanban - Mapping Work, Navigating Life"
+author: "Jim Benson, Tonianne DeMaria Barry"
+isbn: 1453802266
+image: personal-kanban.png
 categories:
 - writeup
----
-
-![](/static/personal-kanban.png)  
-[Personal Kanban - Mapping Work, Navigating Life](http://www.amazon.com/exec/obidos/ASIN/1453802266/ref=nosim&tag=bookreview0a1-20)  
-Jim Benson & Tonianne DeMaria Barry  
-ISBN: 1453802266
-
 ---
 
 **What's the point?**

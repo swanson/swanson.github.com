@@ -1,14 +1,11 @@
 ---
-layout: post
+layout: writeup
 title: Pro Git
+image: pro-git.png
+author: Scott Chacon
+isbn: 1430218339
 categories:
 - writeup
----
-![](/static/pro-git.png)  
-[Pro Git](http://www.amazon.com/exec/obidos/ASIN/1430218339/ref=nosim&tag=bookreview0a1-20)  
-Scott Chacon   
-ISBN: 1430218339
-
 ---
 
 **What's the point?**

@@ -1,16 +1,12 @@
 ---
-layout: post
+layout: writeup
 title: "The Five Dysfunctions of a Team"
+full_title: "The Five Dysfunctions of a Team: A Leadership Fable"
+author: Patrick Lencioni
+isbn: 0787960756
+image: five-dysfunctions.jpg
 categories:
 - writeup
----
-
-
-![](/static/five-dysfunctions.jpg)  
-[The Five Dysfunctions of a Team: A Leadership Fable][link]   
-Patrick Lencioni    
-ISBN: 0787960756    
-
 ---
 
 **What's the point?**  
@@ -41,6 +37,4 @@ to try focusing on helping a team succeed.
 It's a quick read and good for those working on teams that you don't feel tight-knit; 
 while the fictional company does make software, a development background is not required
 to read this one.
-
-[link]: http://www.amazon.com/exec/obidos/ASIN/0787960756/ref=nosim&tag=bookreview0a1-20
 

@@ -1,15 +1,12 @@
 ---
-layout: post
+layout: writeup
 title: "Everything is Bullshit"
+full_title: "Everything Is Bullshit: The greatest scams on Earth revealed"
+author: Priceonomics
+isbn: 0692224963
+image: bullshit.jpg
 categories:
 - writeup
----
-
-![]({{site.url}}/static/bullshit.jpg)  
-[Everything Is Bullshit: The greatest scams on Earth revealed][link]   
-Priceonomics  
-ISBN: 0692224963  
-    
 ---
 
 **What's the point?**  
@@ -49,7 +46,6 @@ control everything and sometimes "lying" is good for business), but enjoyable no
 Definitely some good anecdotes to start interesting dinner party conversations (or
 to ensure you're never invited back).
 
-[link]: http://www.amazon.com/exec/obidos/ASIN/0692224963/ref=nosim&tag=bookreview0a1-20
 [p]: http://priceonomics.com/life-as-a-lego-professional/
 
 

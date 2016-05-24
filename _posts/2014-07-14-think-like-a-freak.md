@@ -1,15 +1,12 @@
 ---
-layout: post
+layout: writeup
 title: "Think Like A Freak"
+full_title: "Think Like a Freak: The Authors of Freakonomics Offer to Retrain Your Brain"
+author: "Steven Levitt, Stephen Dubner"
+isbn: 0062218336
+image: think-like-a-freak.jpg
 categories:
 - writeup
----
-
-![](/static/think-like-a-freak.jpg)  
-[Think Like a Freak: The Authors of Freakonomics Offer to Retrain Your Brain][link]   
-Steven Levitt, Stephen Dubner  
-ISBN: 0062218336  
-    
 ---
 
 **What's the point?**  
@@ -38,6 +35,5 @@ existing principal amount tucked away safely.
 It's a quick and enjoyable read. I would recommend it to anyone that enjoyed *Freakonomics* or
 that is looking for some inspiration on thinking outside the box.
 
-[link]: http://www.amazon.com/exec/obidos/ASIN/0062218336/ref=nosim&tag=bookreview0a1-20
 [plsa]: http://en.wikipedia.org/wiki/Prize-Linked_Savings_Account
 

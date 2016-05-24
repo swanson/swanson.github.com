@@ -1,14 +1,11 @@
 ---
-layout: post
+layout: writeup
 title: Hackers &amp; Painters
+full_title: "Hackers & Painters: Big Ideas from the Computer Age"
+author: Paul Graham
+isbn: 0596006624
 categories:
 - writeup
----
-![](/static/hackers-and-painters.png)  
-[Hackers & Painters: Big Ideas from the Computer Age](http://www.amazon.com/exec/obidos/ASIN/1449389554/ref=nosim&tag=bookreview0a1-20)  
-Paul Graham   
-ISBN: 0596006624
-
 ---
 
 **What's the point?**

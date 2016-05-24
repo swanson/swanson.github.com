@@ -1,16 +1,13 @@
 ---
-layout: post
+layout: writeup
 title: "The Senior Software Engineer"
+full_title: "The Senior Software Engineer: A guide for making the most of your career"
+author: David Copeland
+book_link: http://theseniorsoftwareengineer.com/?ref=mdswanson.com
+image: sse.png
 categories:
 - writeup
 favorite: true
----
-
-
-![]({{site.url}}/static/sse.png)  
-[The Senior Software Engineer: A guide for making the most of your career][link]   
-David Copland   
-    
 ---
 
 **What's the point?**  
@@ -49,8 +46,4 @@ a year ago, as I started moving into a more senior role.
 For a junior developer, use this book as a means to compare and contrast the mindset of
 a senior engineer with your own ways of working. For a senior (or soon-to-be senior)
 developer, this is your missing handbook. Highly recommended.
-
-[link]: http://theseniorsoftwareengineer.com/?ref=mdswanson.com
-
-
 

@@ -1,14 +1,12 @@
 ---
-layout: post
+layout: writeup
 title: "There's Always a Duck"
+full_title: "There's Always a Duck: A collection of essays about people, culture, and teams"
+author: Elisabeth Hendrickson 
+image: always-a-duck.jpeg
+book_link: http://leanpub.com/alwaysaduck
 categories:
 - writeup
----
-
-![](/static/always-a-duck.jpeg)  
-[There's Always a Duck: A collection of essays about people, culture, and teams][link]   
-Elisabeth Hendrickson    
-
 ---
 
 **What's the point?**  
@@ -31,5 +29,4 @@ Nothing earth-shattering, but it was a short, pleasant read.
 Developers looking for some insight into how testing fits into agile teams from a 
 Test/QA engineer POV
 
-[link]: http://leanpub.com/alwaysaduck
 [event]: http://testobsessed.com/blog/2011/05/31/agile-up-3-here/

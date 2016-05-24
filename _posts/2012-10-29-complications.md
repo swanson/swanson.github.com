@@ -1,17 +1,14 @@
 ---
-layout: post
+layout: writeup
 title: "Complications"
+full_title: "Complications: A Surgeon's Notes on an Imperfect Science"
+author: Atul Gawande
+isbn: 0805063196
+image: complications.jpg
 categories:
 - writeup
 tags:
 - tangential
----
-
-![](/static/complications.jpg)  
-[Complications: A Surgeon's Notes on an Imperfect Science][link]   
-Atul Gawande    
-ISBN: 0805063196    
-
 ---
 
 **What's the point?**  
@@ -59,4 +56,3 @@ perspective on similar problems.
 So if that sounds useful to you, check out this book.
 
 [better]: http://mdswanson.com/writeup/2012/10/14/better.html
-[link]: http://www.amazon.com/exec/obidos/ASIN/0312421702/ref=nosim&tag=bookreview0a1-20

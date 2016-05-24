@@ -1,17 +1,12 @@
 ---
-layout: post
+layout: writeup
 title: "How Children Succeed"
+full_title: "How Children Succeed: Grit, Curiosity, and the Hidden Power of Character"
+author: Paul Tough
+isbn: 0547564651
+image: grit.jpg
 categories:
 - writeup
----
-
-
-
-![](/static/grit.jpg)  
-[How Children Succeed: Grit, Curiosity, and the Hidden Power of Character][link]   
-Paul Tough    
-ISBN: 0547564651    
-
 ---
 
 **What's the point?**  
@@ -47,9 +42,6 @@ By using techniques inspired from psychotherapy, the chess team coach helped stu
 learn from their mistakes and better handle their losses. By building up this quality
 in her team, they were able to dominate schools that would be favored by more traditional
 metrics (IQ, income level, quality of education).
-
-[b2w]: http://5by5.tv/b2w/87
-[lo]: http://mdswanson.com/writeup/2012/09/20/learned-optimism.html
  
 **Who should read it?**  
 While the book is primarily focused on education, I think the idea that IQ isn't the 
@@ -58,4 +50,5 @@ end-all, be-all predictor of success is an interesting one to explore in any fie
 Software certainly has many cases of individuals without strong academic backgrounds 
 succeeding through raw grit, determination, and courage.
 
-[link]: http://www.amazon.com/exec/obidos/ASIN/0547564651/ref=nosim&tag=bookreview0a1-20
+[b2w]: http://5by5.tv/b2w/87
+[lo]: http://mdswanson.com/writeup/2012/09/20/learned-optimism.html

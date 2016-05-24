@@ -1,16 +1,13 @@
 ---
-layout: post
+layout: writeup
 title: Driving Technical Change
+full_title: "Driving Technical Change: Why People on Your Team Don't Act on Good Ideas, and How to Convince Them They Should"
+author: Terrence Ryan
+isbn: 1934356603
+image: driving-technical-change.jpeg
 categories:
 - writeup
 favorite: true
----
-
-![](/static/driving-technical-change.jpeg)  
-[Driving Technical Change: Why People on Your Team Don't Act on Good Ideas, and How to Convince Them They Should][link]  
-Terrence Ryan  
-ISBN: 1934356603
-
 ---
 
 **What's the point?**  
@@ -47,5 +44,4 @@ topic for the past few months. The goal of the book is to help you convince
 co-works to adopt new ideas without resorting to the BS of office politics and
 top-down mandates - so if that sounds appealing to you, give this book a shot.
 
-[link]: http://www.amazon.com/exec/obidos/ASIN/1934356603/ref=nosim&tag=bookreview0a1-20
 [fc]: http://www.amazon.com/exec/obidos/ASIN/0201741571/ref=nosim&tag=bookreview0a1-20

@@ -1,14 +1,11 @@
 ---
-layout: post
+layout: writeup
 title: "Confident Ruby"
+author: Avdi Grimm
+image: confident-ruby.png
+book_link: http://devblog.avdi.org/2013/05/19/confident-ruby-now-in-beta/
 categories:
 - writeup
----
-
-![](/static/confident-ruby.png)  
-[Confident Ruby][link]   
-Avdi Grimm        
-
 ---
 
 **What's the point?**  
@@ -35,5 +32,3 @@ confident code and the notorious `nil` affliction.
 It is a good source of learning material for an intermediate Ruby programmer; some
 of the more generic patterns (Null Object, Policy Object, Parameter Object) are
 applicable outside of Ruby, but there is quite a bit of Ruby-specific stuff.
-
-[link]: http://devblog.avdi.org/2013/05/19/confident-ruby-now-in-beta/

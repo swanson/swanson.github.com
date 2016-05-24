@@ -1,14 +1,12 @@
 ---
-layout: post
+layout: writeup
 title: "Understanding the Four Rules of Simple Design"
+full_title: "Understanding the Four Rules of Simple Design: and other lessons from watching thousands of pairs work on Conway's Game of Life"
+author: Corey Haines
+image: 4rules.png
+book_link: https://leanpub.com/4rulesofsimpledesign
 categories:
 - writeup
----
-
-![](/static/4rules.png)  
-[Understanding the Four Rules of Simple Design: and other lessons from watching thousands of pairs work on Conway's Game of Life][link]   
-Corey Haines
-    
 ---
 
 **What's the point?**  
@@ -49,7 +47,6 @@ this book. As a past Code Retreat attendee, I enjoyed being able to look back an
 of the domain implemented solutions; it felt kind of like I was reading the secret solution's
 manual :-)
 
-[link]: https://leanpub.com/4rulesofsimpledesign
 [cr]: http://www.mdswanson.com/blog/2011/12/05/global-day-of-code-retreat-recap.html
 [gol]: http://en.wikipedia.org/wiki/Conway's_Game_of_Life
 

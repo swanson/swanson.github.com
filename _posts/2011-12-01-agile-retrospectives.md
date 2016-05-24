@@ -1,16 +1,13 @@
 ---
-layout: post
+layout: writeup
 title: Agile Retrospectives
+full_title: "Agile Retrospectives: Making Good Teams Great"
+author: "Esther Derby, Diana Larsen"
+isbn: 0977616649
+image: agile-retrospectives.jpg
 categories:
 - writeup
 favorite: true
----
-
-![](/static/agile-retrospectives.jpg)  
-[Agile Retrospectives: Making Good Teams Great][link]  
-Esther Derby, Diana Larsen  
-ISBN: 0977616649
-
 ---
 
 **What's the point?**  
@@ -37,5 +34,3 @@ each section.
 **Who should read it?**  
 All team leads, those looking to become team leads, anyone leading retrospectives - if you
 haven't read this book, I think you are really missing out.
-
-[link]: http://www.amazon.com/exec/obidos/ASIN/0977616649/ref=nosim&tag=bookreview0a1-20

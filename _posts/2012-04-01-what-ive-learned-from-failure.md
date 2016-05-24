@@ -1,15 +1,12 @@
 ---
-layout: post
+layout: writeup
 title: "What I've Learned From Failure"
+full_title: "What I've Learned From Failure: A quarter-century of experience shipping software, distilled into fixnum bittersweet essays"
+author: Reginald Braithwaite
+image: learned-from-failure.jpeg
+book_link: http://leanpub.com/shippingsoftware
 categories:
 - writeup
----
-
-
-![](/static/learned-from-failure.jpeg)  
-[What I've Learned From Failure: A quarter-century of experience shipping software, distilled into fixnum bittersweet essays][link]   
-Reginald Braithwaite  
-
 ---
 
 **What's the point?**  
@@ -41,5 +38,3 @@ Do not let the length fool you, it is short but dense with great material.
 **Who should read it?**  
 Project managers and clients that want to avoid failure; frustrated engineers that 
 don't always understand the How and Why of dealing with clients
-
-[link]: http://leanpub.com/shippingsoftware

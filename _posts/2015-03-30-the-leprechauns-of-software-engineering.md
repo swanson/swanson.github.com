@@ -1,15 +1,13 @@
 ---
-layout: post
+layout: writeup
 title: "The Leprechauns of Software Engineering"
+full_title: "The Leprechauns of Software Engineering: How folklore turns into fact and what to do about it"
+author: Laurent Bossavit
+book_link: https://leanpub.com/leprechauns
+image: leprechauns.png
 categories:
 - writeup
 favorite: true
----
-
-![]({{site.url}}/static/leprechauns.png)  
-[The Leprechauns of Software Engineering: How folklore turns into fact and what to do about it][link]   
-Laurent Bossavit  
-    
 ---
 
 **What's the point?**  
@@ -39,6 +37,5 @@ I think this book is a great resource for people interested in software team pro
 
 As an aside, I was glad to have read this book recently when I came across some less-than-satisfactory (to me) research which empirically claimed that ["refactoring does not improve code quality"][bogus]. A more detailed critic of this paper is left as an exercise to future readers.
 
-[link]: https://leanpub.com/leprechauns
 [coc]: http://www.agilemodeling.com/essays/costOfChange.htm
 [bogus]: http://www.itworld.com/article/2891140/study-finds-that-refactoring-doesn-t-improve-code-quality.html

@@ -30,6 +30,5 @@ Closer to fiction (though it is all factual), I found this an enjoyable change o
 [wc]: http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/
 [oa]: https://en.wikipedia.org/wiki/Open_allocation
 [dg]: https://en.wikipedia.org/wiki/Data_General
-[link]: http://www.amazon.com/exec/obidos/ASIN/B005HG4W9W/ref=nosim&tag=bookreview0a1-20
 
 

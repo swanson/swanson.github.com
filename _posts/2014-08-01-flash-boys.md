@@ -1,15 +1,12 @@
 ---
-layout: post
+layout: writeup
 title: "Flash Boys"
+full_title: "Flash Boys: A Wall Street Revolt"
+author: Michael Lewis
+isbn: 0393244660
+image: flash-boys.jpg
 categories:
 - writeup
----
-
-![]({{site.url}}/static/flash-boys.jpg)  
-[Flash Boys: A Wall Street Revolt][link]   
-Michael Lewis  
-ISBN: 0393244660   
-    
 ---
 
 **What's the point?**  
@@ -45,5 +42,3 @@ the US stock market.
 **Who should read it?**  
 This book is something to read for pleasure. It's light on practical advice, but the story
 is intriguing, especially given the tie-ins with programming and software.
-
-[link]: http://www.amazon.com/exec/obidos/ASIN/0393244660/ref=nosim&tag=bookreview0a1-20

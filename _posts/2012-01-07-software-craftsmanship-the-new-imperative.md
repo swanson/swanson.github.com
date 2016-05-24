@@ -1,15 +1,11 @@
 ---
-layout: post
+layout: writeup
 title: "Software Craftsmanship: The New Imperative"
+author: Pete McBreen
+isbn: 0201733862
+image: software-craftsmanship.jpg
 categories:
 - writeup
----
-
-![](/static/software-craftsmanship.jpg)  
-[Software Craftsmanship: The New Imperative](http://www.amazon.com/exec/obidos/ASIN/0201733862/ref=nosim&tag=bookreview0a1-20)  
-Pete McBreen  
-ISBN: 0201733862
-
 ---
 
 **What's the point?**  

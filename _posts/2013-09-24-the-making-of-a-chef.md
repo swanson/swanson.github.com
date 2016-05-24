@@ -1,18 +1,15 @@
 ---
-layout: post
+layout: writeup
 title: "The Making of a Chef"
+full_title: "The Making of a Chef: Mastering Heat at the Culinary Institute of America"
+author: Michael Ruhlman
+isbn: 080508939X
+image: making-chef.jpg
 categories:
 - writeup
 tags:
 - tangential
 favorite: true
----
-
-![]({{site.url}}/static/making-chef.jpg)  
-[The Making of a Chef: Mastering Heat at the Culinary Institute of America][link]   
-Michael Ruhlman    
-ISBN: 080508939X    
-
 ---
 
 **What's the point?**  
@@ -58,5 +55,3 @@ the job done.
 I really enjoy reading books from non-software industries, especially those that
 value quality and treat their job like a craft. If you have any interest in cooking 
 (even if you just watch *Top Chef*) you will like this book.
-
-[link]: http://www.amazon.com/exec/obidos/ASIN/080508939X/ref=nosim&tag=bookreview0a1-20

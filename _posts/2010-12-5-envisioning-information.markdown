@@ -1,15 +1,11 @@
 ---
-layout: post
+layout: writeup
 title: Envisioning Information
+image: ei.png
+author: Edward Tufte
+isbn: 0961392118
 categories:
 - writeup
----
-
-![](/static/ei.png)  
-[Envisioning Information](http://www.amazon.com/exec/obidos/ASIN/0961392118/ref=nosim&tag=bookreview0a1-20)  
-Edward Tufte  
-ISBN: 0961392118
-
 ---
 
 **What's the point?**
@@ -30,7 +26,6 @@ solutions to making grid-based information easier to parse and interpret.  I
 also liked the discussion of negative margins and how `1+1=3 or more`.  Some 
 of the other sections (like the map/cartography related ones) were certainly 
 interesting, but I didn't really take away anything that useful.
-
 
 **Who should read it?**
 The book is skewed more towards designers, but it is a quick read (lots of 

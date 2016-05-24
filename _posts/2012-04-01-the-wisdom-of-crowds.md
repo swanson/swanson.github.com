@@ -1,15 +1,11 @@
 ---
-layout: post
+layout: writeup
 title: "The Wisdom of Crowds"
+author: James Surowiecki
+isbn: 0385721706
+image: wisdom-of-crowds.jpg
 categories:
 - writeup
----
-
-![](/static/wisdom-of-crowds.jpg)  
-[The Wisdom of the Crowds][link]   
-James Surowiecki    
-ISBN: 0385721706
-
 ---
 
 **What's the point?**  
@@ -34,5 +30,3 @@ varied experiences is useful.
 In the end, it was a very approachable book about behavioral economics (which I like)
 in the same genre and style of Freakonomics and Malcolm Gladwell (which I also 
 like), but those looking for new and pragmatic approaches will probably be letdown.
-
-[link]: http://www.amazon.com/exec/obidos/ASIN/0385721706/ref=nosim&tag=bookreview0a1-20

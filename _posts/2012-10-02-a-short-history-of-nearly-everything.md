@@ -1,16 +1,11 @@
 ---
-layout: post
+layout: writeup
 title: "A Short History of Nearly Everything"
+author: Bill Bryson
+isbn: 0767908171
+image: short-history.jpg
 categories:
 - writeup
----
-
-
-![](/static/short-history.jpg)  
-[A Short History of Nearly Everything][link]   
-Bill Bryson    
-ISBN: 0767908171    
-
 ---
 
 **What's the point?**  
@@ -44,5 +39,3 @@ them.
 I found the book to be an enjoyable blend of learning and humor and would recommend it to
 anyone that has ever sat through a high school science class and wondered why it was so
 damn boring.
-
-[link]: http://www.amazon.com/exec/obidos/ASIN/076790818X/ref=nosim&tag=bookreview0a1-20

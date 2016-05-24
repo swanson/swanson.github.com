@@ -1,15 +1,12 @@
 ---
-layout: post
+layout: writeup
 title: Little Bets
+full_title: "Little Bets: How Breakthrough Ideas Emerge from Small Discoveries"
+author: Peter Sims
+isbn: 9781439170427
+image: little-bets.jpg
 categories:
 - writeup
----
-
-![](/static/little-bets.jpg)  
-[Little Bets: How Breakthrough Ideas Emerge from Small Discoveries](http://www.amazon.com/exec/obidos/ASIN/1439170428/ref=nosim&tag=bookreview0a1-20)  
-Peter Sims   
-ISBN: 9781439170427
-
 ---
 
 **What's the point?**  

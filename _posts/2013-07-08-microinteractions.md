@@ -1,16 +1,13 @@
 ---
-layout: post
+layout: writeup
 title: "Microinteractions"
+full_title: "Microinteractions: Designing with Details"
+author: Dan Saffer
+isbn: 144934268X
+image: microinteractions.jpg
 categories:
 - writeup
 favorite: true
----
-
-![](/static/microinteractions.jpg)  
-[Microinteractions: Designing with Details][link]   
-Dan Saffer    
-ISBN: 144934268X    
-
 ---
 
 **What's the point?**  
@@ -43,5 +40,3 @@ and having a common language and framework will be very helpful going forward.
 **Who should read it?**  
 Any developer or designer that wants to work on user-facing products should read
 this book ASAP and then go try to implement the concepts in their own work.
-
-[link]: http://www.amazon.com/exec/obidos/ASIN/144934268X/ref=nosim&tag=bookreview0a1-20

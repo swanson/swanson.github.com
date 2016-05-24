@@ -1,14 +1,12 @@
 ---
-layout: post
+layout: writeup
 title: "Everyday Rails Testing with RSpec"
+full_title: "Everyday Rails Testing with RSpec: A practical approach to test-driven development"
+author: Aaron Sumner
+image: everyday-rails.png
+book_link: http://leanpub.com/everydayrailsrspec
 categories:
 - writeup
----
-
-![](/static/everyday-rails.png)  
-[Everyday Rails Testing with RSpec: A practical approach to test-driven development][link]   
-Aaron Sumner    
-
 ---
 
 **What's the point?**  
@@ -38,5 +36,3 @@ of a real Rails app.
 **Who should read it?**  
 Developers looking to get started with testing Rails applications using RSpec. You will
 probably want some background knowledge on using Rails before picking up this book.
-
-[link]: http://leanpub.com/everydayrailsrspec

@@ -1,16 +1,12 @@
 ---
-layout: post
+layout: writeup
 title: "How to Fail at Almost Everything and Still Win Big"
+author: Scott Adams
+isbn: 1591846919
+image: scott-adams.jpg
 categories:
 - writeup
 favorite: true
----
-
-![](/static/scott-adams.jpg)  
-[How to Fail at Almost Everything and Still Win Big][link]   
-Scott Adams  
-ISBN: 1591846919
-    
 ---
 
 **What's the point?**  
@@ -44,6 +40,4 @@ potential readers). Personally, I really enjoyed the tangents.
 **Who should read it?**  
 The book is a quick read, pretty funny, and has enough practical advice for me to give it
 a good recommendation.
-
-[link]: http://www.amazon.com/exec/obidos/ASIN/B00COOFBA4/ref=nosim&tag=bookreview0a1-20
 

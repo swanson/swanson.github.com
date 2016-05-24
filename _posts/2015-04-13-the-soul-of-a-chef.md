@@ -1,17 +1,13 @@
 ---
-layout: post
+layout: writeup
 title: "The Soul of a Chef"
+full_title: "The Soul of a Chef: The Journey Toward Perfection"
+author: Michael Ruhlman
+isbn: 0141001895
+image: soul-of-a-chef.jpg
 categories:
 - writeup
 favorite: true
----
-
-
-![]({{site.url}}/static/soul-of-a-chef.jpg)  
-[The Soul of a Chef: The Journey Toward Perfection][link]   
-Michael Ruhlman  
-ISBN: 0141001895  
-    
 ---
 
 **What's the point?**  
@@ -36,6 +32,4 @@ One of my favorite quotes:
 
 **Who should read it?**  
 I'll recycle my own recommendation of Ruhlman's previous book: if you have any interest in food (even if you just watch *Top Chef*) you will like this book.
-
-[link]: http://www.amazon.com/exec/obidos/ASIN/0141001895/ref=nosim&tag=bookreview0a1-20
 

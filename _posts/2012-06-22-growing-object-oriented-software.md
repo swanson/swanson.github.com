@@ -1,16 +1,12 @@
 ---
-layout: post
+layout: writeup
 title: "Growing Object Oriented Software, Guided By Tests"
+author: Steve Freeman and Nat Pryce
+isbn: 0321503627
+image: goos-gbt.jpg
 categories:
 - writeup
 favorite: true
----
-
-![](/static/goos-gbt.jpg)  
-[Growing Object-Oriented Software Guided by Tests][link]   
-Steve Freeman and Nat Pryce       
-ISBN: 0321503627
-
 ---
 
 **What's the point?**  
@@ -37,5 +33,3 @@ and material is very relevant to the current fascination with OO design.
 This is a great mid-to-advanced level book on TDD. I don't know if I would recommend 
 it to someone completely new to the topic; but for someone with a bit of experience,
 this is the book you want to read.
-
-[link]: http://www.amazon.com/exec/obidos/ASIN/0321503627/ref=nosim&tag=bookreview0a1-20

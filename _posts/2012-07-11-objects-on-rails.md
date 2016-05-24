@@ -1,14 +1,12 @@
 ---
-layout: post
+layout: writeup
 title: "Objects on Rails"
+full_title: "Objects on Rails: Notes on flexible web application design"
+author: Avdi Grimm
+image: objects-on-rails.jpg
+book_link: http://objectsonrails.com/
 categories:
 - writeup
----
-
-![](/static/objects-on-rails.jpg)  
-[Objects on Rails: Notes on flexible web application design][link]   
-Avdi Grimm       
-
 ---
 
 **What's the point?**  
@@ -36,6 +34,4 @@ injection, aggregate root) fit into a Rails app.
 **Who should read it?**  
 Anyone with interest in the on-going "how to do OO in Rails" debate; 
 basic-to-intermediate Rails knowledge required to get the most out of this book
-
-[link]: http://objectsonrails.com/
 

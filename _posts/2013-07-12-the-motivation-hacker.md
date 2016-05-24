@@ -1,15 +1,11 @@
 ---
-layout: post
+layout: writeup
 title: "The Motivation Hacker"
+author: Nick Winter
+image: motivation-hacker.jpg
+book_link: https://amzn.com/B00C8N4FNK?tag=mdswanson-20
 categories:
 - writeup
----
-
-
-![](/static/motivation-hacker.jpg)  
-[The Motivation Hacker][link]   
-Nick Winter   
-    
 ---
 
 **What's the point?**  
@@ -45,5 +41,3 @@ splash of psychology thrown in, but I thought this was a very refreshing and
 practical look at motivation. If you have set goals in the past and not achieved
 them, I think you can use the Motivation Equation to explain (or at least 
 rationalize!) why you went off the rails.
-
-[link]: http://www.amazon.com/exec/obidos/ASIN/B00C8N4FNK/ref=nosim&tag=bookreview0a1-20

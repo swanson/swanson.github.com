@@ -1,15 +1,11 @@
 ---
-layout: post
+layout: writeup
 title: The Art of Readable Code
+author: "Dustin Boswell, Trevor Foucher"
+isbn: 0596802293
+image: art-of-readable-code.png
 categories:
 - writeup
----
-
-![](/static/art-of-readable-code.png)  
-[The Art of Readable Code](http://www.amazon.com/exec/obidos/ASIN/0596802293/ref=nosim&tag=bookreview0a1-20)  
-Dustin Boswell, Trevor Foucher   
-ISBN: 0596802293
-
 ---
 
 **What's the point?**  

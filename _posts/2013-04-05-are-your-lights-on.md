@@ -1,16 +1,13 @@
 ---
-layout: post
+layout: writeup
 title: "Are Your Lights On?"
+full_title: "Are Your Lights On?: How to Figure Out What the Problem Really Is"
+author: "Donald Gause, Gerald Weinberg"
+isbn: 0932633161
+image: lights-on.jpg
 categories:
 - writeup
 favorite: true
----
-
-![](/static/lights-on.jpg)  
-[Are Your Lights On?: How to Figure Out What the Problem Really Is][link]   
-Donald Gause, Gerald Weinberg    
-ISBN: 0932633161    
-
 ---
 
 **What's the point?**  
@@ -64,4 +61,3 @@ programming books][dhh] and I am really glad I read it. It is a short book
 dealing with arguments about solutions or confusion about problems.
 
 [dhh]: http://37signals.com/svn/posts/3375-the-five-programming-books-that-meant-most-to-me
-[link]: http://www.amazon.com/Are-Your-Lights-On-ebook/dp/B004WOXYV2/ref=nosim&tag=bookreview0a1-20

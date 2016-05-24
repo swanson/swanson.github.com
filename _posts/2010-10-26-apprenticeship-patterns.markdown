@@ -1,15 +1,13 @@
 ---
-layout: post
+layout: writeup
 title: Apprenticeship Patterns
+full_title: "Apprenticeship Patterns: Guidance for Aspiring Software Craftsman"
+author: "Dave Hoover, Adewale Oshineye"
+isbn: 0596518382
+image: apprenticeship-patterns.png
 categories:
 - writeup
 favorite: true
----
-![](/static/apprenticeship-patterns.png)  
-[Apprenticeship Patterns: Guidance for Aspiring Software Craftsman](http://www.amazon.com/exec/obidos/ASIN/0596518382/ref=nosim&tag=bookreview0a1-20)  
-Dave Hoover, Adewale Oshineye  
-ISBN: 0596518382
-
 ---
 
 **What's the point?**

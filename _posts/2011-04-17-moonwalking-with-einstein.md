@@ -1,14 +1,12 @@
 ---
-layout: post
+layout: writeup
 title: Moonwalking with Einstein
+full_title: "Moonwalking with Einstein: The Art and Science of Remembering Everything"
+image: moonwalking-with-einstein.jpg
+author: Joshua Foer
+isbn: 9781594202292
 categories:
 - writeup
----
-![](/static/moonwalking-with-einstein.jpg)  
-[Moonwalking with Einstein: The Art and Science of Remembering Everything](http://www.amazon.com/exec/obidos/ASIN/0143120530/ref=nosim&tag=bookreview0a1-20)  
-Joshua Foer  
-ISBN: 9781594202292
-
 ---
 
 **What's the point?**   

@@ -1,15 +1,12 @@
 ---
-layout: post
+layout: writeup
 title: "Technical Blogging"
+full_title: "Technical Blogging: Turn Your Expertise into a Remarkable Online Presence"
+author: Antonio Cangiano
+isbn: 1934356883
+image: technical-blogging.jpg
 categories:
 - writeup
----
-
-![](/static/technical-blogging.jpg)  
-[Technical Blogging: Turn Your Expertise into a Remarkable Online Presence][link]   
-Antonio Cangiano    
-ISBN: 1934356883    
-
 ---
 
 **What's the point?**  
@@ -34,5 +31,3 @@ blogging (building an audience, becoming an expert in the field).
 Overall, I think the book would be very useful for someone interested in blogging that
 didn't know where to begin. For people that already have a blog, you can probably skim a
 few of the later sections and skip the rest.
-
-[link]: http://www.amazon.com/exec/obidos/ASIN/1934356883/ref=nosim&tag=bookreview0a1-20

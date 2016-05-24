@@ -1,17 +1,13 @@
 ---
-layout: post
+layout: writeup
 title: "Think Like a Chef"
+image: think-like-a-chef.jpg
+author: Tom Colicchio
+isbn: 0307406954
 categories:
 - writeup
 tags:
 - tangential
----
-
-![]({{site.url}}/static/think-like-a-chef.jpg)  
-[Think Like a Chef][link]   
-Tom Colicchio  
-ISBN: 0307406954   
-    
 ---
 
 **What's the point?**  
@@ -39,5 +35,3 @@ Component Cooking seemed natural for software. Whether you think about more form
 
 **Who should read it?**  
 I actually just skimmed over the actual recipes in the book (working through them all would likely take months), but I appreciated reading this book. If nothing else, it got me thinking about alternative metaphors for talking about software.
-
-[link]: http://www.amazon.com/exec/obidos/ASIN/0307406954/ref=nosim&tag=bookreview0a1-20

@@ -1,14 +1,11 @@
 ---
-layout: post
+layout: writeup
 title: Startups Open Sourced
+author: Jared Tame
+image: startups-opensourced.png
+book_link: http://www.startupsopensourced.com
 categories:
 - writeup
----
-
-![](/static/startups-opensourced.png)  
-[Startups Open Sourced](http://www.startupsopensourced.com/)  
-Jared Tame
-
 ---
 
 **What's the point?**  
