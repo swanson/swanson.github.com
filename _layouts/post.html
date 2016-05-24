@@ -6,18 +6,14 @@ layout: default
 
 <article>
   <h1 class="title">
-    {% if page.categories contains "writeup" %}
-      "{{ page.title }}" Book Writeup
-    {% else %}
-      {{ page.title }}
-    {% endif %}
+    {{ page.title }}
   </h1>
 
   {% assign tag_count = page.tags | size %}
   <p class="subtitle">
     {% if page.subtitle %}
       <span>{{ page.subtitle }}</span>
-    {% elsif page.categories contains "writeup" or tag_count == 0 %}
+    {% elsif tag_count == 0 %}
       <span>{{ page.date | date: "%B %d, %Y" }}</span>
     {% else %}
       <span>
@@ -41,12 +37,7 @@ layout: default
     {% endif %}
   </p>
 
-  {% if page.categories contains "writeup" %}
-    <div id="writeup">{{ content }}</div>
-  {% else %}
-    <div id="post">{{ content }}</div>
-  {% endif %}
-      
+  <div id="post">{{ content }}</div>      
 
   {% unless page.skip_footer %}
     <hr class="fin"/>
