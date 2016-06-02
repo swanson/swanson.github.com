@@ -62,7 +62,7 @@ I made my entry based on incomplete data. I selected my picks with only 35 of th
 
 Since the arbitrage model says that there is no inefficiency to exploit for tier 3 drivers (all negative), I opted to look at other metrics for my tier 3 pick. Going solely off of Vegas odds, Rahal was the clear best option (his ~6% chance to win was double the next best option). This turned out to be a great pick as Rahal finished 14th (best among tier 3 drivers).
 
-In the end, I used the arbitrage model for my tier 1 pick (Rossi), my adjusted heuristic (Vegas odds) for my tier 3 pick (Rahal), and an gut-feel pick for tier 2 (Montoya). My thinking was that I would make two safer picks for tier 2/3 and go with the arbitrage exploit for my tier 1 pick, but the end result was not successful.
+In the end, I used the arbitrage model for my tier 1 pick (Rossi), my adjusted heuristic (Vegas odds) for my tier 3 pick (Rahal), and a gut-feel pick for tier 2 (Montoya). My thinking was that I would make two safer picks for tier 2/3 and go with the arbitrage exploit for my tier 1 pick, but the end result was not successful.
 
 My entry: Rossi/Montoya/Rahal
 Score: 1 + 33 (no!!) + 14 = 48
