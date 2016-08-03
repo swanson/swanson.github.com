@@ -11,11 +11,11 @@ I find it easy to rattle off a few marketing ideas for software products. I've r
 
 Got a product for agile development teams? Why not just run some LinkedIn ads that target scrum masters at software companies? Boom. You are welcome for this brilliant insight.
 
-I think about this stuff periodically but I have no time or explicit permission to actually implement it. But the implementation is straightforward, right? Just run the campaign, users sign up, repeat.
+I think about this stuff periodically but I usually had no time or explicit permission to actually implement it when I was working on client projects. But the implementation is straightforward, right? Just run the campaign, users sign up, repeat.
 
 Except this kind of backseat marketing is only surface-level deep.
 
-For the product I'm running -- [MoraleApp, the no-hassle team morale tracker][morale] -- I now have the opportunity to go do these "quick win" marketing tactics. And I immediately started realizing the amount of oversimplification I had been doing and how much hubris I had.
+But now, I'm running a product -- [MoraleApp, the no-hassle team morale tracker][morale] -- and I have the opportunity to go do these "quick win" marketing tactics. And I immediately started realizing the amount of oversimplification I had been doing and how much hubris I had.
 
 ---
 
