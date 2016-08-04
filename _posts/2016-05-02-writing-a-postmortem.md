@@ -62,6 +62,6 @@ Reliably sending emails is a core piece of our application. When we don't send o
 
 We will use this incident as an opportunity to improve. Thank you for your continued support, please contact me directly if you have any additional questions.
 
-[morale]: https://moraleapp.com/
+[morale]: https://moraleapp.com/?utm_source=mdswanson
 [comp]: http://mdswanson.com/writeup/2012/10/29/complications.html
 [travis]: https://blog.travis-ci.com/2014-06-26-three-ingredients-to-a-great-postmortem/
