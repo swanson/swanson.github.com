@@ -73,7 +73,7 @@ Had I used my tier 3 heuristic and the full data model, I could have settled on 
 
 ---
 
-As with any kind of predictive modeling, we can only play the percentages. In reality, a discrete event happens and we get a result -- a result that might not be what we hoped for. In this case, the model predictions were very strong, but the race results could easily have been this whole effort look foolish. 
+As with any kind of predictive modeling, we can only play the percentages. In reality, a discrete event happens and we get a result -- a result that might not be what we hoped for. In this case, the model predictions were very strong, but the race results could easily have been different and this whole effort look foolish. 
 
 All we can do is increase the chances of success and, in the immortal words of Antifragile Sports Analytics Based God Sam Hinkie, [trust the process][tp]. #TrustTheProcess
 
