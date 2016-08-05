@@ -31,7 +31,7 @@ I used [Zapier][zap] and Drifts custom integration so every time a customer star
 
 The other concern I had was my availability: am I going to have a bunch of people trying to chat at 3am while I'm sleeping? What if I'm in a meeting or on a call?
 
-It turns out that customizable "Hours of Availability" are a standard feature for all the live chat services. I can allow live chats during normal work hours, but outside of that the widget displays an offline message (but still can collect async messages that I can reply to later via email).
+It turns out that customizable "Hours of Availability" are a common feature for all the live chat services. I can allow live chats during normal work hours, but outside of that the widget displays an offline message (but still can collect async messages that I can reply to later via email).
 
 ![Closed for business]({{site.url}}/static/morale-chat-offline.png)
 
