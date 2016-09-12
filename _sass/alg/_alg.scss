@@ -279,6 +279,11 @@ footer {
 }
 
 #post {
+  img.emoji {
+    margin: 0;
+    display: inline;
+  }
+  
   img {
     margin: 0 auto;
     display: block;

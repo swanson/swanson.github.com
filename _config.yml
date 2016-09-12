@@ -6,3 +6,4 @@ kramdown:
 exclude: ["CNAME", "README.md", "Rakefile", "generate.rb", "Gemfile", "Gemfile.lock"]
 gems:
   - jekyll-sitemap
+  - jemoji

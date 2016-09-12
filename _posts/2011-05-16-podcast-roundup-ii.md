@@ -3,6 +3,8 @@ layout: post
 title: Podcast Roundup II
 categories:
 - blog
+tags:
+- misc
 ---                                                                 
 
 I've found a couple new podcasts that I have been listening to and wanted to share. I am

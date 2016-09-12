@@ -3,6 +3,8 @@ layout: post
 title: Podcast Roundup
 categories:
 - blog
+tags:
+- misc
 ---
 
 I have a confession to make...I am a podcast-aholic.  I have a 30 minute commute to and from the office every day
