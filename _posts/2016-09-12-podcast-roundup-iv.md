@@ -13,9 +13,10 @@ But podcasts are the greatest so here is an updated list of newish podcasts I th
 
 ## Seeking Wisdom
 **Hosts:** David Cancel, Dave Gerhardt
+
 **Topics:** product development, career growth
 
-[Seeking Wisdom][sw] is short but sweet. Each episode is between 15-30 minutes, but they pack a big punch. Their is usually a singular topic for each show and David and other dude share their personal take on it.
+[Seeking Wisdom][sw] is short but sweet. Each episode is between 15-30 minutes, but they pack a big punch. Their is usually a singular topic for each show and David and Dave share their personal take on it.
 
 Why should you care? 
 
@@ -26,6 +27,7 @@ Why should you care?
 
 ## The Intern
 **Hosts:** Allison Behringer
+
 **Topics:** serialized podcast about a woman breaking into the startup world
 
 [The Intern][int] -- not to be confused with that [Anne Hathaway/Robert De Niro movie][lol] that was secretly kinda good -- is a well-produced, documentary style podcast about a woman trying to find her way in the New York startup scene. Allison gets hired as an intern at a [tech accelerator][bw] and is tasked with making a podcast about the company. (Aside: I'm a sucker for meta-media like this -- a podcast about someone trying to start a podcast).
