@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Closing Down a Product"
+title: "Closing Down a Product, Gracefully"
 categories:
 - blog
 tags:
