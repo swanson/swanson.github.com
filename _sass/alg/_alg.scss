@@ -356,3 +356,17 @@ footer {
     font-weight: 700;
   }
 }
+
+.email-snippet {
+  border: 1px solid $light-gray;
+  padding: 15px;
+  background-color: transparentize($base-font-color, 0.9);
+
+  a {
+    color: blue;
+  }
+
+  ul {
+    margin-left: 35px;
+  }
+}
