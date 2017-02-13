@@ -81,6 +81,6 @@ One thing I'd like to improve is telling a better story around the data. I think
 Like every marketing channel, there is no silver bullet. But so far, this has been the most successful mechanism for my product. It was hard work -- I always find writing prose to be more draining than writing code -- but I was happy with the result.
 
 [pcp]: https://priceonomics.com/the-content-marketing-handbook/
-[blog]: http://blog.moraleapp.com/crunch-time.html
+[blog]: /blog/2017/02/13/how-much-does-crunch-time-hurt-team-morale.html
 [ma]: /morale/
 [sep]: http://www.sep.com/
