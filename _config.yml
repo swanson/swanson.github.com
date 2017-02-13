@@ -4,6 +4,7 @@ kramdown:
   input: GFM
   hard_wrap: false
 exclude: ["CNAME", "README.md", "Rakefile", "generate.rb", "Gemfile", "Gemfile.lock"]
+include: ["_pages"]
 gems:
   - jekyll-sitemap
   - jemoji
