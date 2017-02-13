@@ -21,7 +21,7 @@ Since {{ site.posts.last.date | date: "%B %d, %Y" }}, I've written {{ totalwords
 <ul>
     {% assign date = currentdate %}
   {% endif %}
-  <li {% if post.favorite %}class="favorite"{% endif %}>
+  <li {% if post.favorite and post.layout != "writeup" %}class="favorite"{% endif %}>
     <a href="{{ post.url }}">{{ post.title }}</a>
   </li>
   {% if forloop.last %}</ul>{% endif %}
