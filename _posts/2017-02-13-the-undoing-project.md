@@ -11,7 +11,7 @@ categories:
 
 **What's the point?**
 
-"The Undoing Project" is a look at the research partnership of Daniel Kahneman and Amos Tversky -- a pair of Israeli psychologists that have done groundbreaking work on how humans make decisions. The book explores how the complementary personalities of Kahneman and Tversky lead them to start collaborating, excel, and ultimately drift apart. 
+"The Undoing Project" is a look at the research partnership of Daniel Kahneman and Amos Tversky -- a pair of Israeli psychologists that have done groundbreaking work on how humans make decisions. The book explores how the complementary personalities of Kahneman and Tversky led them to start collaborating, excel, and ultimately drift apart. 
 
 **What are my takeaways?**
 
