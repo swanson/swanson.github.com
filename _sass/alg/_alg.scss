@@ -370,3 +370,38 @@ footer {
     margin-left: 35px;
   }
 }
+
+.footnotes {
+  font-size: 12px;
+  border-top: 1px solid $light-gray;
+  padding-top: 10px;
+}
+
+.caption {
+  text-align: center;
+  font-style: italic;
+  font-size: 16px;
+  padding-bottom: 10px;
+}
+
+table {
+  border: 1px solid #373737;
+  border-radius: 2px;
+  margin-bottom: 20px;
+  text-align: left;
+  margin-left: auto;
+  margin-right: auto;
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+th {
+  padding: 10px;
+  background: #373737;
+  color: #fff;
+}
+
+td {
+  padding: 10px;
+  border: 1px solid #373737;
+}

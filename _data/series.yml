@@ -26,6 +26,11 @@
     contexts
   tag_name: reflections
 
+- name: Data Science Lite
+  desc: |
+    Flailing around with data and trying to make sense of it all
+  tag_name: data_sci
+
 - name: Tangential
   desc: |
     The intersection of software and other crafts &amp; 

@@ -5,6 +5,7 @@ categories:
 - blog
 tags:
 - tangential
+- data_sci
 ---
 
 We run an Indy 500 pool at my office every year. Because I am both a fantasy sports degenerate and a software engineer, it was inevitable that I would try way too hard to win. The result was a arbitrage prediction model that I built to help me crush the competition.
