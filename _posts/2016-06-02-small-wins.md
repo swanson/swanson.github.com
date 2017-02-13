@@ -55,4 +55,4 @@ I still struggle a bit with direction: there is so much I could be doing, but no
 [td]: http://mdswanson.com/blog/2016/04/22/compounding-technical-debt.html
 [tb]: https://robots.thoughtbot.com/how-we-test-rails-applications
 [mg]: http://edgeguides.rubyonrails.org/upgrading_ruby_on_rails.html
-[morale]: https://moraleapp.com/?utm_source=mdswanson
+[morale]: /morale/

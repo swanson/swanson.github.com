@@ -78,8 +78,8 @@ MoraleApp Founder
 </p>
 </div>
 [sk]: http://mdswanson.com/blog/2016/01/25/sell-or-kill.html
-[morale]: https://moraleapp.com
-[sd]: https://moraleapp.com/shutdown
+[morale]: /morale/
+[sd]: /morale/
 [ij]: https://ourincrediblejourney.tumblr.com/
 [mig]: https://blog.teammood.com/en/2016/10/05/moraleapp-is-shutting-down.html
 

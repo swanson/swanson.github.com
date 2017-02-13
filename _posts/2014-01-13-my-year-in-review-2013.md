@@ -34,7 +34,7 @@ I spent some time writing some general "tips" and making them show up when a
 team isn't doing great.
 
 [m]: https://twitter.com/mumau
-[morale]: https://www.moraleapp.com/
+[morale]: /morale/
 
 Mike and I both struggled with momentum on MoraleApp; we both have other duties so
 it makes it tough to try to build a product at the same time. And when we did

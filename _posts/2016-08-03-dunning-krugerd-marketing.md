@@ -81,5 +81,5 @@ The [Dunning-Kruger effect][dk] rears its ugly head once again.
 
 If you need me, I'll be in the breakroom eating Humble Pie while my new ad campaign sits in the "Pending Approval" queue.
 
-[morale]: https://moraleapp.com/?utm_source=mdswanson
+[morale]: /morale/
 [dk]: https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect

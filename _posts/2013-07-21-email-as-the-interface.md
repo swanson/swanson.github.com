@@ -83,7 +83,7 @@ people's everyday usage.
 So while a committee argues about the OAuth3 spec, I'll be building something cool that's coming 
 to your inbox soon.
 
-[morale]: https://moraleapp.com/?utm_source=mdswanson
+[morale]: /morale/
 [md]: http://mandrill.com/pricing/
 [sc]: https://developers.google.com/gmail/schemas/
 

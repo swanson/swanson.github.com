@@ -53,7 +53,7 @@ Ultimately, I can't provide a great live chat support experience because I can't
 
 The insights gained for being able to chat with a visitor looking at the product for the first time are still valuable, so I'll be trying a few tweaks to see if I can still support live chat at an acceptable level.
 
-[morale]: https://moraleapp.com/?utm_source=mdswanson
+[morale]: /morale/
 [int]: https://www.intercom.io/
 [dr]: https://www.drift.com/
 [zap]: https://zapier.com/

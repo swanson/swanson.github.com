@@ -82,5 +82,5 @@ Like every marketing channel, there is no silver bullet. But so far, this has be
 
 [pcp]: https://priceonomics.com/the-content-marketing-handbook/
 [blog]: http://blog.moraleapp.com/crunch-time.html
-[ma]: https://moraleapp.com
+[ma]: /morale/
 [sep]: http://www.sep.com/

@@ -35,5 +35,5 @@ So I had to get creative. We don't have great analytics in place, but we do have
 
 Aha! Firefox. I've got a new lead to follow. :)
 
-[morale]: https://moraleapp.com/?utm_source=mdswanson
+[morale]: /morale/
 [sf]: http://www.scientificamerican.com/article/mysteriously-powerful-particles-from-solar-explosions-unveiled-in-new-study/

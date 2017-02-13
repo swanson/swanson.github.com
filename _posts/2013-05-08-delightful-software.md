@@ -83,6 +83,6 @@ was this self-aware message in the footer &mdash; reminding myself to stop using
 [mission]: http://missionbelt.com/
 [gh]: http://greyhousecoffee.com/
 [hbr]: http://hbr.org/2010/07/stop-trying-to-delight-your-customers
-[morale]: https://moraleapp.com/?utm_source=mdswanson
+[morale]: /morale/
 [queuerunner]: https://github.com/swanson/queue-runner
 [stringer]: https://github.com/swanson/stringer

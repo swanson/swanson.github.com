@@ -73,7 +73,7 @@ I also collected free-form snippets that I can use to re-work marketing copy to 
 
 Multiple customers reported pain around printing reports; since they are using an older JavaScript charting library, I'm not surprised. Given that folks are using the morale data during retrospectives or putting it up on walls and kanban boards, printable reports should be improved.
 
-[morale]: https://moraleapp.com/?utm_source=mdswanson
+[morale]: /morale/
 [intra]: http://mdswanson.com/blog/2011/10/13/intrapreneurship-applying-the-lean-startup-to-internal-tools.html
 [gr]: http://giantrobots.fm/
 [tw]: https://twitter.com/_swanson/status/722120705870065665
