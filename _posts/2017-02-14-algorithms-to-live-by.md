@@ -26,7 +26,7 @@ Consider the following examples:
 
 If a boy is currently 6 years old, how long should we predict they will live if we know nothing else about them? Since we know life expectancy is a roughly normal distribution, we should predict they will live to be a little more than 78 (the average, plus a bit more since they aren't in the far-left tail).
 
-Now what if we need to predict how much a movie will gross at the box office given it did $12M in it's opening weekend? If we try to use the average like for predicting age, we will have a very high error because box office totals follow a power-law distribution. Instead, we should use a multiplicative factor.
+Now what if we need to predict how much a movie will gross at the box office given it did $12M in its opening weekend? If we try to use the average like for predicting age, we will have a very high error because box office totals follow a power-law distribution. Instead, we should use a multiplicative factor.
 
 I found the book to be really enjoyable and helped me breach topics that I had previously ignored because of a high barrier to entry. Coming from an engineering background (not a CS background), I really appreciate this style of teaching topics through practical examples.
 
