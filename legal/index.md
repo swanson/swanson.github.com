@@ -15,4 +15,4 @@ Disclaimer: Matt Swanson is a participant in the Amazon Services LLC Associates 
 The postings on this site are my own and don't necessarily represent my 
   employer’s positions, strategies or opinions.
 
-&copy; 2010&ndash;2015, Matt Swanson
+&copy; 2010 &ndash; {{ site.time | date: "%Y" }}, Matt Swanson
