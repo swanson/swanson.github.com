@@ -5,17 +5,18 @@ categories:
 - blog
 tags:
 - growth
-date: 2017-02-17
-published: false
+date: 2017-03-29
 ---
 
 A super tactical list for starting a [peer group][pg].
 
 ---
 
+## Organizing the group
+
 01. Pick two people (that you already know) that you want in the group -- invite them
 
-    > Hey, I'm organizing a peer group focusing on **mid-level technical leadership** (not CTO-level, but more then just a developer) -- are you interested in participating in a small group discussion with other local folks?
+    > Hey, I'm organizing a peer group focusing on **topic** -- are you interested in participating in a small group discussion with other local folks?
 
 01. Ask those people to recommend two people they want to be a part of the group -- invite them, too
 
@@ -33,17 +34,17 @@ A super tactical list for starting a [peer group][pg].
 
 01. Start on time and have everyone introduce themselves -- name, company, role, what they want to get out of the group
 
-01. Set the rules of engagement -- use [Chatham House Rule][ch] unless there is a strong opinion not to
+01. Set the rules of engagement -- use [Chatham House Rule][ch] unless there is a strong reason not to
 
-01. Explain the discussion format -- use [Lean Coffee][lc] unless there is a strong opinion not to
+01. Explain the discussion format -- use [Lean Coffee][lc] unless there is a strong reason not to
 
 01. Have a productive, educational, energizing, and cathartic discussion with your new peer group
 
-01. Get a volunteer to host next time (quarterly works well) and don't dismiss the meeting until someone other than you has committed
+01. Get a volunteer to host next time (quarterly works well)
 
 01. Email everyone thanking them for their participation and enjoy the rest of your day
 
-01. Repeat quarterly, expanding the group as necessary
+01. Repeat quarterly, expanding the group with new people as necessary
 
 ---
 
