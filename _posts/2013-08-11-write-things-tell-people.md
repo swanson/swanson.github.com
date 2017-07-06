@@ -48,7 +48,7 @@ year now.
 [spq]: http://mdswanson.com/blog/2012/03/01/my-side-project-queue.html
 [isl]: http://indystartuplab.org/
 
-Through that group, I've meet dozens of other developers and learned all about
+Through that group, I've met dozens of other developers and learned all about
 the cool stuff they work on. And it all started by just telling people what my 
 list of potential new projects was in a 500 word post.
 
