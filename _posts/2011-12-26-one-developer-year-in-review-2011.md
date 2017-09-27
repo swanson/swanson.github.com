@@ -109,6 +109,7 @@ I just deferred that until the last moment -- but once I reached the point when 
 the problem, I still didn't have a clue how to tackle it and lost interest.
 
 https://github.com/swanson/bibliotechnical
+
 ---
 
 ### LandingPad.rb - Status: <span style="color: green;">shipped</span>  
@@ -118,6 +119,7 @@ it is pretty simple to make your own. I open sourced my simple version that coll
 or Twitter handles which can be deployed to Heroku in just a few minutes.
 
 https://github.com/swanson/LandingPad.rb
+
 ---
 
 ### Netflix-it-now - Status: <span style="color: green;">Works on my Machine!</span>  
@@ -130,6 +132,7 @@ with support or making sure user data was absolutely secure so we never released
 public.
 
 https://github.com/swanson/netflix-it-now
+
 ---
 
 ### Lanyon - Status: <span style="color: goldenrod;">shelved</span>  
@@ -140,6 +143,7 @@ but I hasn't happy with the authentication options: Github supports OAuth, but n
 flow. So this project is shelved until that gets sorted out.
 
 https://github.com/swanson/lanyon
+
 ---
 
 ### Abe - Status: <span style="color: green;">shipped</span>  
@@ -147,6 +151,7 @@ https://github.com/swanson/lanyon
 inside joke. Pointless, but fun to make.
 
 http://abe.heroku.com/
+
 ---
 
 ### CloutBout - Status: <span style="color: green;">demoed</span>  
@@ -156,6 +161,7 @@ tagging, posting links, etc. I think it's a neat idea and we won a prize, but no
 had the time or desire to take it anywhere past the hackathon.
 
 https://github.com/swanson/cloutbout
+
 ---
 
 ### Dasher - Status: <span style="color: goldenrod;">ongoing</span>  
@@ -163,7 +169,6 @@ I've been working on and off with two coworkers to build a company dashboard wit
 that engineers might care about -- data like upcoming developer events, build server status, and
 a diagram of what projects everyone is working on.
 
-http://www.sep.com
 ---
 
 ### Morale - Status: <span style="color: green;">shipped</span>
@@ -174,6 +179,7 @@ positive. I am presenting the app to the whole company at a status meeting in Ja
 for it to be used company-wide and I think it will be a big help in gauging employee satisfaction.
 
 [he]: /blog/2011/10/13/intrapreneurship-applying-the-lean-startup-to-internal-tools.html
+
 ---
 
 ## Blog
