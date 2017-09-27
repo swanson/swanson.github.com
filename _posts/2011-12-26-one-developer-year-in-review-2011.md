@@ -11,7 +11,8 @@ This post is mainly for my own benefit -- I am repeatedly surprised by the pheno
 of gradual improvement and taking an hour to summarize my year always makes it clear how 
 much I have learned and grown as a developer.
 
-#Professional
+# Professional
+
 My first full calendar year working at [SEP][sep] was quite eventful. I spent the first 9 months
 continuing work on a long-running web application for an aerospace client. About half of the
 time I was working on new features in the ASP.NET MVC part of the app and the other half was
@@ -85,9 +86,10 @@ in a few key areas, I should be able to do it in 2012.
 
 ---
 
-#Personal
+# Personal
 
-##Community
+## Community
+
 I became a regular attendee and contributer to the Indy ALT.NET group. I gave four mini-talks
 (15-30 minutes): writing with Markdown, Dive into Node.js, Javascript visualization libraries, and 
 design shortcuts for weekend projects. The group is rebranding to [Indy Software Artisans][isa] and
@@ -95,9 +97,9 @@ I am slated to give a talk early in 2012.
 
 [isa]: http://indysa.org/
 
-##Personal Projects
+## Personal Projects
 
-###[Bibliotechnical][bt] - Status: <span style="color: red;">abandoned</span>  
+### Bibliotechnical - Status: <span style="color: red;">abandoned</span>  
 My first stab at building something for public use. The idea was to build a technical book
 aggregator that ranked books by metrics other than number of copies sold and star ratings. I
 would rank books on things like shelf life, practical vs theoretical, target developer skill
@@ -106,19 +108,19 @@ affiliate links. The main issue was that I had no idea how to rank the books tha
 I just deferred that until the last moment -- but once I reached the point when I needed to solve 
 the problem, I still didn't have a clue how to tackle it and lost interest.
 
-[bt]: https://github.com/swanson/bibliotechnical
+https://github.com/swanson/bibliotechnical
 ---
 
-###[LandingPad.rb][lp] - Status: <span style="color: green;">shipped</span>  
+### LandingPad.rb - Status: <span style="color: green;">shipped</span>  
 I extracted the landing page that I built for Bibliotechnical into a separate project. I didn't
 understand why developers were paying money to other startups to create a 'viral landing page' when
 it is pretty simple to make your own. I open sourced my simple version that collects email addresses
 or Twitter handles which can be deployed to Heroku in just a few minutes.
 
-[lp]: https://github.com/swanson/LandingPad.rb
+https://github.com/swanson/LandingPad.rb
 ---
 
-###[Netflix-it-now][nin] - Status: <span style="color: green;">Works on my Machine!</span>  
+### Netflix-it-now - Status: <span style="color: green;">Works on my Machine!</span>  
 Weekend project that I threw together with a friend. We were lamenting over IM one night
 that it was dumb that Netflix had an "Add to Instant Queue" button, but only for movies that were
 available to stream. If there was a movie that was only available on DVD, we wanted an option to
@@ -127,44 +129,44 @@ extension to solve the problem. It worked well enough for our own use, but we di
 with support or making sure user data was absolutely secure so we never released it to the general
 public.
 
-[nin]: https://github.com/swanson/netflix-it-now
+https://github.com/swanson/netflix-it-now
 ---
 
-###[Lanyon][lan] - Status: <span style="color: goldenrod;">shelved</span>  
+### Lanyon - Status: <span style="color: goldenrod;">shelved</span>  
 I wanted a way to write posts for my Github Pages-powered Jekyll blog when I wasn't on my main
 machine. The idea was to add a single page to my blog to write a post and then, using Javascript to 
 make calls to the Github API, generate a new commit and push it to my repository. I got it working
 but I hasn't happy with the authentication options: Github supports OAuth, but not a client-side
 flow. So this project is shelved until that gets sorted out.
 
-[lan]: https://github.com/swanson/lanyon
+https://github.com/swanson/lanyon
 ---
 
-###[Abe][abe] - Status: <span style="color: green;">shipped</span>  
+### Abe - Status: <span style="color: green;">shipped</span>  
 "Abraham Lincoln? Isn't he the President who..." -- A stupid one-page app based on a long-running 
 inside joke. Pointless, but fun to make.
 
-[abe]: http://abe.heroku.com/
+http://abe.heroku.com/
 ---
 
-###[CloutBout][cb] - Status: <span style="color: green;">demoed</span>  
+### CloutBout - Status: <span style="color: green;">demoed</span>  
 A fantasy football for Twitter app I built with some friends at the SocialDevCamp Chicago hackathon.
 The idea is to apply fantasy sports-style scoring to Twitter: so you get points for tweeting, hash
 tagging, posting links, etc. I think it's a neat idea and we won a prize, but no one on the team
 had the time or desire to take it anywhere past the hackathon.
 
-[cb]: https://github.com/swanson/cloutbout
+https://github.com/swanson/cloutbout
 ---
 
-###[Dasher][dash] - Status: <span style="color: goldenrod;">ongoing</span>  
+### Dasher - Status: <span style="color: goldenrod;">ongoing</span>  
 I've been working on and off with two coworkers to build a company dashboard with information
 that engineers might care about -- data like upcoming developer events, build server status, and
 a diagram of what projects everyone is working on.
 
-[dash]: http://www.sep.com
+http://www.sep.com
 ---
 
-###[Morale][morale] - Status: <span style="color: green;">shipped</span>
+### Morale - Status: <span style="color: green;">shipped</span>
 By far, my most successful side project of the year. I built a Rails app to track developer
 moods over the course of a project with a simple daily email. I wrote about it in more detail
 [here][he]. It's been used at work for around two months across three projects and feedback has been
@@ -172,10 +174,9 @@ positive. I am presenting the app to the whole company at a status meeting in Ja
 for it to be used company-wide and I think it will be a big help in gauging employee satisfaction.
 
 [he]: /blog/2011/10/13/intrapreneurship-applying-the-lean-startup-to-internal-tools.html
-[morale]: http://www.sep.com
 ---
 
-##Blog
+## Blog
 
 I made a bigger effort to add content to my blog this year. I wrote 21 blog posts and posted 
 reviews for eight books.
@@ -198,7 +199,7 @@ Not bad for a random developer in Indiana!
 
 ---
 
-#Closing Thoughts on 2011
+# Closing Thoughts on 2011
 It's hard to see your own improvement -- your day-to-day performance doesn't seem to be any 
 different. On the internet, it seems like everyone is doing cool stuff all the time and you are 
 falling behind. You aren't alone, I get this feeling all the time; we are always our own toughest
