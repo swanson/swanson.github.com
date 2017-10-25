@@ -16,7 +16,7 @@ I live and [work](http://www.sep.com/) in Indianapolis, IN. I went to school at 
 
 I'm always learning and trying to improve my craft; I consider writing software to be one of my most enjoyable hobbies and usually have some kind of side-project I'm hacking on. I come at problems with an Engineer's Mindset and am always striving to write clean, readable code.
 
-I run a monthly newsletter for Indiana developers ([Indy Hackers](http://indyhackers.org/)) and organize a weekly "get stuff done" group ([Indy Startup Lab](http://indystartuplab.org)). I'm a regular speaker at the local Ruby meetup ([IndyRB](http://indyrb.org)). I also help run an infrequent table tennis league for tech companies in the Indianapolis area ([ITTTL](http://itttl.org)). I spearheaded an [internal "Startup Weekend" event](http://www.sep.com/labs/startupweekend/) at SEP that has been going on for four years now.
+I help run a non-profit that helps connect local developers ([Indy Hackers](http://indyhackers.org/)).
 
 I watch way too much TV.
 
