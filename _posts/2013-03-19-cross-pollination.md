@@ -41,5 +41,5 @@ pair for an hour. I'd love for you to share what you learn with me someday.
 
 ---
 <div class="disclaimer">
-  <p>Psst, if you're in the Indianapolis area, come pair with me <a href="http://indystartuplab.org">any Monday night</a>.</p>
+  <p>Psst, if you're in the Indianapolis area, come pair with me <a href="https://indystartuplab.github.io/">any Monday night</a>.</p>
 </div>

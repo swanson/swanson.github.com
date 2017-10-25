@@ -56,7 +56,7 @@
         JSON API for the IndyHackers event calendar
 
     - name: Indy Startup Lab
-      url: http://indystartuplab.org
+      url: https://indystartuplab.github.io/
       blurb: >
         Weekly meetup for hackers to work on anything that needs doing
 

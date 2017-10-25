@@ -19,7 +19,7 @@ rain or shine. Recently, they switched all of their menus to digital,
 displaying the items on ten large vertical monitors.
 
 [m]: http://www.mcalistersdeli.com
-[sl]: http://indystartuplab.org
+[sl]: https://indystartuplab.github.io/
 
 Visually, they are pretty neat; lots of big pictures of the food and
 an attractive color scheme.

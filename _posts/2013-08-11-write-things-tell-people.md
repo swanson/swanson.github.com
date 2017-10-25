@@ -46,7 +46,7 @@ wound end up co-organizing a [weekly meetup][isl] that has been running for over
 year now.
 
 [spq]: http://mdswanson.com/blog/2012/03/01/my-side-project-queue.html
-[isl]: http://indystartuplab.org/
+[isl]: https://indystartuplab.github.io/
 
 Through that group, I've meet dozens of other developers and learned all about
 the cool stuff they work on. And it all started by just telling people what my 

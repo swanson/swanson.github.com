@@ -43,7 +43,7 @@ a mini CMS powered by YAML files. Sky's the limit now, folks!
 [op]: http://optipng.sourceforge.net/
 [blog]: http://mdswanson.com
 [isa]: http://indysa.org/
-[isl]: http://indystartuplab.org/
+[isl]: https://indystartuplab.github.io/
 [itttl]: http://itttl.org/
 [mpw]: http://mostpreciseweather.com/
 [df]: http://jekyllrb.com/docs/datafiles/
