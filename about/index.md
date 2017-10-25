@@ -16,7 +16,7 @@ I live and [work](http://www.sep.com/) in Indianapolis, IN. I went to school at 
 
 I'm always learning and trying to improve my craft; I consider writing software to be one of my most enjoyable hobbies and usually have some kind of side-project I'm hacking on. I come at problems with an Engineer's Mindset and am always striving to write clean, readable code.
 
-I help run a non-profit that helps connect local developers ([Indy Hackers](http://indyhackers.org/)).
+I help run a non-profit that connects local developers, designers, and product people in Indianapolis ([Indy Hackers](http://indyhackers.org/)).
 
 I watch way too much TV.
 
