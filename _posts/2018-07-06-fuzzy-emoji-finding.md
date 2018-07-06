@@ -21,7 +21,7 @@ So the goal: once a day, post a message to Slack with list of today's holidays (
 
 A Google search for `daily holidays` lead me to [Checkiday.com](https://www.checkiday.com/) -- a leading source of flimsy sourced holidays that I'm pretty sure are mostly made up.
 
-I first thought about writing a scrapper, but I found that our good friends over at Checkiday.com publish an RSS feed with the daily holidays: [https://www.checkiday.com/rss.php?tz=America/Indianapolis]()
+I first thought about writing a scraper, but I found that our good friends over at Checkiday.com publish an RSS feed with the daily holidays: [https://www.checkiday.com/rss.php?tz=America/Indianapolis]()
 
 ```ruby
 
