@@ -5,6 +5,7 @@ categories:
 - blog
 tags:
 - growth
+date: 2018-05-16
 ---
 
 I've been having conversations at [work][work] about how to evaluate software project opportunities for our firm.
