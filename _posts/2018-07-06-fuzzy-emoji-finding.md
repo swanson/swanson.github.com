@@ -201,7 +201,7 @@ And the finished bot:
 
 This was a very silly project, but it was really fun and I think it is illustrative of the type of work you can do to get a pretty good result with minimal effort.
 
-You can see the code here: [https://github.com/swanson/dumb-holidays]()
+You can see the code here: [https://github.com/swanson/dumb-holidays](https://github.com/swanson/dumb-holidays)
 
 Possible improvements and further over-engineering: stemming, better n-grams, ensemble fuzzy matching algorithms, better keyword corpus mapping, sentiment analysis, blockchain, :poop:
 
