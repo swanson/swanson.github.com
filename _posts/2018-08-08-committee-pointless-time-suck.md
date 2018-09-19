@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "This committee is a pointless time suck"
+date: 2018-09-19
 categories:
 - blog
 tags:
