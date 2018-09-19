@@ -21,7 +21,7 @@ So the goal: once a day, post a message to Slack with list of today's holidays (
 
 A Google search for `daily holidays` lead me to [Checkiday.com](https://www.checkiday.com/) -- a leading source of flimsy sourced holidays that I'm pretty sure are mostly made up.
 
-I first thought about writing a scraper, but I found that our good friends over at Checkiday.com publish an RSS feed with the daily holidays: [https://www.checkiday.com/rss.php?tz=America/Indianapolis]()
+I first thought about writing a scraper, but I found that our good friends over at Checkiday.com publish an RSS feed with the daily holidays: [https://www.checkiday.com/rss.php?tz=America/Indianapolis](https://www.checkiday.com/rss.php?tz=America/Indianapolis)
 
 ```ruby
 
@@ -69,7 +69,7 @@ end
 
 [Stop words](https://en.wikipedia.org/wiki/Stop_words) are common words that don't provide any semantic value to a chunk of text (words like "the", "and", "of", etc). These should be removed from the input to remove noise.
 
-I found a handy Ruby gem with a bunch of stopwords: [https://github.com/brez/stopwords]() so I added the gem and removed individual stop words from the holiday titles.
+I found a handy Ruby gem with a bunch of stopwords: [https://github.com/brez/stopwords](https://github.com/brez/stopwords) so I added the gem and removed individual stop words from the holiday titles.
 
 Another common operation is to remove domain specific stop words. If you were looking at medical data, you might remove common low-value words like "doctor", "dr", "patient", etc. In my case, I looked at a few days worth of holidays and made a custom stop list with words like "national", "day", "international", "festival", etc.
 
@@ -121,7 +121,7 @@ Take the :hamburger: emoji for instance. This is the right emoji to use for "ham
 
 If I tried to match "National Cheeseburger Awareness Day" it would probably find something like :cheese: instead of the :hamburger:, because computers are really dumb.
 
-Luckily, I found the Emojilib project: [https://github.com/muan/emojilib]() where the internet has lovingly added keywords to over 5000+ emojis.
+Luckily, I found the Emojilib project: [https://github.com/muan/emojilib](https://github.com/muan/emojilib) where the internet has lovingly added keywords to over 5000+ emojis.
 
 ```json
 
@@ -142,7 +142,7 @@ I downloaded the full listing of emojis and create a mapping of keywords to emoj
 
 Now that I've pruned the holidays down to the most relevant parts and I have a huge dictionary of keywords (and their corresponding emojis), it's time to find the closest match for each holiday.
 
-I grabbed the `fuzzy_match` gem: [https://github.com/seamusabshere/fuzzy_match]() which takes a "needle" and a "haystack" and then uses a few different algorithms to return the closest matching emoji keyword.
+I grabbed the `fuzzy_match` gem: [https://github.com/seamusabshere/fuzzy_match](https://github.com/seamusabshere/fuzzy_match) which takes a "needle" and a "haystack" and then uses a few different algorithms to return the closest matching emoji keyword.
 
 I ran the fuzzy matcher for each of our n-grams from above and picked the keyword with the highest matching score. If multiple items had exact matches (e.g. "chocolate" and "milk"), I picked the match that was the longest word. Why? I don't know, it seemed good.
 
@@ -201,7 +201,7 @@ And the finished bot:
 
 This was a very silly project, but it was really fun and I think it is illustrative of the type of work you can do to get a pretty good result with minimal effort.
 
-You can see the code here: [https://github.com/swanson/dumb-holidays]()
+You can see the code here: [https://github.com/swanson/dumb-holidays](https://github.com/swanson/dumb-holidays)
 
 Possible improvements and further over-engineering: stemming, better n-grams, ensemble fuzzy matching algorithms, better keyword corpus mapping, sentiment analysis, blockchain, :poop:
 
