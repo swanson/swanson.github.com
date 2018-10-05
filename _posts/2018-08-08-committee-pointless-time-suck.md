@@ -16,7 +16,7 @@ Here are some things I've been doing to keep my committees from becoming **point
 
 # Create a charter
 
-The biggest problem with committees is that they have no purpose. Not that they are *pointless*, but rather, the group does not clearly state *why* the formed and *what* they are trying to achieve.
+The biggest problem with committees is that they have no purpose. Not that they are *pointless*, but rather, the group does not clearly state *why* they formed and *what* they are trying to achieve.
 
 Spend time upfront figuring out what you are trying to do and then put it in writing to confirm everyone is actually on the same page. 
 
