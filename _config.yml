@@ -8,4 +8,12 @@ exclude: ["CNAME", "README.md", "Rakefile", "generate.rb", "Gemfile", "Gemfile.l
 include: ["_pages"]
 plugins:
   - jekyll-sitemap
+  - jekyll-feed
   - jemoji
+author:
+  name: Matt Swanson
+  email: matt@mdswanson.com
+  url: mdswanson.com
+title: Matt Swanson's Blog
+feed:
+  path: atom.xml
