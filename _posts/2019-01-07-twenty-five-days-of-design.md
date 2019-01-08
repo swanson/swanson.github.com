@@ -9,7 +9,7 @@ tags:
 
 I spent the month of December completing the [#DailyUI][du] challenges -- a series of design prompts.
 
-# Why?
+## Why?
 
 The idea of building things soup-to-nuts is very appealing to me. 
 
@@ -19,7 +19,7 @@ Not having to rely on others means that I have total control.
 
 I think I have good design taste, but I wanted to push myself to "prove it".
 
-# Selected samples
+## Selected samples
 
 I finished 25 design challenges over the month, all designed in [Figma][fg].
 
