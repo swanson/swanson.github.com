@@ -6,6 +6,6 @@ kramdown:
   hard_wrap: false
 exclude: ["CNAME", "README.md", "Rakefile", "generate.rb", "Gemfile", "Gemfile.lock"]
 include: ["_pages"]
-gems:
+plugins:
   - jekyll-sitemap
   - jemoji

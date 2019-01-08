@@ -1,13 +1,11 @@
 @import 'variables';
 @import 'syntax';
 
-html {
-  background-color: $accent-secondary;
-}
-
 body {
   border-top: 7px solid $accent-secondary;
+  border-bottom: 7px solid $accent-secondary;
   background-color: white;
+  min-height: 100vh;
 }
 
 header {
