@@ -10,7 +10,7 @@ date: 2018-05-16
 
 I've been having conversations at [work][work] about how to evaluate software project opportunities for our firm.
 
-We can talk about things like the what the project is, whether or not we think the client will be good to work with, or the size and budget of the company. These are all useful criteria when talking about during strategic sales discussions.
+We can talk about things like what the project is, whether or not we think the client will be good to work with, or the size and budget of the company. These are all useful criteria when talking about during strategic sales discussions.
 
 But something that I specifically have been asked to help with is how to determine if engineers would find the project enjoyable. Would it be fun to work on?
 
