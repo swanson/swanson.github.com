@@ -4,11 +4,13 @@ markdown: kramdown
 kramdown:
   input: GFM
   hard_wrap: false
-exclude: ["CNAME", "README.md", "Rakefile", "generate.rb", "Gemfile", "Gemfile.lock"]
+exclude:
+  ["CNAME", "README.md", "Rakefile", "generate.rb", "Gemfile", "Gemfile.lock"]
 include: ["_pages"]
 plugins:
   - jekyll-sitemap
   - jekyll-feed
+  - jekyll-seo-tag
   - jemoji
 author:
   name: Matt Swanson
