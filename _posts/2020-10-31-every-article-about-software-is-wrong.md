@@ -3,6 +3,8 @@ layout: post
 title: "Every article about software is wrong"
 categories:
   - blog
+tags:
+  - practices
 ---
 
 ## Advice without context
