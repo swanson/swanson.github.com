@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Every article about software is wrong"
+title: "All software advice is wrong"
 categories:
   - blog
 tags:
@@ -9,7 +9,7 @@ tags:
 
 ## Advice without context
 
-Every article about software is wrong. The reason is **context** -- or rather the lack of context.
+All software advice is wrong. The reason is **context** -- or rather the lack of context.
 
 Blog posts, articles, YouTube videos, Twitter threads, and conference talks rarely address the context in which the author is operating. Nuance is difficult to communicate and makes for less punchy writing (while also alienating audiences who realize "oh, that actually doesn't apply to me...").
 
@@ -65,4 +65,4 @@ When was the last time you read an article from someone that explains how they r
 
 ---
 
-Every article about software is wrong. I'll check the comments to see why this one is too.
+All software advice is wrong. I'll check the comments to see why this one is too.
