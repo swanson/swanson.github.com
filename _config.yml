@@ -14,8 +14,8 @@ plugins:
   - jemoji
 author:
   name: Matt Swanson
-  email: matt@mdswanson.com
-  url: mdswanson.com
+  email: swan3788@gmail.com
+  url: https://mdswanson.com
 title: Matt Swanson's Blog
 feed:
   path: atom.xml
