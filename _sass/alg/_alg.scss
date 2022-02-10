@@ -218,14 +218,9 @@ footer {
   }
 
   #bio-image img {
-    height: auto;
+    height: 100px;
     width: 100px;
-    max-width: none;
     display: block;
-  }
-
-  #bio-image {
-    padding-right: .8em;
   }
 
   #bio-image, #bio-text {
