@@ -6,17 +6,17 @@ skip_related: true
 
 Hi. I'm Matt Swanson.
 
-I'm a software engineer who values lightweight agile processes, TDD, and good design. But above all: shipping.
+I'm a product engineer who values lightweight processes, good design, and boring code.
 
-I enjoy building simple apps that people love using.
-
-I live and [work](http://www.sep.com/) in Indianapolis, IN. I went to school at [Purdue University](http://www.purdue.edu/) ([ECE &rsquo;10](https://engineering.purdue.edu/ECE)). I do a little bit of everything, but I'm happiest working with Ruby or Android.
+I live in Indianapolis, IN and currently work at [Arrows](https://arrows.to/). I studied engineering at [Purdue University](http://www.purdue.edu/) ([ECE &rsquo;10](https://engineering.purdue.edu/ECE)). I'm happiest working in Ruby on Rails.
 
 ---
 
-I'm always learning and trying to improve my craft; I consider writing software to be one of my most enjoyable hobbies and usually have some kind of side-project I'm hacking on. I come at problems with an Engineer's Mindset and am always striving to write clean, readable code.
+I write [Boring Rails](https://boringrails.com/) - a collection of articles, tips, and tricks for intermediate and advanced Rails development that sticks close to the default stack.
 
-I help run a non-profit that connects local developers, designers, and product people in Indianapolis ([Indy Hackers](http://indyhackers.org/)).
+For five years, I helped run a non-profit that connects local developers, designers, and product people in Indianapolis ([Indy Hackers](http://indyhackers.org/)).
+
+I love weird, niche sports leagues and have won over $15k playing Canadian (CFL) fantasy football.
 
 I watch way too much TV.
 
