@@ -34,7 +34,7 @@ Eventually, you'll have the opportunity to work on a project with good surface l
 
 You might work with an amazing spaceship startup and a cutting edge tech stack, but find that you are constantly blocked by external dependencies, expected to work overtime, and not given authority for important decisions that impact your team.
 
-This an extreme. But I have found that when I look back on my own career, there were projects that looked awesome on paper and turned out to be not so great (and vice-versa). Deep down we know this to be true; often how we feel about a project has little to do with the specific technology we are working with. 
+This is an extreme. But I have found that when I look back on my own career, there were projects that looked awesome on paper and turned out to be not so great (and vice-versa). Deep down we know this to be true; often how we feel about a project has little to do with the specific technology we are working with. 
 
 The foundational attributes of project enjoyment are deeper and more difficult to evaluate. We can try applying mental models like [Daniel Pink's motivation trio of autonomy, mastery, and purpose][pink].
 
